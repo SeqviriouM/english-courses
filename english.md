@@ -217,3 +217,83 @@ Autopilopts.
 
 ## Homework
 
+### Murphy. Unit 2. Present Simple.
+
+**ex 2.1**
+
+1. Tanya speaks German very well.
+2. I don't often drink coffee.
+3. The swimming pool opens at 7.30 every morning.
+4. Bad driving causes many accidents.
+5. My parents live in a very small flat.
+6. The Olympic Games takes place every four years.
+7. THe Panama Canal connects the Atlantic and Pacific Oceans.
+
+**ex 2.2**
+
+1. Julie doesn't drink tea very often.
+2. What time do the banks close here?
+3. I've got a car, but I don't use it much.
+4. Where does Ricardo come from? From Cuba.
+5. What do you do? I'm an electrican.
+6. It takes me an hour to get to work. How long does it take to you?
+7. Look at this sentence. What do this word mean?
+8. David isn't very fit. He doesn't do any sport.
+
+**ex 2.3**
+
+1. The earth goes round the sun.
+2. Rice doesn't grow in Britian.
+3. The sun rises in the east.
+4. Bees make honey.
+5. Vegetarians don't eat meat.
+6. An atherist doesn't believe in God.
+7. An interpreter translates from one language into another.
+8. Liars are people who don't tell the truth.
+9. The River Amazon flows into the Atlantic Ocean.
+
+**ex 2.4**
+
+1. You know that Lisa plays tennis. You want to know how often. Ask her. How often do you play tennis?
+2. Perhaps Lisa's siter plays tennis too. You want to know. Ask Lisa. How often does your sister play tennis.
+3. You know that Lisa reads a newspapper every day. You want to know which one. Ask her. Which newspaper do you read every day?
+4. You know that Lisa's brother works. You want to know what he does. Ask Lisa. What does your brother do?
+5. You know that Lisa goes to the cinema a lot. You want to know how often. Ask her. How often do you go to the cinema?
+6. You don't know where Lisa's grandparents live. You want to know. Ask Lisa. Where do your grandparents live?
+
+**ex 2.5**
+
+1. Mr Evans is not in the office today. I suggest you try calling him tomorrow.
+2. I won't tell anybody what you said. I promise.
+3. You must let me pay for the meal. I insist.
+4. I opologise for what I did. It won't happen again.
+5. The new restraunt in Hill Street isk very good. I recommend it.
+
+### The news
+
+**Missile threat alert for Hawaii false alarm**
+
+- credibility (доверие)
+
+The alert of an incoming ballistic missile was sent wrongly on Saturday (13 January 2018) morning by an emergency system worker. The alert system is in place because of the potential proximity of Hawaii to North Korean missiles.
+ 
+
+The computer system that allows the Hawaiian Emergency Management Agency (HEMA) to send emergency alerts asks employees to select the type of alert that they are sending from a drop-down menu.
+
+Among the options available are two for missile alerts, according to the Washington Post. One is labelled “test missile alert”, which will test the notification system is working without actually sending an alert to the public. The other is labelled “missile alert”. Selecting that option will send an alert to every mobile phone in Hawaii. That was the option the HEMA employee mistakenly selected.
+
+Mobile phone users received the message at 08:07 (18:07 GMT): "Ballistic missile threat inbound to Hawaii. Seek immediate shelter. This is not a drill."
+
+This message sparking panic amongst some residents. People was trying to find safe places. SOme of them sheltered in their houses. Drivers stoped their cars in tunnels. A lot of activities was canceled. I have read about 20 football matches was canceled. People prepared for real ballistic strike.
+
+Second emergency alert confirming the false alarm was sent to phones in Hawaii only 38 minutes after the initial message.
+
+A false alarm warning Hawaiians of an incoming ballistic missile on Saturday, was reportedly issued because of a “terribly designed” user interface. So this story describes how important to have user-friendly interface in military applications.
+
+
+Another concern after the false alarm is how people could react to the next emergency alert.
+
+
+### Introduce company
+
+We're multinational technology company specialized in internet-related services and products. We've been in business fo 19 years. We're located in the USA. Our main office (headquartes) in Mountain View, California.
