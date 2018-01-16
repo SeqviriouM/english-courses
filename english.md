@@ -99,7 +99,7 @@ C - good job, hard-working, focused on carier, serioues, bossy, reliable, high s
 7. energetic: get
 8. organized: org
 9. reliable (надежный): lia
-10. self-confident: sel - con
+10. self-confident: con
 11. generous (щедрый): gen
 12. creative: rea
 
@@ -144,16 +144,30 @@ Theese topic are about different living conditions.
 
 > How are these pictures similar/different?
 
+  
+
 > What are advantages and disadvantages of life in a countryside/big city?
+
+Advantage for one option will be disadvantage for another. 
+
+Advantage of coutryside is clean air and healthy food. Because you grow it by yourself you can be sure it doesn't containt GMO. 
+
+Advantage of big city is opportunity. There is a huge list of professions. You can find and do whatever you like: walking in parks, cycling, dances, various activities (concerts, shows, musicals and so on), mountain skiing, mountaineering, skating (even in summer),... 
 
 > Talk about a place where you live 
 
+I live in Moscow - capital of Russia.
+
 > Do you prefer to live in an old town or in a modern city?
+
+I prefer to live in modern city because I love technologies. And try to be aware of the latest inventions.
 
 > Which cities have the best bus services/taxis/metro?
 
+
 > What do you think should be done to improve living condition in cities?
 
+Autopilopts.
 
 ### Video
 
@@ -173,6 +187,33 @@ Theese topic are about different living conditions.
 - Artificial intelligence has no moral compas. So it can use all posibilities to achieve thier goals. We should solve this problem before wide using artificial intelligence.
 - The 1997 match was actually the second one between Kasparov and Deep Blue, a super computer designed by IBM and it was specialized in chess-playing
 - In 2015 AlphaGo (Google DeepMind invention) has beaten 9-dan professional in GO game. Go is an abstract strategy board game for two players, in which the aim is to surround more territory than the opponent. Compared to chess, Go has both a larger board with more scope for play and longer games, and, on average, many more alternatives to consider per move. The lower bound on the number of legal moves in Go has been estimated to be 2 x 10 ^ 170
-- Artificial intelligence can help humans in everyday tasks
+- Artificial intelligence can help humans in everyday tasks. For example there is neural network (can learn from thier mistakes - negative feedback) that can build applications (sites) depends on image (without business logic).
 - If implemented correctly it will be pretty safe (for example, if humans invent red button to turn it off)
 - Autopilot cars. I think it will be safer and faster to move in such cars because most of accidents occur due to human fault. Also computer surpassing human in computer power. So it can process more posible options to avoid a collision. But yes, sometimes it can make wrong choice (for example hit pedestrian to safe a driver)
+
+# Lesson 2
+
+- intelligent thinking - интеллектуальное мышление
+- intelligent - способность принимать решения
+- clever - умный, хитрый (clever as fox)
+- smart - смышленный (Our new specialist are smart)
+- smart ass - умник
+
+- armchair critic - диванный аналитик
+- busybody - сплетник, назойливый, хлопотун
+- cheapskate - скряга, скупой
+- couch potato - лежебока
+- down-to-earth - приземленный, реалистичный
+- behind the time - отсталый
+- fuddy-duddy - ворчун
+- go-getter - целеустремленный, предприимчивый
+- goody-to-shoes - паинка
+- good egg - славный малый, молодчина
+- social-butterfly - общительный
+- worrywart - беспокоящийся, паникер
+- slimeball - мерзавец
+- hook up with - замутить с
+
+
+## Homework
+
