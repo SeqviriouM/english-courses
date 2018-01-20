@@ -339,10 +339,16 @@ We're multinational technology company specialized in internet-related services 
 ## Homework
 
 - influential - влиятельный
+- tension - напряжение
+- anticipation - ожидание, предчувствие
+- approache - подход, метод, приближение, наступление
+- tears - слезы, разрыдаться
+- gradually - постепенно, последовательно, понемногу
 
 ### Workbook
 
 **ex. 6**
+ It obviously belongs to someone who walks into a room and likes everyone to know he's there. The way he uses the box tells me that he is quite sociable and outgoing. The signature looks fairly normal but the letters lean that way. If you combine that with the narrow gap between the words, then you have someone who is ambitious and self-confident. Finally, the way he finishes of the signature with the lines makes this person real extrovert 
 
 **ex. 7**
 
@@ -374,3 +380,52 @@ We're multinational technology company specialized in internet-related services 
 11. What did he try? He tried to interpret dreams.
 12. Which book did he write in 1957? He wrote The Undiscovered Self in 1957. 
 
+
+### Coursebook
+
+**ex. 9a**
+
+1. Hideo Nakata - Japanese film-maker, who became internationally famous when he directed two films Ring and Ring 2.
+2. Ring and Ring 2 - the most successful horror  films ever produced in Japan.
+3. Reiko Asakawa - a reporter in the first film (Ring), that tries to solve the mystery, but she also has only one week left to live after watching the film.
+4. Suzuki Koji - a book, the film RIng is based on. In the book the main character is male, but in film she is female.
+
+**ex. 9b**
+
+1. Why did you become a director?
+2. What was the last movie that you paid to see?
+3. What was the last movie you walked out of?
+4. What film-maker do you consider the most underrated?
+5. And which film-maker do you consider the most overrated?
+6. How seriously do you take reviews?
+7. What's your biggest regret?
+8. There are five minutes left till the end of the world - what do you do?
+
+**ex. 9c**
+
+Hideo Nakata has changed main character from male to female because he likes to focus on female personalities.
+
+### Business presentation
+
+- drum roll - барабанная дробь
+- unwritten - внегласный
+- convenient - удобный, комфортный
+- questionable - сомнительный, ненадежный
+- exceed - превышать, превосходить
+
+
+Hi everyone. First of all, let me thank you all for coming here today. But the truth is that you haven't other option.
+
+For those of you who don't know me (I hope there is not such persons here), my name is Roma. Besides working as frontend developer I'm also (drum roll ....) unwritten head of service Yandex Taxi. Today I'd like to give you overview of this service and tell about benefits of using it.
+
+I've divided my presentation into two main parts. So, let me first give you a brief review.
+
+In a huge metropolis life never stops even for a minute. People constantly go somewhere: to work, airport, railway station, concerts, and so on. And often moving in public transport is not very convenient (especially if you have  large bags or suitcase). So you decide to order taxi. But in the past process of ordering a taxi, especially at airports and railway stations was reduced to communicating with questionable persons. Constantly hear the phrases such as "Sit down, dear" or "Can you show the way?". To the question about how much it will cost you always heard the phrase "Don't worry, will reach an agreement."
+
+And here comes our product: Yandex Taxi (???). It allows to minimize the time of searching the car, because now it is the computer's task. All you need to do is open the application, select desired tariff (economy, business and premium) and destination point and place you order pressing the button "Order taxi". The computer receives your order, searches the nearest car to you depending on your location and sends notification to the driver. The driver receives the order with the point of passenger's location. On personal experience the waiting time does not exceed 5-6 minutes. Moreover payment can be done by cash or card. 
+
+In additional to this and considering our theme, I'd like to say that this service helps introverts to order taxi, because it minimizes communication with the driver (for the whole trip you can say no word).
+
+Finally, I think that's everything I wanted to say about Yandex Taxi. In conclusion I'd like to recommend to install our application if you haven't done it during my presentation and tell about special offer. If you install now Yandex Taxi you will get special luxury tariff that helps you to  make one trip on special car without traffic jam. Here's the photo of our special car: ---photo---
+
+That's all. Thanks for attetion. I'm glad to answer questions.
