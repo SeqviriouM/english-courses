@@ -297,3 +297,80 @@ Another concern after the false alarm is how people could react to the next emer
 ### Introduce company
 
 We're multinational technology company specialized in internet-related services and products. We've been in business fo 19 years. We're located in the USA. Our main office (headquartes) in Mountain View, California.
+
+# Lesson 3
+
+- mood - настроение
+- caress - ласка, ласкать
+- slither - скатываться, сползать
+- bonned - капот
+- auxiliary - глагол помошник
+- profoundly - глубоко, сильно
+- thrill - волноваться
+- fashinate - очаровывать
+- convince - убеждаьб
+- gallop - бежать быстро
+- crawl - ползать, ползти
+- unticipate - предвидеть, ожидать
+- bedevil - терзать, мучить
+- watershed - водораздел
+
+### Coursebook
+
+**ex. 3**
+
+1. What exactly does psychometrics mean?
+2. How did psychometrics testing start?
+3. How useful are the tests? 
+4. Are they reliable?
+4. What can personality test tell you about a person?
+5. Have you taken any of these tests yourself?
+5. What are you working on at the moment?
+
+## Business presentation
+
+**Presentation types:**
+
+- be strategic
+- know your material
+- capture attention (start presentation with story and anecdote)
+- read notes/plan of presentation
+
+## Homework
+
+- influential - влиятельный
+
+### Workbook
+
+**ex. 6**
+
+**ex. 7**
+
+1. How reliable are the tests you use?
+2. What exactly do psychiatrists do?
+3. Have you sone any of these exercises?
+4. Do you ever get impatient?
+5. Where are you from?
+6. Why are you changing jobs?
+7. Do they living in Thailand now?
+8. Does he expect to be late?
+9. Where is MIchael studying at the moment?
+10. How long have you lived here?
+11. When were you last in London?
+12. Does he easily annoyed?
+
+**ex. 8**
+
+1. Who was Carl Jung? Carl Jung was a Swiss psychiatrist.
+2. Where did he study? He studied medicine at the University of Basel.
+3. What did he specialize in? He specialized in psychiatric medicine.
+4. What did he develop? He developed ideas about personality types.
+5. How many tpersonality ypes did he identify? He identified two personality types.
+6. Who don't like large crowds? Introverts don't like large crowds.
+7. What do extroverts form? Extroverts form close relationships.
+8. How influential was Jung? Jung was very influential.
+9. Which tests are based on his theory? The Myers-Briggs and Keirsey tests are based on his theory.
+10. Which filmmaker did read his work? Stanly Kubrick read his work.
+11. What did he try? He tried to interpret dreams.
+12. Which book did he write in 1957? He wrote The Undiscovered Self in 1957. 
+
