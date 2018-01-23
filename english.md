@@ -422,10 +422,86 @@ I've divided my presentation into two main parts. So, let me first give you a br
 
 In a huge metropolis life never stops even for a minute. People constantly go somewhere: to work, airport, railway station, concerts, and so on. And often moving in public transport is not very convenient (especially if you have  large bags or suitcase). So you decide to order taxi. But in the past process of ordering a taxi, especially at airports and railway stations was reduced to communicating with questionable persons. Constantly hear the phrases such as "Sit down, dear" or "Can you show the way?". To the question about how much it will cost you always heard the phrase "Don't worry, will reach an agreement."
 
-And here comes our product: Yandex Taxi (???). It allows to minimize the time of searching the car, because now it is the computer's task. All you need to do is open the application, select desired tariff (economy, business and premium) and destination point and place you order pressing the button "Order taxi". The computer receives your order, searches the nearest car to you depending on your location and sends notification to the driver. The driver receives the order with the point of passenger's location. On personal experience the waiting time does not exceed 5-6 minutes. Moreover payment can be done by cash or card. 
+And here comes our product: Yandex Taxi. It allows to minimize the time of searching the car, because now it is the computer's task. All you need to do is open the application, select desired tariff (economy, business and premium) and destination point and place you order pressing the button "Order taxi". The computer receives your order, searches the nearest car to you depending on your location and sends notification to the driver. The driver receives the order with the point of passenger's location. On personal experience the waiting time does not exceed 5-6 minutes. Moreover payment can be done by cash or card. 
 
 In additional to this and considering our theme, I'd like to say that this service helps introverts to order taxi, because it minimizes communication with the driver (for the whole trip you can say no word).
 
-Finally, I think that's everything I wanted to say about Yandex Taxi. In conclusion I'd like to recommend to install our application if you haven't done it during my presentation and tell about special offer. If you install now Yandex Taxi you will get special luxury tariff that helps you to  make one trip on special car without traffic jam. Here's the photo of our special car: ---photo---
+Finally, I think that's everything I wanted to say about Yandex Taxi. In conclusion I'd like to recommend to install our application if you haven't done it during my presentation and tell about special offer. If you install now Yandex Taxi you will get special luxury tariff that helps you to  make one trip on special car without traffic jam. Here's the photo of our special car: 
+
+---photo---
 
 That's all. Thanks for attetion. I'm glad to answer questions.
+
+# Lesson 4
+
+- sheat of paper - лист бумаги
+- bully - издеваться, запугивать
+- fong of studing - быть привязанным
+- law-abiding - законопослушный
+- toes - пальцы на ногах
+
+**Fingers**:
+- big finger/thumb - большой палец
+- index finger - указательный палец
+- middle finger - средний палец
+- ring/fourth finder - безымянный палец
+- pinky/little finger - мизинец
+
+## Homework
+
+### Murphy. Unit 1. Present Continuous.
+
+**ex. 1.1**
+
+1. f
+2. e
+3. g
+4. a
+5. d
+6. h
+7. b
+8. c 
+
+**ex. 1.2**
+
+A: I saw Brian a few days ago.
+B: Oh, did you? What's he doing these days?
+A: He's at university.
+B: What's he studying?
+A: Psychology.
+B: Is he enjoying it?
+A: Yes, hes says it's a very good course.
+
+
+A: Hi, Nicola. How your new job is going?
+B: Not bad. It wasn't so good at first, but it's getting better.
+A: What about Daniel? Is he OK?
+B: Yes, but he isn't enjoying his work right now. He's been in the same job for a long time and he's begining to get bored with it.
+
+**ex. 1.3**
+
+1. Please don't make so much noise. I'm trying to work.
+2. Let's go out now. It isn't raining any more.
+3. You can turn off the radio. I am not listening to it.
+4. Kate phoned me last night. She's on holiday in France. She is having a great time and doesn't want to come back.
+5. I want to lose weight, so this week I am not eating lunch.
+6. Andrew has just started evening classes. He is learning Japanese.
+7. Paul and Sally have had an argument. They aren't speaking to each other.
+8. I'm getting tired. I need a rest.
+9. Tim isn't working today. He's taken the day off.
+10. I'm looking for Sophie. Do you know where she is?
+
+**ex. 1.4**
+
+1. The population of the world is increasing very fast.
+2. The world is changing. Things never stay yhe same.
+3. THe situation is already bad and it is getting worse/
+4. The cost of living is rising. Every year things are more expensive.
+5. The weather is starting to improve. The rain has stopped, and the wind isn't as strong.
+
+# Lesson 5
+
+> Thirty thousand thoughtless boys thought they would make a thundering noise. So the thirty thousand thumbs thumbed on the thirty thousand drums.
+
+
+
