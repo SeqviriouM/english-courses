@@ -504,4 +504,31 @@ B: Yes, but he isn't enjoying his work right now. He's been in the same job for 
 > Thirty thousand thoughtless boys thought they would make a thundering noise. So the thirty thousand thumbs thumbed on the thirty thousand drums.
 
 
+## Homework
 
+### Piece of news
+
+- dedicate - посвящать, уделять
+- precious - драгоценный, ценный
+- attempt - попытка, стремление, пытаться
+- urgent - срочный, экстренный
+- beneficial - выгодный, полезный, положительный
+- skim - бегло просомтреть
+
+#### Facebook created an AI tool that can prevent suicide**
+
+For many people who've dedicated their lives to preventing suicide, social media posts can be a precious dataset that contains hints about what people say and do before they attempt suicide. In the past few years, researchers have built algorithms to learn which words and emoji are associated with suicidal thoughts. 
+
+The technology, announced few months ago by Facebook, represents an unparalleled opportunity to understand and predict suicide risk. The tool's life-saving potential is huge. 
+
+**How it works**
+
+Facebook trained the AI (artificial intelligence) by finding patterns in the words and imagery used in posts that have been manually reported for suicide risk in the past. It also looks for comments like “Are you OK?” and “Do you need help?”
+
+Now, if someone is expressing thoughts of suicide in any type of Facebook post, Facebook’s AI will detect it and flag it to prevention-trained human moderators.
+
+When a report comes in, Facebook’s tech can highlight the part of the post or video that matches suicide-risk patterns or that’s receiving concerned comments. That avoids moderators having to skim through a whole video themselves. AI prioritizes users reports as more urgent than other types of content-policy violations
+
+Facebook’s tools then bring up local language resources from its partners, including telephone hotlines for suicide prevention and nearby authorities. The moderator can then contact the responders and try to send them to the at-risk user’s location, surface the mental health resources to the at-risk user themselves or send them to friends who can talk to the user.
+
+But this idea of Facebook proactively scanning the content of people’s posts could trigger some fears about how else the technology could be applied. There are certainly massive beneficial aspects about the technology, but it’s another space where we have little choice but to hope Facebook doesn’t go too far.
