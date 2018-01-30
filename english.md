@@ -532,3 +532,7 @@ When a report comes in, Facebook’s tech can highlight the part of the post or 
 Facebook’s tools then bring up local language resources from its partners, including telephone hotlines for suicide prevention and nearby authorities. The moderator can then contact the responders and try to send them to the at-risk user’s location, surface the mental health resources to the at-risk user themselves or send them to friends who can talk to the user.
 
 But this idea of Facebook proactively scanning the content of people’s posts could trigger some fears about how else the technology could be applied. There are certainly massive beneficial aspects about the technology, but it’s another space where we have little choice but to hope Facebook doesn’t go too far.
+
+# Lesson 6
+
+## Homework
