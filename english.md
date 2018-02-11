@@ -515,7 +515,7 @@ B: Yes, but he isn't enjoying his work right now. He's been in the same job for 
 - beneficial - выгодный, полезный, положительный
 - skim - бегло просомтреть
 
-#### Facebook created an AI tool that can prevent suicide**
+#### Facebook created an AI tool that can prevent suicide
 
 For many people who've dedicated their lives to preventing suicide, social media posts can be a precious dataset that contains hints about what people say and do before they attempt suicide. In the past few years, researchers have built algorithms to learn which words and emoji are associated with suicidal thoughts. 
 
@@ -536,3 +536,210 @@ But this idea of Facebook proactively scanning the content of people’s posts c
 # Lesson 6
 
 ## Homework
+
+### Coursebook
+
+- cautious - осторожный
+- for instance - например
+
+**ex. 2a**
+
+- patient and polite to others on the road like pedestrians and cyclists
+- stay calm in stressful situations
+- road rage incidents fewer
+- cautious
+- take fewer risks when overtaking
+- more responsible, less likely to not to derive when tires or after drinking
+
+12. react slowly
+13. lack confidence
+14. easily distructed
+15. for example by children in the car
+16. map reading more difficult
+17. have problems
+18. with left and right
+19. poor spatial awareness
+20. more chaper accidents
+
+**Summary**
+
+- spatial awareness - плохая пространственная осведомленность
+
+This is very strange article. It contradicts itself. How women can be more safer drivers if they poor spatial awareness? They are less agressive - yes, I agree with this fact. But this article compares the stereotypes of men and women. Each person is very complex personality. I guess men can calmly estimate the circumstances instead of women (but as said not always). Some of men can be even more emotional than women. 
+
+### Presentation about the country I want to visit
+
+- peninsula - полуостров
+- intricate - замысловатый
+- squeaking breaks - скрипящих тормозов
+- influential - влиятельный
+- attraction - достопримечательность
+
+Italy is a country rich in art, architecture, sights and food. The Italians are especially known for they're famous food. (Can anybody call their popular dishes?) The relative location is in Southern Europe on the Mediterranean Sea. It's shaped as a penninsula very much like a boot (I guess everybody can find it on geographic maps). It boarders France, Switzerland, Austria, and Slovenia. It's climate is about 30 degrees in the summer and about 12 degrees in the winter. Italy's population is about 60.6 millions (only five times more than in Moscow!).
+
+The Apennines Mountains are in the center of Italy, while the Alps are on Italy's northern and northwestern border.  It's very popular destination for winter holidays (especcially for mountain skiing and snowboarding).
+
+There are a lot of sights in this contry.  Let's overview some of them. Venice (Venezia) is one of the most unusual and romantic places in the world today. There you hear no car horns, alarms, or even squeaking brakes. It's located in northeast Italy and famous for its intricate transport system of interconnected canals. For moving is used gondolas. The most popular canal in Venice is Grand Canal. This canal is lined with beautiful buildings and churches some of which date back as far as the 13th century.  You’ll also see the Rialto Bridge that was the only bridge to cross the canal until the 19th century and was mentioned in Shakespeare’s “The Merchant of Venice”
+
+The other town I want to mention surely is the capital of Italy: Rome(Interesting fact: name Roma comes from name Rome). The population of Rome is well over two-million. The Roman Empire has been one of the most influential civilizations of all time. Its culture has been integrated throughout many societies. This city is full of attractions preserved to our days: Colosseum, Pantheon. Moreover Rome contains the WHOLE state in itself: Vatican is a country of religion. About .44 square kilometers in total, the city-state is the central hub for the governing body of the Catholic faith
+
+I can still talk for a very long time about Italy, about the Roman Empire, about the pros and cons of the military state, but it's time to finish my fascinating story. In conclusion I want to say that this summer I'm planning to visit this country
+
+# Lesson 7
+
+> How many cookies could a good cook cook If a good cook could cook cookies? A good cook could cook as much cookies as a good cook who could cook cookies.
+
+## Homework
+
+### Coursebook
+
+**ex. 1a**
+ 
+ 1. home
+ 2. abroad
+ 3. trip
+ 4. package
+ 5. journey
+ 6. travel
+ 7. distinations
+
+**ex. 3a**
+
+1. see
+2. experience
+3. learn
+4. find
+5. become
+6. get
+7. meet
+8. explore
+9. learn
+10. broaden
+
+- official trip - служебная поездка
+- gamping - кампинг с хорошими условиями
+- home journey - потушествие по родной стране
+- guided tour - тур с гидом
+- world tour - мировой тур
+- vacation - отпуск
+- mancation - отпуск для парней
+
+- learn by heart - выучить наизусть
+
+# Lesson 8
+
+> How much juice does a fruit juice producer produce when a fruit juice producer produces fruit juice? We can deduce a fruit juice produces as much juice as a fruit juice produce can seduce from the fruit that produces juice.
+
+## Homework
+
+### Murphy. Unit 5. Past Simple.
+
+**ex. 5.1**
+
+1. She got up at 7 o'clock.
+2. She had a big breakfast.
+3. She walked to work.
+4. It took about half an hour to get to work.
+5. She started work at 8.45.
+6. She didn't have lunch.
+7. She finished work at 5 o'clock.
+8. She was tired when she got home.
+9. She cooked a meal yesterday evening.
+10. She didn't go out yesterday evening.
+11. She went to bed at 11 o'clock.
+12. She slept wel last night.
+
+**ex. 5.2**
+
+1. Mozart wrote more than 600 pieces of music.
+2. How did you learn to drive. My father taught me.
+3. We couldn't afford to keep our car, so we sold it.
+4. Dave fell down the stairs this morning and hurt his leg.
+5. Joe threw the ball to Sue, who caught it.
+6. Ann spent a lot of money yesterday. She bought a dress which cost 100$ (was cost) (?)
+
+**ex. 5.3**
+
+1. Where did you go? To the U.S. We went on a trip from San Francisco to Denver.
+2. How did you travel? By car? Yes, we hired a car in San Francisco.
+3. It's a long way to drive. How long did it take to get to Denver? Two weeks.
+4. Where did you stop? In hotels? Yes, small hotels or motels.
+5. Was the weather good? Yes, but it was very hot - sometimes too hot.
+6. Did you see the Grand Canyon? Of cource. It was wonderful.
+
+**ex. 5.4**
+
+1. It was warm, so I took off my coat.
+2. The film wasn't vary good. I didn't enjoy it much.
+3. I knew Sarah was busy, so I didn't disturb her.
+4. We were very tired, so we left the party early.
+5. The bed was very uncomfortable. I didn't sleep well.
+6. The window was open and a bird flew into the room.
+7. The hotel wasn't very expensive. It didn't cost much to stay there.
+8. I was in a hurry, so I didn't have time (have no time) to phone you.
+9. It was hard carrying the bags. The were very heavy.
+
+
+### Coursebook
+
+**ex. 2a**
+
+Marco Polo:
+- Nationality: italian
+- When born: 1254
+- Job/work:
+- Where travelled to
+- Length of joyrney
+- Greatest achievement
+- What they were called
+- When died
+
+**ex. 2b**
+
+**ex. 3a**
+
+- set out - leave
+- stop off - break a journey
+- carry on - continue
+- get to - arrive
+- get back - return
+- look around - explore
+
+**ex. 3b**
+
+We set out very early, before dawn, and drove south. We stopped off at a service station for a petrol and a coffee. After this we carried on driving for another three hours. There were a lot of delays and hold ups. We finally got to our destination at 2 p.m., and look around the main sights. We didn't get back until midnight. It was a very tiring day.
+
+
+### Workbook
+
+**ex. 1**
+
+Across:
+1. Destination
+4. 
+6. Travel
+8. Tourism
+10. 
+
+Down: 
+5. 
+9. Meet
+
+**ex. 2**
+
+1. I think it's good for young people to take a gap year and travel to broaden their horizonts.
+2. We're going tp explore some old temples in the mountains.
+3. Lots of people travel to find themselves as much as to visit new places.
+4. I like holidays where you just get away from it all on a beach doing nothing.
+5. My daughter has become more independent since her trip to Thailand.
+6. So what sights did you see while you were there?
+7. It's important to respect the local culture and act in the correct way.
+8. Did you find out what tie the train leaves for Rome?
+
+**ex. 3**
+
+1. Remember to take out an insurance policy before you go on holiday in case of an emergency
+2. We used to book with a travel agent but now we book online.
+3. They've built a new package resort on the coast. It's so ugly!
+4. Dress codes in some countries can be quite formal.
+5. Wee booked a holiday tour which included the bus and all our meals.
