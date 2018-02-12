@@ -684,17 +684,27 @@ I can still talk for a very long time about Italy, about the Roman Empire, about
 
 **ex. 2a**
 
-Marco Polo:
-- Nationality: italian
-- When born: 1254
-- Job/work:
-- Where travelled to
-- Length of joyrney
-- Greatest achievement
-- What they were called
-- When died
+|                       | Marco Polo | Cousteau | Tereshkova
+| :---                  | :---       | :---     | :--- 
+| Nationality           | Italian | French | Russian
+| When born             | 1254 | 1910 | 1937
+| Job/work              | traveller and merchant | undersea explorer, environmentalist, and inventor | parachutist
+| Where travelled to    | China | world's oceans | space
+| Length of journey     | 24 years | - | 3 days
+| Greatest achievement  | he wrote a book describing the riches of Asia | he invented aqualung | first woman in space
+| What they were called | the man of million lies | - | Chaika
+| When died             | 1324 | 1997 | -
 
 **ex. 2b**
+
+1. Cousteau
+2. Marco Polo
+3. Marco Polo
+4. Tereshkova
+5. Cousteau
+6. Tereshkova
+7. Marco Polo
+8. Cousteau
 
 **ex. 3a**
 
@@ -712,17 +722,23 @@ We set out very early, before dawn, and drove south. We stopped off at a service
 
 ### Workbook
 
+- inoculation - прививка, вакцина
+
 **ex. 1**
 
 Across:
 1. Destination
-4. 
+4. Customs
 6. Travel
+7. Tour
 8. Tourism
-10. 
+10. Insurance
 
 Down: 
-5. 
+1. Documents
+2. Stay
+3. Inoculation
+5. Sight
 9. Meet
 
 **ex. 2**
@@ -743,3 +759,53 @@ Down:
 3. They've built a new package resort on the coast. It's so ugly!
 4. Dress codes in some countries can be quite formal.
 5. Wee booked a holiday tour which included the bus and all our meals.
+
+### Countries
+
+|           | Страна | Прилагательное | Гражданин | Нация
+| :---      | :---   | :---           | :---      | :--- 
+| Китай | China [ˈtʃaɪnə] | Chinese | a Chinese | the Chinese
+| Япония | Japan [dʒəˈpæn] | Japanese | a Japanese | the Japanese
+| Северная Корея | North Korea [ˌnɔːθ kəˈriː.ə] | North Korean | a North Korean | the North Korean
+| Южная Корея | South Korea [ˌsaʊθ kəˈriː.ə] | South Korean | a South Korean | the South Korean
+| Бруней | Brunei [brʊˈnɑɪ] | Bruneian | a Bruneian | the Bruneian
+| Камбоджа | Cambodia [kæmˈbəʊ.di.ə] | Cambodian | a Cambodian | the Cambodian
+| Индонезия | Indonesia [ˌɪn.dəˈniː.ʒə] | Indonesian | an Indonesian | the Indonesian
+| Лаос | Laos [laʊs] | Lao/Laotian | a Laotian | the Laotian
+| Малайзия | Malaysia [məˈleɪ.zi.ə] | Malaysian | a Malaysian | the Malaysian
+| Мьянма | Myanmar [maɪ'an ma] | Myanmese | a Myanmese | the Myanmese
+| Филиппины | The Philippines [ˈfɪl.ɪ.piːnz] | Philippine | a Philipino | the Philipino
+| Тайланд | Thailand [ˈtaɪ.lænd] | Thai | a Thai | the Thai
+| Вьетнам | Vietnam [ˌvjetˈnæm] | Vietnamese | a Vietnamese | the Vietnamese
+| Афганистан | Afghanistan [æfˈɡænᵻstæn] | Afghan | an Afghan | the Afghan
+| Бангладеш | Bangladesh [bæŋ.ɡləˈdeʃ] | Bangladeshi | a Bangladeshi | the Bangladeshi
+| Бутан | Bhutan [buːˈtɑːn] | Bhutanese | a Bhutanese | the Bhutanese
+| Индия | India [ˈɪn.di.ə] | Indian | a Indian | the Indian
+| Мальдивы | Maldives [ˈmɔːl.diːvz] | Maldivian | a Maldivian | the Maldivian
+| Непал | Nepal [nəˈpɔːl] | Nepalese | a Nepalese | the Nepalese
+| Пакистан | Pakistan [ˌpɑː.kɪˈstɑːn] | Pakistani | a Pakistani | the Pakistani
+| Шри Ланка | Sri Lanka [ˌsriː ˈlæŋ.kə] | Sri Lankan | a Sri Lankan | the Sri Lankan
+| Азербайджан | Azerbaijan [ˌæz.ə.baɪˈdʒɑːn] | Azerbaijan | an Azerbaijani | the Azerbaijani
+| Армения | Armenia [ɑːrˈmiːniə] | Armenian | a Armenian | the Armenian
+| Бахрейн | Bahrain [bɑːˈreɪn] | Bahraini | a Bahraini | the Bahraini
+| Грузия | Georgia [dʒɔː.dʒə] | Georgian | a Georgian | the Georgian
+| Израиль | Israel ['ɪz ri əl] | Israeli | an Israeli | the Israeli
+| Иордания | Jordan [ˈdʒɔː.dən] | Jordanian | a Jordanian | the Jordanian
+| Ирак | Iraq [ɪˈrɑːk] | Iraqi | a Iraqi | the Iraqi
+| Иран | Iran [ɪˈrɑːn] | Iranian | an Iranian | the Iranian
+| Йемен | Yemen [ˈjem.ən] | Yemeni | a Yemeni | the Yemeni
+| Катар | Qatar [ˈkʌt.ɑːr] | Qatari | a Qatari | the Qatari
+| Кипр | Cyprus [ˈsaɪ.prəs] | Cypriot | a Cypriot | the Cypriot
+| Кувейт | Kuwait [kuːˈweɪt] | Kuwaiti | a Kuwaiti | the Kuwaiti
+| Ливан | Lebanon [ˈleb.ə.nən] | Lebanese | a Lebanese | the Lebanese
+| ОАЭ | United Arab Emirates | - | - | -
+| Оман | Oman [oʊ'mɑn] | Omani | an Omani | the Omani
+| Саудовская Аравия | Saudi Arabia [ˌsaʊ.di əˈreɪ.bi.ə] | Saudi Arabian/Saudi | a Saudi Arabian/Saudi | the Saudi Arabian/Saudi
+| Сирия | Syria [ˈsɪr.i.ə] | Syrian | a Syrian | the Syrian
+| Турция | Turkey [ˈtɜːki] | Turkish | a Turk | the Turk
+| Казахстан | Kazakhstan [ˌkæz.ækˈstɑːn] | Kazakh | a Kazakh | the Kazakh
+| Киргизия | Kyrgyzstan [ˌkɪr gɪ stɑːn] | Kyrgyz | a Kyrgyz | the Kyrgyz
+| Таджикистан | Tajikistan [tɑːˈdʒiː.kɪˌstɑːn] | Tajik/Tadjik | a Tajik/Tadjik | the Tajik/Tadjik
+| Туркмения | Turkmenistan [ˌtɜːkˌmen.ɪˈstɑːn] | Turkmen/Turkman | a Turkmen/Turkman | the Turkmen/Turkman
+| Узбекистан | Uzbekistan [ʊzˌbek.ɪˈstɑːn] | Uzbek | an Uzbek | the Uzbek
+
