@@ -766,46 +766,56 @@ Down:
 | :---      | :---   | :---           | :---      | :--- 
 | Китай | China [ˈtʃaɪnə] | Chinese | a Chinese | the Chinese
 | Япония | Japan [dʒəˈpæn] | Japanese | a Japanese | the Japanese
-| Северная Корея | North Korea [ˌnɔːθ kəˈriː.ə] | North Korean | a North Korean | the North Korean
-| Южная Корея | South Korea [ˌsaʊθ kəˈriː.ə] | South Korean | a South Korean | the South Korean
+| Северная Корея | North Korea [ˌnɔːθ kəˈriː.ə] | North Korean | a North Korean | the North Koreans
+| Южная Корея | South Korea [ˌsaʊθ kəˈriː.ə] | South Korean | a South Korean | the South Koreans
 | Бруней | Brunei [brʊˈnɑɪ] | Bruneian | a Bruneian | the Bruneian
 | Камбоджа | Cambodia [kæmˈbəʊ.di.ə] | Cambodian | a Cambodian | the Cambodian
 | Индонезия | Indonesia [ˌɪn.dəˈniː.ʒə] | Indonesian | an Indonesian | the Indonesian
 | Лаос | Laos [laʊs] | Lao/Laotian | a Laotian | the Laotian
 | Малайзия | Malaysia [məˈleɪ.zi.ə] | Malaysian | a Malaysian | the Malaysian
 | Мьянма | Myanmar [maɪ'an ma] | Myanmese | a Myanmese | the Myanmese
-| Филиппины | The Philippines [ˈfɪl.ɪ.piːnz] | Philippine | a Philipino | the Philipino
+| Филиппины | The Philippines [ˈfɪl.ɪ.piːnz] | Philippine | a Filipino | the Philipino
 | Тайланд | Thailand [ˈtaɪ.lænd] | Thai | a Thai | the Thai
 | Вьетнам | Vietnam [ˌvjetˈnæm] | Vietnamese | a Vietnamese | the Vietnamese
-| Афганистан | Afghanistan [æfˈɡænᵻstæn] | Afghan | an Afghan | the Afghan
-| Бангладеш | Bangladesh [bæŋ.ɡləˈdeʃ] | Bangladeshi | a Bangladeshi | the Bangladeshi
+| Афганистан | Afghanistan [æfˈɡænᵻstæn] | Afghan | an Afghan | the Afghans
+| Бангладеш | Bangladesh [bæŋ.ɡləˈdeʃ] | Bangladeshi | a Bangladeshi | the Bangladeshis
 | Бутан | Bhutan [buːˈtɑːn] | Bhutanese | a Bhutanese | the Bhutanese
-| Индия | India [ˈɪn.di.ə] | Indian | a Indian | the Indian
-| Мальдивы | Maldives [ˈmɔːl.diːvz] | Maldivian | a Maldivian | the Maldivian
+| Индия | India [ˈɪn.di.ə] | Indian | a Indian | the Indians
+| Мальдивы | Maldives [ˈmɔːl.diːvz] | Maldivian | a Maldivian | the Maldivians
 | Непал | Nepal [nəˈpɔːl] | Nepalese | a Nepalese | the Nepalese
-| Пакистан | Pakistan [ˌpɑː.kɪˈstɑːn] | Pakistani | a Pakistani | the Pakistani
+| Пакистан | Pakistan [ˌpɑː.kɪˈstɑːn] | Pakistani | a Pakistani | the Pakistanis
 | Шри Ланка | Sri Lanka [ˌsriː ˈlæŋ.kə] | Sri Lankan | a Sri Lankan | the Sri Lankan
 | Азербайджан | Azerbaijan [ˌæz.ə.baɪˈdʒɑːn] | Azerbaijan | an Azerbaijani | the Azerbaijani
-| Армения | Armenia [ɑːrˈmiːniə] | Armenian | a Armenian | the Armenian
+| Армения | Armenia [ɑːrˈmiːniə] | Armenian | an Armenian | the Armenians
 | Бахрейн | Bahrain [bɑːˈreɪn] | Bahraini | a Bahraini | the Bahraini
-| Грузия | Georgia [dʒɔː.dʒə] | Georgian | a Georgian | the Georgian
-| Израиль | Israel ['ɪz ri əl] | Israeli | an Israeli | the Israeli
+| Грузия | Georgia [dʒɔː.dʒə] | Georgian | a Georgian | the Georgians
+| Израиль | Israel ['ɪz ri əl] | Israeli | an Israeli | the Israelis
 | Иордания | Jordan [ˈdʒɔː.dən] | Jordanian | a Jordanian | the Jordanian
 | Ирак | Iraq [ɪˈrɑːk] | Iraqi | a Iraqi | the Iraqi
-| Иран | Iran [ɪˈrɑːn] | Iranian | an Iranian | the Iranian
-| Йемен | Yemen [ˈjem.ən] | Yemeni | a Yemeni | the Yemeni
-| Катар | Qatar [ˈkʌt.ɑːr] | Qatari | a Qatari | the Qatari
+| Иран | Iran [ɪˈrɑːn] | Iranian | an Iranian | the Iranians
+| Йемен | Yemen [ˈjem.ən] | Yemeni | an Yemeni | the Yemenis
+| Катар | Qatar [ˈkʌt.ɑːr] | Qatari | a Qatari | the Qataris
 | Кипр | Cyprus [ˈsaɪ.prəs] | Cypriot | a Cypriot | the Cypriot
 | Кувейт | Kuwait [kuːˈweɪt] | Kuwaiti | a Kuwaiti | the Kuwaiti
 | Ливан | Lebanon [ˈleb.ə.nən] | Lebanese | a Lebanese | the Lebanese
-| ОАЭ | United Arab Emirates | - | - | -
+| ОАЭ | United Arab Emirates | Arab, Emirian | an Arab, Emirian | the Arabs, The Emirianes
 | Оман | Oman [oʊ'mɑn] | Omani | an Omani | the Omani
-| Саудовская Аравия | Saudi Arabia [ˌsaʊ.di əˈreɪ.bi.ə] | Saudi Arabian/Saudi | a Saudi Arabian/Saudi | the Saudi Arabian/Saudi
-| Сирия | Syria [ˈsɪr.i.ə] | Syrian | a Syrian | the Syrian
+| Саудовская Аравия | Saudi Arabia [ˌsaʊ.di əˈreɪ.bi.ə] | Saudi Arabian/Saudi | a Saudi Arabian/Saudi | the Saudi Arabians/Saudi
+| Сирия | Syria [ˈsɪr.i.ə] | Syrian | a Syrian | the Syrians
 | Турция | Turkey [ˈtɜːki] | Turkish | a Turk | the Turk
-| Казахстан | Kazakhstan [ˌkæz.ækˈstɑːn] | Kazakh | a Kazakh | the Kazakh
+| Казахстан | Kazakhstan [ˌkæz.ækˈstɑːn] | Kazakh, Kazakhstani | a Kazakh, Kazakhstani | the Kazakh, Kazakhstanis
 | Киргизия | Kyrgyzstan [ˌkɪr gɪ stɑːn] | Kyrgyz | a Kyrgyz | the Kyrgyz
 | Таджикистан | Tajikistan [tɑːˈdʒiː.kɪˌstɑːn] | Tajik/Tadjik | a Tajik/Tadjik | the Tajik/Tadjik
 | Туркмения | Turkmenistan [ˌtɜːkˌmen.ɪˈstɑːn] | Turkmen/Turkman | a Turkmen/Turkman | the Turkmen/Turkman
 | Узбекистан | Uzbekistan [ʊzˌbek.ɪˈstɑːn] | Uzbek | an Uzbek | the Uzbek
+
+# Lesson 9
+
+- to push a boat out - развлекаться, веселиться
+- riding high - пользоваться популярностью
+- to be in the same boat - быть в одной лодке
+- ships in the night - разошлись как в море корабли
+- on your bike! - проваливай отсюда
+- to paint the town red - отрываться, веселиться, напиваться
+
 
