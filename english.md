@@ -818,4 +818,311 @@ Down:
 - on your bike! - проваливай отсюда
 - to paint the town red - отрываться, веселиться, напиваться
 
+## Homework
 
+### Murphy. Unit 7. Present Perfect.
+
+**ex. 7.1**
+
+1. Tom has lost his key.
+2. Lisa has broken her leg.
+3. The bus fare has gone up from 1.80$ to 2$.
+4. Her English has improved.
+5. Dan has grown a beard.
+6. The letter has arrived.
+7. The temperature has fallen from 20 degrees to 12.
+
+**ex. 7.2**
+
+1. James is on holiday. He's gone to Italy.
+2. Hello! I've just been to the shops. I've bought lots of things.
+3. Alice isn't here at the moment. She's gone to the shop to get a newspaper.
+4. Tom has gone out. He'll be back in about hour.
+5. Are you going to the bank? No, I've already been to the bank.
+
+**ex. 7.3**
+
+1. Would you like something to eat? No, thanks. I've just had lunch.
+2. Do you know where Julia is? Yes, I've just seen her.
+3. What time is David leaving? He has already left.
+4. What's in the newspaper today? I don't know. I haven't read it yet.
+5. Is Sue coming to the cinema with us? No, she has already seen the film.
+6. Are your friends here yet? Yes, they've just arrived.
+7. What does Tim think about your plan? We haven't told him yet.
+
+**ex. 7.4**
+
+1. No thank. I've just had launch.
+2. I'm afraid he has gone out.
+3. Wait a minute! I haven't finished yet.
+4. No, I have already done it.
+5. Have you found a place to live?
+6. I haven't decided yet.
+7. No, she has already come back.
+
+### Murphy. Unit 8. Present Perfect.
+
+**ex. 8.1**
+
+1. Have you ever ridden a horse?
+2. Have you ever been to California?
+3. Have ever run marathon?
+4. Have you ever spiken famous person?
+5. What's is the most beautiful place that you have visited?
+
+**ex. 8.2**
+
+1. I've no idea. I've never met her.
+2. Yes, we haven't had any problems so far.
+3. Yes, I haven't eaten much today.
+4. Yes, but I haven't played for ages.
+5. Yes, it's the best holiday I have had for a long time.
+6. I don't know. I haven't read it.
+7. I've no idea. I haven't been there.
+8. Yes, it's the second time it has happend this month.
+9. I don't know. I haven't tryed it.
+10. Again? He has been late every day this week.
+11. I don't know. I haven't seen her before.
+
+**ex. 8.3**
+
+1. I haven't used a computer today.
+2. I haven't been to the cinema this week.
+3. I haven't travelled by bus for a ages.
+4. I haven't read a book today.
+5. I haven't lost anything today.
+
+**ex. 8.4**
+1. Jack is driving a car, but he's very nervous and not suure what to do. Have you ever driven a car before? No, this is the first time I've driven a car.
+2. Ben is playing tennis. He's not good at it and he doesn't know the rules. Have you played tennis before? No, this is the first time I've played tennis.
+3. Sue is riding a horse. She doesn't look very confident or comfortable. Have you ridden horse. No, this is the first time I've ridden a horse.
+4. Maria is in Japan. She has just arrived and it's very new for her. Have you been in Japan. Yes, but I haven't been to Japan for a long time.
+
+### Countries
+
+|           | Страна | Прилагательное | Гражданин | Нация
+| :---      | :---   | :---           | :---      | :--- 
+| Аргентина | Argentina /ˌɑr dʒənˈti nə/ | Argentinian | an Argentinian | the Argentins
+| Боливия | Bolivia /bəˈlɪv i ə, boʊ-/ | Bolivian | a Bolivian | the Bolivians
+| Бразилия | Brazil /brəˈzɪl/ | Brazilian | a Brazilian | the Brazilians
+| Венесуэла | Venezuela /ˌvɛn əˈzweɪ lə, -ˈzwi-/ | Venezuelan | a Venezuelan | the Venezuelans
+| Гайана | Guyana /gaɪˈæn ə, -ˈɑ nə/ | Guyanese | a Guyanese | the Guyanes
+| Колумбия | Colombia /kəˈlʌm bi ə/ | Colombian | a Colombian | the Colombians
+| Парагвай | Paraguay /ˈpær əˌgwaɪ, -ˌgweɪ/ | Paraguayan | a Paraguayan | the Paraguayans
+| Перу | Peru /pəˈru/ | Peruvian | a Peruvian | the Peruvians
+| Суринам | Suriname /ˈsʊər əˌnɑm, -ˌnæm/ | Surinamese | a Surinamer/Surinamese | the Surinamers/Surinames
+| Уругвай | Uruguay /ˈyʊər əˌgweɪ, -ˌgwaɪ/ | Uruguayan | an Uruguayan | the Uruguayans
+| Чили | Chile /ˈtʃɪl i/ | Chilean | a Chilean | the Chileans
+| Эквадор | Ecuador [/ˈɛk wəˌdɔr/ | Ecuadorean | an Ecuadorean | the Ecuadoreans
+
+
+# Lesson 10
+
+Static verbs:
+- verbs denoting statical percaption: 
+- verbs denoting emoutions: like, disklike, hate, love, respect, care for
+- verbs denoting wish: desire, want, wish
+- verbs denoting mental processes: know, think, recognize, expect, believe, consider, doubt
+- relational verbs: to be, belong, consist, contain, depend, require
+- other: feel, interest, refuse, prefer
+
+### Murphy. Unit 13. Present Perfect and Past Simple.
+
+**ex. 13.1**
+
+1. have lost
+2. has gone
+3. forgot
+4. has gone
+5. have had
+6. has broken
+
+**ex. 13.2**
+
+1. OK
+2. grew
+3. did William Shakespeare written
+4. OK
+5. OK
+6. did invent paper
+7. were you born
+8. OK
+9. was, developed
+
+**ex. 13.3**
+
+1. It stopped
+2. It has changed
+3. have forgotten
+4. has arrested
+5. it has improved
+6. I have finished
+7. I applyed
+8. It has been
+9. There has been
+10. He has broken, did that happen, he fell
+
+- basic - простак, простушка
+- salty - привлекательный
+- on point - по высшему разряду, привлекательный
+- stan - быть помешанным на чем-то
+- hangry - злой от голода
+- savage - дикарь
+- buggy - багнутый
+- fad - откормленный
+- buskill - кайфолом
+- creep - урод
+- brushbrain - не следить, что говорить
+- crack up - смешить
+- freak smbd out - выбесить
+- crazyness - офигеть не встать
+- low key - стыдно признаться
+- high key - тащиться от чего-то
+- spill the tea - поделиться слухами
+- bestest - лучший из лучших
+- zzz (зииз) - спать
+- hella - очень (very)
+- hit me up - перезвони
+- tap - понравился (like)
+- pissed off, trippin - злой (angry)
+- juice up - заряжать
+-  dumbass - тупица
+-  badass, kickass - мужественный, крутой
+-  Alas - увы
+-  quirks - причуды
+-  at volume - по факту
+-  overindugle - злоупотребляют
+-  thighs - бедра
+-  ditch - забивать
+-  fortnight - 2 недели
+-  loo - уборная
+
+
+## Homework
+
+### Murphy. Unit 14. Present Perfect and Past Simple.
+
+**ex. 14.1**
+
+1. OK
+2. Did you eat
+3. OK
+4. I bought
+5. did you be
+6. left
+7. Did you see
+8. OK
+9. OK
+10. did tihs book been
+
+**ex. 14.2**
+
+1. It hasn't rained this week.
+2. The weather have been cold recently.
+3. It was cold last week.
+4. I didn't read a newspaper yesterday.
+5. I haven't read a newspaper today.
+6. Emily has earned a lot of money this year.
+7. She did't earn so much last year.
+8. Have you had a holiday recently?
+
+**ex. 14.3**
+
+1. What's Madrid like? I don't know. I haven't been there.
+2. When I got home last night, I was very tired and I went straight to bed.
+3. A: Have you seen Lisa recently? B: Yes, I saw her a few days ago.
+4. I'm tired. I didn't sleep well last night.
+5. The bus drivers were on strike last week. There was no buses.
+6. Mr Lee worked in a bank for 15 years. Then he gave it up. Now he works as a gardener.
+7. Mary lives in Dublin. She have lived there all her life.
+8. A: Did you go to the cinema last night? B: Yes, but it was a mistake. The film was awful.
+9. My grandfather died before I was born. I never met him.
+10. I don't know Karen's husband. I have never met him.
+11. It's nearly lunchtime and I didn't see Martin all morning. I wonder where he is.
+12. Where do you live? In Boston. How long have did you live there? Five years. Where have you lived vefire that? In Chicago. And how long did you live in Chicago? Two years.
+
+**ex. 14.4**
+
+1. I haven't eaten any fruit today.
+2. I haven't watched TV today.
+3. I didn't go to the cinema yesterday.
+4. I wathced film yesterday evening.
+5. I haven't swimming recently.
+6. I have written a lot code recently.
+
+
+### Workbook p.12
+
+**ex. 1**
+
+1. 4 (1940)
+2. 5
+3. 1 (1964)
+4. 7
+5. 3 (1972)
+6. 9 (1977)
+7. 6
+8. 8
+9. 2 (1989)
+
+**ex. 2**
+
+1. set out
+2. stop off
+3. get to
+4. get back
+5. look around
+6. carry on
+
+**ex. 3**
+
+1. check in
+2. check out
+3. get in
+4. take off
+5. stop over
+6. pull over
+
+
+### Presentation. Slang words
+
+- Dude (noun). A word that americans use to address each other. Originally, “dude” meant a stuck up person who dressed overly well. It first emerged in the year 1883 in England. Example: *Hey dude, I missed you at the movies the other day!* , *Look at that rich fellow; what a dude! Do you see the feather in his hat*
+- Sick (adj). You would think this word has a negative connotation, however, ‘sick’ is similar in meaning to, “very exciting!”, “amazing!”, etc. While it can be used to describe a person, it is most often used to describe experiences or things that someone thinks is amazing. Example: *Man, that trick was sick yo*
+- Nada (pronoun). Used instead of the word, “nothing”. However, it is generally used as the answer to a question rather than in the middle of a sentence. Example: *A: What's new? B: Nada...*
+- Hitched (verb, adj). In slang, ‘hitched’ means two people have married. Example: *We are getting hitched.*
+- Nerd out (verb). Getting overly excited about something that isn't generally "cool". Example: *I completely nerd-out when I watch Harry Potter*
+- Chill (adj, verb). Another common colloquial (разговорное) word in American informal vocabulary. ‘Chill’ can describe something that is relaxed, easy, and fun. It can also be used as a verb meaning you are relaxing, and being easy going. Also it can mean to calm down. Example: *A: I hate you! Die, bitch! B: Wow, chill*, *A: Check out my new sick ride! B: Yeah, that's pretty chill*
+- Bombed (verb). Means to completely fail something. It is also used as a verb to say you are getting very drunk. Example: *I bombed both midterms and I didn't study for the final*
+- Fire (adj). Saying something is ‘fire’ means it is outstanding (hot). Example: *Damn this food is fire. That girl is looking fire.*
+- Retweet (verb).  Originating from the online news and networking service Twitter, the linguistic expression, “Retweet”, in conversation means the person agrees with you. Example: *A: Dude, I'm so tired bro. B: Retweet my friend. Retweet. Got three hours of sleep because I was studying*
+- Swing (verb). The term ‘swing’ has multiple informal meanings in the English language. One meaning is used when telling someone you will come by their house or workplace for a short period of time by saying, *I’ll swing by*. Another informal meaning of the word ‘swing’ is to explain your sexual orientation. If someone asks if you are a homosexual, you may respond by saying, *I don’t swing that way*.
+- Drop (verb). A word used when enlightening someone with information. Often heard in the expression, “let me drop some knowledge on you”. Also used in reference to releasing music in the expression, *I’m gonna drop this mixtape*.
+- Bestie (noun) (british slang). Meaning best friends. Example: *She’s my bestie*.
+- Gotcha (exclamation). You would you this word on it’s own to acknowledge that you understand something someone is saying. Example: *A: Please don't do that again bro. B: Gotcha*
+- Yolo (phrase and expression) ‘Yolo’ is short for the phrase, “You Only Live Once”. This phrase is popular with teenagers and young adults. It’s meaning is implying that you should live your life how you want because you only get one of them. The phrase is shortened to ‘yolo’ in verbal conversation.
+
+### Presentation. British and American cuisine. How do you think eating habits reflect American and British values and priorities?
+
+**The occasion**
+
+In Britain, going out for a meal is almost always done to mark an occasion: a birthday, a reunion, an anniversary. But in America, it can be done just because you haven’t yet tried Chili’s new Awesome Avocado Bacon Milkshake Sugar Burger! Mmm.
+
+**Water**
+
+The first thing that happens when you sit down in an American restaurant is that you’re asked if you’d like bottled or tap water. If you choose bottled, you’ll then be asked whether you’d prefer still or sparkling. A moment later your water of choice appears on the table. In Britain, water must be apologetically requested from your server.
+
+**Substitutions**
+
+In the U.S., it’s perfectly acceptable to customize your order. “I’ll have the Waldorf salad, but hold the pecans, and instead of apple I’ll have cucumber.” In the U.K., you get what you’re given and if you don’t like it then you can jolly well go and eat somewhere else.
+
+**Food preparation**
+
+If you order a burger in the U.K. (not recommended) the chances of being asked how you would like it cooked are about as likely as bumping into the queen in the frozen food section of your local supermarket. They serve it one way and one way only: very well done. And what about the eggs? The choice of how you want your eggs cooked in the U.S. is so vast that an entire Mind The Gap piece has been dedicated to it. Generally speaking, the American attitude is veered towards accommodating the customer; whereas in the U.K., the feeling is that you’re lucky they’ve got eggs at all
+
+**Service**
+
+There is a huge difference in the attitude towards waiters. In the U.S, waiting tables is a good service job that people are proud to do well. Thus they are treated by customers as professionals. In Britain, waiters tend to be treated more like servants, and the customer finds the relationship slightly embarrassing.
+
+**Tipping**
+
+This is probably the biggest and most obvious difference. The British are not used to leaving a tip. They feel cheated by it. But they don’t realize is that a lot of American wait staff don’t get paid an hourly wage. So their income depends on tips. Problems arise in the U.S. if the service happens to be below par; Brits feel like they shouldn’t leave any gratuity for poor service, but really they’re just being cheap so they can spend their dollars on cheap Levi’s.
