@@ -1103,6 +1103,10 @@ Static verbs:
 
 ### Presentation. British and American cuisine. How do you think eating habits reflect American and British values and priorities?
 
+The cousine in Britain and America are different. For example britains at breakfast like to eat toasts or eggs with cup of tee. Americans more like bacon at breakfast. Also americans like more fatty food considering the amount of fast food points.
+
+I decide to overview typical going to restraunt.
+
 **The occasion**
 
 In Britain, going out for a meal is almost always done to mark an occasion: a birthday, a reunion, an anniversary. But in America, it can be done just because you haven’t yet tried Chili’s new Awesome Avocado Bacon Milkshake Sugar Burger! Mmm.
@@ -1126,3 +1130,38 @@ There is a huge difference in the attitude towards waiters. In the U.S, waiting 
 **Tipping**
 
 This is probably the biggest and most obvious difference. The British are not used to leaving a tip. They feel cheated by it. But they don’t realize is that a lot of American wait staff don’t get paid an hourly wage. So their income depends on tips. Problems arise in the U.S. if the service happens to be below par; Brits feel like they shouldn’t leave any gratuity for poor service, but really they’re just being cheap so they can spend their dollars on cheap Levi’s.
+
+
+British society is based on the idea that everybody follows the same rules. No one is above the law. America are more customer-oriented. Americans take pride in making the best use of their time
+
+
+# Lesson 10
+
+## Homework
+
+### Countries
+
+|           | Страна | Прилагательное | Гражданин | Нация
+| :---      | :---   | :---           | :---      | :--- 
+| Алжир | Algeria /ælˈdʒɪər i ə/ | Algerian | an Algerian | the Algerians
+| Ангола | Angola /æŋˈgoʊ lə/ | Angolan | an Angolan | the Angolans
+| Бенин | Benin | Beninese | - | -
+| Ботсвана | Botswana /bɒtˈswɑ nə/ | Botswanan | a Tswana | the Tswana
+| Буркина-Фасо | Burkina Faso | - | - | -
+| Бурунди | Burundi /bʊˈrʊn di/ | Burundian | a Burundian | the Burundians
+| Габон | Gabon /gaˈbɔ̃/ | Gabonese | a Gabonese | the Gaboneses
+| Гамбия | Gambia /ˈgæm bi ə/ | Gambian | a Gambian | the Gambians
+| Гана | Ghana /ˈgɑ nə, ˈgæn ə/ | Ghanaian | a Ghanaian | the Ghanaians
+| Гвинея | Guinea /ˈgɪn i/ | Guinean | a Guinean | the Guineans
+| Гвинея-Бисау | - | - | - | -
+| Джибути | Djibouti (Djibouti City) | - | - | -
+| Египет | Egypt /ˈi dʒɪpt/ | Egyptian | an Egyptian | the Egyptians
+| Замбия | Zambia /ˈzæm bi ə/ | Zambian | a Zambian | the Zambians
+| Зимбабве | Zimbabwe /zɪmˈbɑb weɪ, -wi/ | Zimbabwean | a Zimbabwean | the Zimbabweans
+| Кабо-Верде | Cape Verde Islands /vɜrd/ | Cape Verdean | a Cape Verdean | the Cape Verdean
+| Камерун | Cameroon /ˌkæm əˈrun/ | Cameroonian | a Cameroonian | the Cameroonians
+| Кения | Kenya /ˈkɛn yə, ˈkin-/ | Kenyan | a Kenyan | the Kenyans
+| Демократическая республика Конго | Democratic Republic of the Congo /ˈkɒŋ goʊ/ | - | a Congolese | the Congoleses
+| Республика Конго | Congo /ˈkɒŋ goʊ/ | - | a Congolese | the Congoleses
+| Кот-д'Ивуар | - | - | - | -
+| Лесото | - | - | - | -
