@@ -1139,7 +1139,11 @@ British society is based on the idea that everybody follows the same rules. No o
 
 ## Homework
 
-### Countries
+### Summarize
+
+This article is about changing America’s demographics. In less than 30 years, whites will no longer be the racial majority in the United States. By 2045, the United States will have a population of some 389 million people. And for the first time in the nation’s history, the majority of people living in the U.S. will be non-white
+
+### Countries (Africa part 1)
 
 |           | Страна | Прилагательное | Гражданин | Нация
 | :---      | :---   | :---           | :---      | :--- 
@@ -1149,7 +1153,7 @@ British society is based on the idea that everybody follows the same rules. No o
 | Ботсвана | Botswana /bɒtˈswɑ nə/ | Botswanan | a Tswana | the Tswana
 | Буркина-Фасо | Burkina Faso | - | - | -
 | Бурунди | Burundi /bʊˈrʊn di/ | Burundian | a Burundian | the Burundians
-| Габон | Gabon /gaˈbɔ̃/ | Gabonese | a Gabonese | the Gaboneses
+| Габон | Gabon /gaˈbɔ̃/ | Gabonese | a Gabonese | the Gabones
 | Гамбия | Gambia /ˈgæm bi ə/ | Gambian | a Gambian | the Gambians
 | Гана | Ghana /ˈgɑ nə, ˈgæn ə/ | Ghanaian | a Ghanaian | the Ghanaians
 | Гвинея | Guinea /ˈgɪn i/ | Guinean | a Guinean | the Guineans
@@ -1162,6 +1166,239 @@ British society is based on the idea that everybody follows the same rules. No o
 | Камерун | Cameroon /ˌkæm əˈrun/ | Cameroonian | a Cameroonian | the Cameroonians
 | Кения | Kenya /ˈkɛn yə, ˈkin-/ | Kenyan | a Kenyan | the Kenyans
 | Демократическая республика Конго | Democratic Republic of the Congo /ˈkɒŋ goʊ/ | - | a Congolese | the Congoleses
-| Республика Конго | Congo /ˈkɒŋ goʊ/ | - | a Congolese | the Congoleses
+| Республика Конго | Congo /ˈkɒŋ goʊ/ | a Congolese | a Congolese | the Congoleses
 | Кот-д'Ивуар | - | - | - | -
-| Лесото | - | - | - | -
+| Лесото | - | Basothian | a Basothian | the Basothians
+
+
+# Lesson 11
+
+- stubbornly - упорно
+- having a swell time - хорошо проводить время
+- purposely - преднамеренно
+- frankly - откровенно
+- lasciviousness - похоть
+- boredom - скука
+- solitude - одиночество
+- lure - заманивать
+
+## Homework
+
+- boonies - джунгли
+- cost an arm and a leg - очень много стоит
+- deter - удерживать, сдерживать
+- lay out - выкладывать, расложить, организовать
+- bottleecked - невозможность подвинуться (из-за большого скопления людей)
+- hassle - неудобство, перебранка, стычка
+- wristband - браслет, ремешок
+
+### Workbook
+
+**p. 14 ex. 1**
+
+1. Ralph hasn't been to Europe yet.
+2. He's already been there.
+3. Has he been before?
+4. He's never been before.
+5. Ralph went there when he was a boy.
+6. He's already been to three capital cities this week.
+7. Has Ralph ever been to Europe?
+
+**p. 14 ex. 3**
+
+1. have you been / were
+2. spoke
+3. have just returned
+4. flew
+5. walked
+6. have never done
+7. took
+8. invited
+9. spent
+10. didn't spend
+11. bought
+12. have already booked
+
+**p. 15 ex. 5**
+
+1. were
+2. told
+3. has taken
+4. began
+5. filmed
+6. have stopped
+7. has survived
+8. has swum
+9. has also swum
+10. was
+11. packed
+12. took
+
+### Piece of news
+
+- assumption - предположение, допущение
+
+Today I will try the role of a bartender and make a great mix from America news.
+
+At first I wanna talk about car in the space. I think everybody heard that SpaceX company helmed by billionaire Elon Musk has launched the world's most powerful rocket - Falcon Heavy. And as a payload it used a new prototype of Tesla car - Roadster. The rocket's smooth takeoff wasn't the only stunning thing about this launch. In a never-before-seen feat, SpaceX also managed to guide at least two of the Falcon Heavy's first-stage rocket boosters to land upright back on Earth. They cut back through the Earth's atmosphere and landed in unison at a Kennedy Space Center landing pad. According to Elon Musk that was probably the most exciting thing he has ever seen. The third booster was supposed to land on a sea-faring platform called a droneship -- but after launch it crashed.
+
+This news was actively discussed in social networks. And someone made a pretty interesting assumption: that in that car was the worst enemy of Elon Musk. So it can become the crime of the century. 
+
+Also few days ago SpaceX lauched demo satellites for its high-speed internet project. The satellites will test out the technology the company plans to use for its internet service. SpaceX eventually wants to put more than 10,000 tiny satellites into Low-Earth Orbit to deliver internet to people at speeds similar to the quickest ground-based internet connections.
+
+Now we come to the last ingredient (topic) that will be used in our mix. And it is more discussable (so you may help me here). It will be dedicated to the guns. For the last few months there were several cruel school shootings. The last one was in Parkland, Florida where the aggressive and unstable schoolboy has killed 17 people. According to the stats about 40% of Americans say they own a gun or live in a household with one. And in 2016 US was on the first place on gun-related killing as a % of all homicides. The first Trump's reaction was arming school teachers as a protective and preventive measure against school shootings. But I don't think it's a good idea to protect children by increasing number of arming persons in school. For example, how can we be sure that the teacher wouldn't be a psychopath. Another idea was to raise the legal age to buy a rifle to 21. It is more productive idea, but as I know this idea not have enough support to pass the Senate. My opinion in this question is to cancel the legal carrying of weapons. And allow it (weapon) for special trained persons: policemen or bodyguards.
+
+What do you think? Do you have any ideas for this question?
+
+### Countries (Africa part 2)
+
+|           | Страна | Прилагательное | Гражданин | Нация
+| :---      | :---   | :---           | :---      | :--- 
+| Либерия | Liberia /laɪˈbɪər i ə/ | Liberian | a Liberian | the Liberians
+| Ливия | Libya /ˈlɪb i ə/ | Libyan | a Libyan | the Libyans
+| Маврикий | Mauritius /mɔˈrɪʃ əs, -ˈrɪʃ i əs/ | Mauritian | a Mauritian | the Mauritians
+| Мавритания | Mauritania /ˌmɔr ɪˈteɪ ni ə/ | Mauritanian | a Mauritanian | the Mauritanians
+| Мадагаскар | Madagascar /ˌmæd əˈgæs kər/ | Malagasy/Madagascan | a Malagasy/Madagascan | the Malagasy/Madagascans
+| Малави | Malawi /məˈlɑ wi/ | Malawian | a Malawian | the Malawians
+| Мали | Mali /ˈmɑ li/ | Malian | a Malian | the Malians
+| Марокко | Morocco /məˈrɒk oʊ/ | Moroccan | a Moroccan | the Moroccans
+| Мозамбик | Mozambique /ˌmoʊ zæmˈbik, -zəm-/ | Mozambican | a Mozambican | the Mozambicans
+| Намибия | Namibia /nəˈmɪb i ə/ | Namibian | a Namibian | the Namibians
+| Нигер | Niger /ˈnaɪ dʒər/ | Nigerien | a Nigerien | the Nigeriens
+| Нигерия | Nigeria /naɪˈdʒɪər i ə/ | Nigerien | a Nigerien | the Nigeriens
+| Руанда | Rwanda /ruˈɑn də/ | Rwandan | a Rwandan | the Rwandans
+| Сан-Томе и Принсипи  | São Tomé and Príncipe /ˌsaʊ təˈmeɪ ... ˈprɪnsɪpə, -peɪ/ | Santomean | a Santomean | the Santomeans
+| Свазиленд | Swaziland /ˈswɑ ziˌlænd/ | Swazi | a Swazi | the Swazi
+| Сенегал | Senegal /ˌsɛn ɪˈgɔl, -ˈgɑl/ | Senegalese | a Senegalese | the Senegalese
+| Сомали | Somalia /soʊˈmɑ li ə, -ˈmɑl yə/ | Somali | a Somali | the Somali
+| Судан | Sudan /suˈdæn/ | Sudanese | a Sudanese | the Sudanese
+| Сьерра-Леоне | Sierra Leone /liˈoʊ ni, liˈoʊn/ | Sierra Leonian | a Sierra Leonian | the Sierra Leonians
+| Танзания | Tanzania /ˌtæn zəˈni ə/ | Tanzanian | a Tanzanian | the Tanzanians
+| Того | Togo /ˈtɔ gɔ/ | Togolese | a Togolese | the Togolese
+| Тунис | Tunisia /tuˈni ʒə, -ʃə, -ˈnɪʒ ə, -ˈnɪʃ ə, tyu-/ | Tunisian | a Tunisian | the Tunisians
+| Уганда | Uganda /yuˈgæn də, uˈgɑn‐/ | Ugandan | an Ugandan | the Ugandans
+| ЦАР | Central African Republic | Central African | a Central African | the Central Africans
+| Чад | Chad /tʃæd/ | Chadian | a Chadian | the Chadians
+| Экваториальная Гвинея | Equatorial Guinea /ˈgɪn i/ | Guinean | a Guinean | the Guineans
+| Эритрея | Eritrea /ˌɛr ɪˈtri ə/ | Eritrean | an Eritrean | the Eritreans
+| Эфиопия | Ethiopia /ˌi θiˈoʊ pi ə/ | Ethiopian | an Ethiopian | the Ethiopians
+| Южно-Африканская Республика | South Africa | South African | a South African | the South Africans
+| Южный Судан | South Sudan /suˈdæn/ | South Sudanese | a South Sudanese | the South Sudanese
+
+# Lesson 12
+
+Синоним great:
+- solid
+- lovely
+
+Слова:
+- never be better -  лучше всех
+- no complains - не жалуюсь
+- Thanks to your prays - Спасибо, ваши молитвами
+- Hiya - здорово
+- defunct - умерший (переставший функционировать)
+- lady-love - возлюбленная
+- social-climber - карьерист
+- re-engage - вновь заниматься
+- ostentatiously - демонстративно
+- dread - страх, ужас
+
+- skin a cat - добиться своего
+- all one to smbd - мне все равно
+- going in one ear and out from other - в одно ухо влетело, в другое вылетело
+- at one time - моментально, происходило в прошлом
+- put my eggs in one basket - класть яйца в одну корзину (сделать, чтобы все зависело от одной вещи)
+- one way or another - так или иначе
+- go back to square one - начать с начала
+- in words of one syllable - объяснить простыми словами
+- nought - нет
+- noughts and crosses - кретсики нолики
+- nill - ноль на соревнованиях
+- nix - слэнговый ноль, ничто, отвергнуть
+- love - еще значит ноль в теннисе
+- goose egg - дырка от бублика
+
+## Homework
+
+- hamper - осложнять, препятствовать, мешать
+
+### Coursebook p. 25
+
+**ex. 3**
+
+- aid - помощник
+- inevitable - неизбежный, неминуемый
+- attempt - попытка, стремление, пытаться
+
+1. her aearly life and education (b)
+2. her early career (c)
+3. her greatest achievement (e)
+4. the end of her life (a)
+5. publications, awards and prizes (d)
+
+**ex. 4**
+
+1. fired - be dismissed from a job
+2. graduating - finish high school or university
+3. train as - learn a particular job
+4. attend - go to (school or university)
+5. give up - stop doing something
+6. move to - go to a new place to live
+7. publish - write and print something for sale
+8. award - receive a prize, honour or money
+
+### Workbook p. 16
+
+**ex. 1**
+
+1. It's in different parts of the world
+2. It has lots of people
+3. The can't afford it
+4. A beach holiday
+5. Old buildings
+
+**ex. 2**
+
+1. I suggest(think) we
+2. How about
+3. On the one hand ... but on the other hand...
+4. I think we should
+5. There are arguments for and against
+6. It'be a good idea to
+7. Another disadvantage is that
+
+**ex. 3**
+
+1. we should do
+2. arguments for and against
+3. one hand
+4. other hand
+5. disadvantage
+6. a good idea
+7. how about
+8. think
+
+### Words
+
+- interjection - междометие
+- scold - ругать, бранить, ворчать
+- colloquial - разговорный
+- notion - понятие, представление, мнение
+- quaking - дрожащий, трясущийся
+- lampoon - пасквиль
+- libel - клевета, поклеп
+- wacko - сумасшедший
+- striking - поразительный, выдающийся
+- Mayor [mɛə] - мэр
+
+- **Правда** и **Истина**. On one hand they are synonyms — they are both “truth” but on the other hand they are and not synonyms — they mean different kinds of truth. There are a very interesting distinction between these words. **Правда** is subjective and **Истина** is objective. **Правда** is the knowledge of a specific, actual episode of reality. This knowledge may be incomplete, since only a fragment is opened in front of a person in this case, and not the whole. **Истина** is knowledge connected with the spiritual, intellectual sphere. It is close to the universal, divine laws of existence. It can't be questioned because it is absolute. *Interesting fact*: up to the XIX century these words had the opposite character. Before the truth  used to be presented as a human being, and the truth as a divine beginning <Image>
+- **Извинить** и **Простить**. For minor infractions like prank, mistake, being late you can use either both words. *Извини за опоздание*. *Прости, ошиблась.* THe word **простить** used when you forgive with all your heart and soul. It’s the word you can use in church. But **извинить** is used for the smaller gaffes and errors. *Извини, что я тебя перебил.* But language is constantly changing. Today **извините** has also turned into something like an interjection. When you make a phone call, for example, you might say, *Извините, можно Пашу к телефону?*. Another linguist has noted that **извините** has become a general form of address, what you say to get the attention of a stranger on the street: *Извините, не подскажете, где улица Тверская?*. And then there is the verb **Извиняюсь** which has divided the Russian-speaking world into two irreconcilable camps. One camp defines the word as a reflexive form of **извинять** — to forgive oneself. So, if you accept this, when people are scolded (saying bad words) and they reply, *Извиняюсь* they aren’t asking for forgiveness or saying they’re sorry, they are just saying, *I was wrong and now I forgive myself.* Folks on the other side of the argument say that it is now just a way of saying **простите/извините**. They consider it colloquial, but widespread and acceptable.
+- **Кайф**. What does “thrill” mean?  You can said, “Oh, no problem! A thrill is, you know, ’Wow!’. It’s when you are happy and excited. But it can also be something scary but kind of fun. **Thrill** can be defined as a mixture of excitement and pleasure; fun fear - a feeling of excitement about something that will be pleasant and yet a bit frightening without being truly dangerous — like a ride on a roller coaster. There is one word in Russian that more or less combines the notions of intense emotion, fun, excitement and possible danger (Try to guess?): **кайф**. But it’s the slangy and originally mean narcotic high.
+- **Трепетать**. It is close to the experience of a thrill, but much less extreme. *Он трепетал от радости* (He shook with joy). *Она трепетала от ужаса* (She was horrified). If you use the expression **трепетать перед** (to be quaking before), it means to experience fear mixed with respect: *Он трепетал перед начальством* (He was terribly intimidated by management).
+- **Ощущения**. Another noun you can use is **ощущение** (feeling) which can be modified with adjectives like острое (extreme); сильное (strong); or захватывающее (breath-taking). Here, too, it’s sometimes tough to tell if the emotions are positive or negative: *Роман вызвал у меня сильные ощущения* (The novel really affected me, literally "evoked strong feelings in me“). **Острые ощущения** are usually fun-scary. In fact, **любитель острых ощущений** is a thrill-seeker. If you want to convey a sense of breathtaking excitement, you can use **захватывающий**
+- **Пасквиль**. The word comes from the Italian character Pasquino — one of Rome’s "talking statues." Since the 16th century, people have posted anonymous letters on the statues, making them something like the first Facebook pages, only anonymous. In Russian, the word came to mean a lampoon or, in legal terminology, libel. **Пасквиль** is always a very bad thing. *Некоторые книги во времена изымали на советской таможне, а газеты в Москве называли их злобным пасквилем*. 
+- **Сатира** (satire). It is defined as "проявление комического в искусстве, состоящее в уничтожающем осмеянии явлений, которые представляются автору порочными“ (the use of the comic in art, which consists of destructive ridicule of phenomena that the author considers to be evil). 
+- **Клевета** (slander) — nasty lies meant to harm someone’s reputation. *С одной стороны, мы видели восхваление врага и вражеской литературы, с другой стороны ― клевету на советское партийное искусство (On the one hand we saw praise of the enemy and enemy literature, and on the other hand — slander of Soviet Party-approved art.)* 
+- **Инсинуация** (злостный вымысел, внушение негативных мыслей, тайное подстрекательство). If you don’t like native Russian words, you can try imports, like **инсинуация** (insinuation). *Мы не желаем даже комментировать подобные инсинуации* (We don’t even wish to comment on such insinuation/innuendo).
+- **Диффамация** (распространение не соответствующих действительности порочащих сведений). Another imported word is диффамация (defamation). Стихотворные надписи содержат прямую диффамацию русских (The poetic inscriptions contain clear defamation of Russians.)
+- **Стрёмно** (scary, weird, unpleasant). **Стрёмно** is a funny word. You won’t find it in any Soviet academic dictionaries. In more recently published general dictionaries it is noted as vulgar.  I’m not quite sure, but the writer (Michele Berdy) has discovered that its origins are in prison slang. **Стрём** is both a look-out and the danger the look-out is looking out for. **Стрёмно** covers a range of meanings: dangerous, frightening, weird or unpleasant. *Мне стремно* (Мне страшно). You can say *стоять* (literally to stand) or *быть на стрёме* (to be on guard). This can be external guard duty: *Вася, стоящий на стрёме*. Or it can be an internal guard: У меня чуткий сон, как у собаки. Да тут любой на стрёме будет. (I’m a light sleeper, like a dog. But anyone would be on edge here). You might hear **стрёмно** and related words used more to mean weird, wacko (сумашедший), or striking (поразительный). *Там стрёмная обстановка* (The situation there is hinky). The adjective стрёмный can refer to a person who is dangerous, fearless, and powerful: *Видишь этого стрёмного мужика?*
