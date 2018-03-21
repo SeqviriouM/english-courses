@@ -1414,4 +1414,386 @@ What do you think? Do you have any ideas for this question?
 - nailing something - забить
 - screw it - забей на это
 
+# Lesson 14
 
+- travel exprenses - командировочные расходы
+- bolt with nut - болт с гайкой
+- poke - проткнуть
+
+
+## Homework
+
+### Coursebook p. 26-27
+
+**ex. 4**
+
+1. The company is the most important in its area of business - A
+2. You will need to work for yourself - D
+3. You will work for more than one boss - C
+4. The company offers the chance to work abroad - A
+5. You will need to work some anti-social hours - D
+6. The company offers extra money once a year for good work - B
+7. There are opportunities for promotion - C
+8. You will be in charge of a number of staff - B
+
+**ex. 5**
+
+1. looking for
+2. experience of
+3. depend on
+4. responsible for
+5. knowledge of
+6. fluency (?)
+7. report to
+8. prospects for
+
+**ex. 7**
+
+**Traveler**
+*Life is Too Short for the Wrong Job*
+
+TCS World Travel is one of the largest tour operator specialized on private tours. It is a luxury outfitter that has created personalized private-jet expeditions for more than 20 years. We are looking for a dynamic and creative employee to join our team. Candidate must be fluent in several languages: english, spanish and should have experience in professional shooting. Canditate's duties will include traveling the world and shooting from the most amazing places on the planet for our advertisements and brochures. Also you will need to regularly keep a blog, telling about the advantages and disadvantages of certain places. This is a very exciting opportunity for the right candidate.
+
+
+### The most weird professions
+
+**Line-standers**
+
+Professional line-standers do one thing most of us have no patience for: waiting in line. These professionals are especially busy during big sales (think Black Friday) and product launches (new iPhone releases, for example). Rates vary, but one professional line-stander told that he earns up to $1,000 a week.
+
+**TV watcher**
+
+This is a job where you get paid to watch television, just like it says in the description. However, there's a lot more work involved than just passively watching your favorite show. Pro TV watchers usually scan through different shows and news clips, and find the right clips that can be used on a television show or news program.
+
+**Human Scarecrow (United Kingdom)**
+
+There have been stories of students actually doing this part time.
+
+**Professional Hitchhiker (Indonesia)**
+
+The government has restricted some lanes of traffic to only cars with 3 or more people due to overcrowding. Poor people from the city outskirts take advantage of this by offering drivers to ride with them in the “fast lanes”.
+
+**Professional foreigner**
+
+Some Chinese companies will pay men $1,000 a week to wear a business suit and shake hands with Chinese businessmen. Others will hire foreigners to attend real-estate events and pose as celebrities. Foreigners are being hired to pose as celebrities by Chinese real-estate developers to help agents sell property in "ghost towns" by making them appear more animated and worldly, according to a new mini-documentary released by The New York Times.
+
+"There are many places in China, especially in remote places, where the houses are really overvalued," a real-estate agent from the outskirts of Chongqing told The Times. "But there is this trick: make it international."
+
+The client can pick and choose whom they want to pose at their event, down to the foreigners' nationalities and skin colors.
+
+"Now, it is true that the price of white people is expensive," the same agent told Borenstein. "But it makes the place feel classier."
+
+If a client can't afford a white foreigner, he or she is advised to choose black actors instead who have "a very open personality, yet are quite cheap."
+
+"It is a widespread belief in China that if foreigners are hired at an event, the whole thing is bumped up to another level."
+
+**Magician**
+
+One the the most amaing and exicting job. I very like to view tricks. After some of them you want to start believing in magic. And today I want to show you imrpovisation (Have taken personal lessons from Geano Triggiano in Monday). Some of them I may not do very well, but I will try.
+
+
+# Lesson 14
+
+**Linters**:
+
+- The purpose of the text is ...
+- The main of the article is ...
+- The author is stresses/supposes/suggestes/thinks
+- The fact remains that - факт остается фактом
+- Ferther more - более того
+- In conclusion of the article - в заключении статьи
+- Although - хотя
+- Telework - удаленная работа
+- gossip - сплетня, болтовня
+
+**Only**
+
+> I've only been in love once
+
+*Only too* - чрезвычайно/совсем
+
+> It's only too truth - это чистая правда
+
+> She was only too happy to see us alive - Она была очень рада видеть нас живыми
+
+> I will be only too glad to answer any questions - Я буду рад ответить на ваши любые вопросы
+
+> I know only too well what problem you are going to face with - Я знаю очень хорошо проблему, с которой тебе придется столкнуться
+
+*an only child* - единственный ребенок в семье
+
+*the only child* - едиснтвенный ребенок где-либо (кроме семьи): в комнате, в школе, и т. д.
+
+*Inverted only* - only ставится в начало для усиление речи (высокий слог)
+
+> Only after becoming a father was he able to feel happiness.
+
+*Only to* - употребляем, когда обнаруживается непредвиденный результат
+
+> I arrived only to find that others had gone - Я пришел, чтобы обнаружить, что никого уже нет
+
+*Only just* - усиление just
+
+> I have only just finished my esse - Я только что закончил сое эссе
+
+**Once**
+
+> I was once a school teacher - Я был однажды учителем
+
+> Once you are finished - go home
+
+**Sometime/one day** - тоже самое, что once, только для будущего
+
+- Hope by sometime - заскакивай как-нибудь
+
+**Lone/Alone/Lonely/Lonesome**
+
+*Lone* - одинокий, уединеный, отдельный, едиснтвенный (было высокое употребление, чем alone)
+
+> A lone tiger was standing at a bus station
+
+> When they are alone - Когда они остаются наедине
+
+*Alone* - не ставится перде сущуствительным 
+
+*Lonesome* - одинокий (американская копия lonely)
+
+## Homework
+
+### Coursebook p. 30-31
+
+**ex. 2a**
+
+- A - one person's experience
+- B - shock tactics
+- C - hypothetical questions
+- D - advice
+- E - contact details
+
+**ex. 2b**
+
+1. True
+2. True
+3. False
+4. False
+5. True
+6. True
+
+**ex. 3**
+
+1. candidate - is applying for a job.
+2. interviewer - asks questions at an interview.
+3. employer - has other people working for him/her.
+4. interviewee - is attending an interview
+5. employee - is paid to work for and organizatopn or another person.
+6. expert - has special knowledge of a subject.
+
+**ex. 6**
+
+1. I have been writing emails all day.
+2. I have written 20 emails today.
+3. He has been learning Polish for six months.
+4. He has learnt six new words today.
+5. I have asked dozens of killer questions over the years.
+6. Interviewers have been asking killer questions for years.
+7. Shizuka has been watching TV all afternoon.
+8. Shizuka has watched five TV programmes this afternoon.
+
+# Lesson 15
+
+## Homework
+
+### Workbook p. 21-22
+
+**ex. 1**
+
+1. d (First impressions)
+2. f (Use your body)
+3. b (The handshake)
+4. e (The eyes and the mouth)
+5. a (Show you are interested)
+6. c (Make every second count)
+
+**ex. 2**
+
+1. False
+2. True
+3. False
+4. False
+5. False
+6. True
+
+**ex. 3**
+
+- Shock tactics
+- Contact details
+- Survey results
+- Past experience
+- Killer questions
+- Cutomer services
+- Recruitment agency
+- Smart appearance
+
+**ex. 4**
+
+1. Contact details
+2. Survey results
+3. Killer question
+4. Shock tactics
+5. Past experience
+6. Customer services
+7. Recruitment agency
+8. Smart appearance
+
+**ex. 5**
+
+1. I've done my essay and handed it in.
+2. I've been doing my essay and still need to write the consclusion.
+3. They've replied to all one hundred people so that's and end to it.
+4. He's been talking on the phone since 10 o'clock so I haven't been able to see him yet.
+5. How much have you spent since last week?
+6. How long have you been waiting fot their decision? Why don't you give them a call and ask for their answer?
+7. We've always used this type of cumputer.
+8. No-one has ever complained before.
+9. The photocopier's broken down again. That's the fifth time this month.
+10. How many people have been applying so far?
+
+**ex. 6**
+
+1. I've been writing and sending letters all day
+2. We've employed twenty new workers in the last three months.
+3. You've answered five questions in the last hour.
+4. I've been asking them about this for days.
+5. They asked me really difficult questions at the interview.
+6. She's had lots of interviews over the years.
+7. They've interviewed 10 people in three hours.
+8. He's been waiting since 8 o'clock this morning.
+
+### Piece of news
+
+- carbohydrates [ˈkɑːbəʊˈhaɪdreɪt] - углеводы
+- appealing - привлекательный
+
+**Finding the motivation to keep fit is a universal struggle, but what if you were paid to exercise?**
+
+In our days there are a lot of different fitness application that helps your to keep yourself in shape. These applications count the number of performed exercises, show how to correctly perform them, help to follow the diet and count the number of calories'. But despite all this diversity, many still do not have enough motivation to start training. But what if you were paid for exercise?
+
+That's the idea behind Sweatcoin, a free app that turns your steps into digital currency.
+
+Russian fitness fanatics Oleg Fomenko and Anton Derlyatka came up with the idea in 2015 when Fomenko had lost the motivation to work out after his previous startup went under.
+
+The London-based pair, both in their 40s, realized the problem with getting people to exercise is the human tendency to prioritize immediate pleasure over long-term gain.
+
+"We started talking about how we can use modern technology to give you instant gratification for physical activity", Fomenko said.
+
+In 2016, they founded Sweatcoin. The app pays users 0.95 sweatcoins for every 1,000 steps they take outdoors. That digital currency can be traded for fitness gear, giftcards and workout classes in the app's marketplace.
+
+About 20,000 sweatcoins -- that's just over 21 million steps -- can be exchanged for an iPhone X.
+
+"If you remember that your steps can be converted into something valuable, you're slightly more likely to walk rather than take a bus," Derlyatka said.
+
+Some users have complained, though, that it can take a long time to accrue enough sweatcoins to purchase the more appealing items - and that sometimes the ones they're really interested in have disappeared by the time they reach the required amount.
+
+Available in the US and the UK, the app now has 10 million users. Its creators say that its success hinged on making sure the step-counting technology was watertight. As creators said they realized that as soon as they turn movement into currency, into value, they are automatically attracting a lot of falsification. There are thousands of people who attempt to trick them every day. To stop people cheating, Sweatcoin uses a cellphone's inbuilt step sensor to track movement. An algorithm then checks the phone's readings for speed, consistency of movement and location to eliminate any false data.
+
+# Lesson 16
+
+## Homework
+
+### Coursebook p. 32 - 33
+
+**ex. 1**
+
+I think for me it will be interesting job bacause I love doing sports and going to the gym. Also it a good chance to communicate with ineteresting people.
+
+**ex. 2**
+
+1. Customer service - introduce a customer care programme and deal with complaints (b)
+2. Finance - prepare budgets and look at ways of reducing costs (e)
+3. Strategy - set objectives for growth and put together a five-year plan (d)
+4. Personal management - lead and motivate a team and recruit new staff (a)
+5. Marketing - develop advertising campaigns and research new markets (c)
+
+**ex. 4a**
+
+- Educational qualification and experience are not so important
+- Candidate should be pretty stressfull, very flexible, dynamic, energetic, enthusiastic, outgoing person who can work with different people from different cultures, be very determined, have interest in health and fitness, have good communication skills, person who looking for long-term career 
+- They are offering a competitive salary, good packs and nice working enviroment
+- Job are not very glamorous
+
+**ex. 5a**
+
+1. Now, looking at your CV. I'd like to know what you learned in your last job.
+2. I'm also interested in knowing your reasons for leaving the job.
+3. Now, a question we like to ask all our candidates. What are your strong points?
+4. I was wondering what you feel you can bring to this job.
+5. OK. Thank you. A question now about your computer skills. What software are you familiar with?
+6. Let me follow that up with another question. How do you feel about working abroad?
+7. Right, thank you. Moving on, could you tell me what you think the growth areas in the leisure industry are?
+8. OK. Just one final question. Where do you think you'll be in five years' time?
+
+**ex. 5b**
+
+1. I'm glad you asked me that because I developed some important skills while I was there.
+2. That's a very good question. Basically it was no longer challenging enough.
+3. Well, without going into too much detail, I have very good people skills.
+4. Let me just think about that for a moment. Well, my sales and marketing experience should be very useful to you.
+5. I thought you might task me something about that. Well, what I can say is, I have a good knowledge of Excel and Word, and can prepare excellent Powerpoint presentations.
+6. I haven't really thought about that, to be honest, but I think it'd be really interesting.
+7. Well, I'm not an expert, but I think the boom in fitness centres will continue in the next few years.
+8. I'm afraid I don't know the answer to that, but I hope to be working for your campany in a senior position.
+
+### USA selections
+
+You might think that the person who receives the most votes wins, right?
+Wrong.
+
+This is because, contrary to popular belief, voters do not actually elect the president. Voters are merely indicating a preference for president, but the task of actually electing the president falls to 538 individual electors to the US Electoral College.
+
+**What is the Electoral College?**
+
+To put it simply, each state is assigned a number of electors to the Electoral College, based on that state’s delegation to the United States Congress.
+
+There are 50 states.
+
+Each state has two members of the US Senate, so there are 100 senators.
+
+There are 435 members of the US House of Representatives, who are appointed by state on the basis of population, with each state having a minimum of one.
+
+Therefore, the least populous states, such as Alaska and Wyoming, send three members to Congress - two senators and one representative. Conversely, the most populous state, California, sends two senators and 53 representatives, for a total of 55.
+
+California’s vote in the Electoral College is therefore 55.
+
+This means that all 50 states send a total of 535 members to Congress.
+
+In addition, the District of Columbia (Washington D.C.), sends one non-voting member to the House of Representatives (hence the slogan, “taxation without representation”), but no senators. However, when it comes to the Electoral College, D.C. is afforded the same number of votes as the smallest state - three.
+
+The total votes in the Electoral College is therefore 538.
+
+To win the presidency, a candidate needs an absolute majority vote in the Electoral College, which is half plus one, or 270. This is why you will hear a lot about the magic number “270” on Election Day.
+
+If no one wins an absolute majority of the Electoral College, then the election is decided by a vote in the US House of Representatives, which has occurred on just one occasion (1824).
+
+Electoral College “electors” are not usually members of Congress. Depending on the state, “electors” are elected by voters or state legislatures, or they are appointed.
+
+**Election day voting**
+
+Forty-eight states, plus the District of Columbia, have a winner-takes-all approach to their Electoral College votes. This means that on election day, if Hillary Clinton wins the popular vote in California by a single vote, she wins all of California’s 55 Electoral College votes.
+
+It therefore does not matter by how many votes Clinton or Trump win in each state, as long as they win more than the next person. A majority vote is not required, as the winner of the popular vote for each state by a plurality will win all of the electoral college votes.
+
+There are two exceptions: Maine and Nebraska.
+
+These two states award some of their electoral college votes on the basis of congressional district.
+
+For example, Maine has two members of the House of Representatives, plus two senators, therefore it has four electoral college votes. One vote is awarded to whichever presidential candidate wins the most votes in each of the two congressional districts. The state’s two “senatorial” votes are then awarded to whoever wins the most votes overall in the state. This is why in 2008, Barack Obama won a single vote from Nebraska, because he won one of Nebraska’s three districts, while John McCain won the other two, and the state.
+
+Confused? If you have made it this far, then you are almost an expert! Well done.
+
+Long before election day, we know how most of the states will vote. For example, we know that Alabama will vote for Trump, and we know that Rhode Island will vote for Clinton. In fact, we already know what the result will be in approximately 40 states.
+
+So candidates focus their campaigns on the remaining 10 states in which the outcome is less certain. These states comprise the so-called “swing” states, such as Florida, Ohio, Nevada, Virginia, and Colorado, plus a few others, like North Carolina, Missouri, and Indiana.
+
+In the final two weeks before election day, it is these swing states that will receive all the attention from candidates.
+
+So a presidential candidate is not aiming to win the popular vote across the country. They are not aiming to win all 50 states (although several have come close, such as Richard Nixon in 1972, and Ronald Reagan in 1984, each of whom won 49 states). A presidential candidate is aiming to win a majority of the Electoral College, in whatever shape that takes.
