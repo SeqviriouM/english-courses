@@ -23,7 +23,7 @@ I work as frontend developer. So it recuires creativity to create interesting ap
 - energetic (энергичный),
 - generous (великодушный),
 - organized (организованный, собранный),
-- reliable (ответственный),
+- reliable (надежный),
 - sensible (благоразумный),
 - sensitive (чувствительный),
 - sociable (общительный),
@@ -919,7 +919,7 @@ Down:
 # Lesson 10
 
 Static verbs:
-- verbs denoting statical percaption: 
+- verbs denoting statical percaption
 - verbs denoting emoutions: like, disklike, hate, love, respect, care for
 - verbs denoting wish: desire, want, wish
 - verbs denoting mental processes: know, think, recognize, expect, believe, consider, doubt
@@ -1135,7 +1135,7 @@ This is probably the biggest and most obvious difference. The British are not us
 British society is based on the idea that everybody follows the same rules. No one is above the law. America are more customer-oriented. Americans take pride in making the best use of their time
 
 
-# Lesson 10
+# Lesson 11
 
 ## Homework
 
@@ -1171,7 +1171,7 @@ This article is about changing America’s demographics. In less than 30 years, 
 | Лесото | - | Basothian | a Basothian | the Basothians
 
 
-# Lesson 11
+# Lesson 12
 
 - stubbornly - упорно
 - having a swell time - хорошо проводить время
@@ -1285,7 +1285,7 @@ What do you think? Do you have any ideas for this question?
 | Южно-Африканская Республика | South Africa | South African | a South African | the South Africans
 | Южный Судан | South Sudan /suˈdæn/ | South Sudanese | a South Sudanese | the South Sudanese
 
-# Lesson 12
+# Lesson 13
 
 Синоним great:
 - solid
@@ -1404,7 +1404,7 @@ What do you think? Do you have any ideas for this question?
 - **Стрёмно** (scary, weird, unpleasant). **Стрёмно** is a funny word. You won’t find it in any Soviet academic dictionaries. In more recently published general dictionaries it is noted as vulgar.  I’m not quite sure, but the writer (Michele Berdy) has discovered that its origins are in prison slang. **Стрём** is both a look-out and the danger the look-out is looking out for. **Стрёмно** covers a range of meanings: dangerous, frightening, weird or unpleasant. *Мне стремно* (Мне страшно). You can say *стоять* (literally to stand) or *быть на стрёме* (to be on guard). This can be external guard duty: *Вася, стоящий на стрёме*. Or it can be an internal guard: У меня чуткий сон, как у собаки. Да тут любой на стрёме будет. (I’m a light sleeper, like a dog. But anyone would be on edge here). You might hear **стрёмно** and related words used more to mean weird, wacko (сумашедший), or striking (поразительный). *Там стрёмная обстановка* (The situation there is hinky). The adjective стрёмный can refer to a person who is dangerous, fearless, and powerful: *Видишь этого стрёмного мужика?*
 
 
-# Lesson 13
+# Lesson 14
 
 - gild the lily - улучшать и без того достаточно хорошее
 - downpour - сильный дождь
@@ -1414,7 +1414,7 @@ What do you think? Do you have any ideas for this question?
 - nailing something - забить
 - screw it - забей на это
 
-# Lesson 14
+# Lesson 15
 
 - travel exprenses - командировочные расходы
 - bolt with nut - болт с гайкой
@@ -1492,7 +1492,7 @@ If a client can't afford a white foreigner, he or she is advised to choose black
 One the the most amaing and exicting job. I very like to view tricks. After some of them you want to start believing in magic. And today I want to show you imrpovisation (Have taken personal lessons from Geano Triggiano in Monday). Some of them I may not do very well, but I will try.
 
 
-# Lesson 14
+# Lesson 16
 
 **Linters**:
 
@@ -1599,7 +1599,7 @@ One the the most amaing and exicting job. I very like to view tricks. After some
 7. Shizuka has been watching TV all afternoon.
 8. Shizuka has watched five TV programmes this afternoon.
 
-# Lesson 15
+# Lesson 17
 
 ## Homework
 
@@ -1696,7 +1696,7 @@ Some users have complained, though, that it can take a long time to accrue enoug
 
 Available in the US and the UK, the app now has 10 million users. Its creators say that its success hinged on making sure the step-counting technology was watertight. As creators said they realized that as soon as they turn movement into currency, into value, they are automatically attracting a lot of falsification. There are thousands of people who attempt to trick them every day. To stop people cheating, Sweatcoin uses a cellphone's inbuilt step sensor to track movement. An algorithm then checks the phone's readings for speed, consistency of movement and location to eliminate any false data.
 
-# Lesson 16
+# Lesson 18
 
 ## Homework
 
@@ -1797,3 +1797,247 @@ So candidates focus their campaigns on the remaining 10 states in which the outc
 In the final two weeks before election day, it is these swing states that will receive all the attention from candidates.
 
 So a presidential candidate is not aiming to win the popular vote across the country. They are not aiming to win all 50 states (although several have come close, such as Richard Nixon in 1972, and Ronald Reagan in 1984, each of whom won 49 states). A presidential candidate is aiming to win a majority of the Electoral College, in whatever shape that takes.
+
+# Lesson 19
+
+- What is it exactly?
+- How long should it be?
+- Colud you give me more detail about each paragraph?
+
+1. Introduction
+2. Why you want a job
+3. Sell yourself, mention your skills, experience
+4. Conslusion
+
+### Coursebook p. 34 - 35
+
+**ex. 6**
+
+1. position
+2. degree
+3. delighted
+4. available for interview
+5. work placement
+6. skills
+7. look forward
+
+# Lesson 20
+
+- desire - желание, стремление
+
+### The importance of studying a foreign language, some features of monolingualism, bilingualism and multilingualism, your favorite language (why is it so?), the strangest language you have ever heard, the language you want  to study in the future.
+
+I guess the most important need in studying a foreign language is desire to travel. You need to know language on wich speak in country you plan to visit. Because without that you can't learn history of the country and sights. Also you can't correctly communicate with local residents.
+
+Particularly in some primarily monolingual countries — for instance, Japan or China — or native English - speaking countries, such as the United States, bilingualism or even multilingualism is not a rare or exceptional phenomenon in the modern world
+
+Body language is a type of non-verbal communication in which physical behavior, as opposed to words, are used to express information. Such behavior includes facial expressions, body posture, gestures, eye movement, touch and the use of space. It is also known as kinesics.
+
+Body language must not be confused with sign language, as sign languages are full languages like spoken languages and have their own complex grammar systems, as well as being able to exhibit the fundamental properties that exist in all languages. Body language, on the other hand, does not have a grammar and must be interpreted broadly, instead of having an absolute meaning corresponding with a certain movement, so it is not a language like sign language, and is simply termed as a "language" due to popular culture.
+
+My borther had been starting learn japanese. So, I can say it's very strange language. Espicailly all languages, where you need to learn about 50000 hieroglyphs are strange. For example the biggest chinese dictionary of hieroglyphs includes 85568 hieroglyphs. Also the process of drawing a hieroglyph is slower than letters.
+
+### Britain and America are two nations divided by a common language.
+
+Often it’s not just pronunciation that differs between how people from different geographical areas, countries or social classes pronounce the English language. Sometimes the actual words used are different too.
+
+I'm reading historical novel "London" (very recommend to read). And today have read interesting facts especially for our lesson. (One of the main characters of the novel is working in sewing business).
+
+In the UK "Pants" typically refers to underwear. It is also a slang term for "bad". As in *That's pants*. In other parts of the world, notably the USA, "pants" refers to trousers.
+
+The same story with word "vest" and "waistcoat" (жилетка). Brits use "waistcoast" when Americans use more simple word: "vest".
+
+Moreover there is an interesting word difference that I have found in Internet. There is a word "white coffee" used in Britain. Can you guess how this drink call in USA (because of the obvious problem). The correct answer: "coffee with cream".
+
+# Lesson 21
+
+## Homework
+
+- let you down - подводить
+- fall behind - отставать
+- get by - пройти, проходить
+- catch on - завоевать популярность, прижиться, понимать
+- take up - занимать, принять, брать, заняться, взяться
+- keep up with - угнаться
+- imbibe - впитывать
+- deposits of fat - жировые отложения
+
+### Coursebook p. 38-39
+
+**ex. 3**
+
+1. Organized and logical people find it easy to learn grammar rules.
+2. Musical people find it easy to develop a good accent.
+3. Extroverts find it easy to communicate in their native language and so often find it easy to speak a foreign language fluently.
+4. Flexible people can adapt to different dialects (the way a language is spoken in different areas).
+5. People who are bilingual already know two languages so learning one more is very easy.
+6. Learners of languages should make an effort to learn informal phrases, everyday expressions and even slang.
+
+**ex. 4c**
+
+1. Not given
+2. True (online tests)
+3. False
+4. True (or false)
+5. True
+
+
+**ex. 5a**
+
+1. keep up with - make as much progress as others
+2. pick up - learn easily
+3. catch on - understand
+4. fall behind - make less progress than other people
+5. get by - survive
+6. let you down - dissapoint/fail
+7. take up - start doing something, e. g. a new activity
+
+# Lesson 22
+
+- topical, current, vital - актуальный
+- actual - фактический, действительный
+- neat, careful - аккуратный
+- accurate - точный, правильный
+- barrister, laywer, solicitor, counsel - адвокат
+- aspirant - претендент
+- bullion - слиток
+- clear soup - бульон
+- clay - глина, пластилин
+- glue - клей
+- comic - комичный
+- comedian - комик
+- complexion - цвет лица
+- physique - телосложение
+- corps - корпус
+- corpse - трупы
+- scenery - декорация, пейзаж
+- decoration - украшение
+- Dutch - голландский
+- Danish - датский
+- faction - фракция
+- tendays, decade - десятилетие
+- economic - экономический
+- economical - экономный
+- familar - знакомый
+- offhand, unceremonious  - фамильярный
+- cripple - инвалид, калека
+- loyal - преданный
+- tolerant - лояльный
+- mayor - мэр
+- major - майор
+- physiсist - физик
+- principal - главный, основной
+- a man of principle - принципиальный человек
+- vise principal - замдиректора
+- prospect - перспектива
+- rapport - взаимопонимание
+- report - рапорт
+- receipt - квитанция, чек
+- recipe - рецепт
+- prescription - медицинский рецепт, предписание
+- satin - атлас
+- sateen - сатин
+- therapist - психотерапевт
+- troops - войска
+
+## Homework
+
+## Murphy. Unit 71
+
+- cauliflower - капуста
+- tulip - тюльпан
+
+**ex. 1**
+
+1. It's an insect.
+2. They're insects.
+3. It's a vegetable.
+4. It's a game.
+5. They're some birds.
+6. It's a building.
+7. They're some planets.
+8. It's a flower.
+9. They're some rivers.
+10. They're some musical instruments.
+11. He was a composer.
+12. He was a writer.
+13. He was a scientist.
+14. They were US presidents.
+15. She was an actress.
+16. They were singers.
+17. They were artists.
+
+**ex. 2**
+
+1. She's a nurse.
+2. She's a waiter.
+3. She's a journalist.
+4. He's a surgeon.
+5. He's a chef.
+6. He's a plumber.
+7. She is a tour guide.
+8. She is an interpreter.
+
+**ex. 3**
+
+1. some
+2. a
+3. -
+4. a
+5. an
+6. -
+7. a
+8. some
+9. -
+10. -
+11. a
+12. - [some]
+13. a / a
+14. -
+15. -
+16. a / some
+17. a / -
+18. a / -
+
+## Murphy. Unit 71
+
+**ex. 1**
+
+1. a / a / The
+2. an / A / a / The / the / the
+3. a / a / The / an [the] / the
+4. an / a / a [the] / the / a
+
+**ex. 2**
+
+1. a, the, the
+2. a, a, the
+3. a, the, the
+4. an / the, the, the
+5. the, a, a
+
+**ex. 3**
+
+1. an apple
+2. the dentist
+3. the door
+4. a mistake
+5. the bus station
+6. a problem
+7. the post office
+8. the floor
+9. the book
+10. a job / a bank [-]
+11. a small apartment / the city centre
+12. a supermarket / the end [-] / the street
+
+**ex. 4**
+1. Three or four times a year.
+2. Tho times a year.
+3. Once a year.
+4. Sixty kilometers an hour.
+5. Eight hours a day.
+6. Three or four times a week.
+7. Once a month.
+8. 20$ a day.
+
