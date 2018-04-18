@@ -1894,12 +1894,13 @@ Moreover there is an interesting word difference that I have found in Internet. 
 
 # Lesson 22
 
-- topical, current, vital - актуальный
-- actual - фактический, действительный
+- topical, current, vital, relevant - актуальный
+- actual, valid - фактический, действительный
 - neat, careful - аккуратный
 - accurate - точный, правильный
 - barrister, laywer, solicitor, counsel - адвокат
 - aspirant - претендент
+- postgraduate - аспирант
 - bullion - слиток
 - clear soup - бульон
 - clay - глина, пластилин
@@ -1915,6 +1916,7 @@ Moreover there is an interesting word difference that I have found in Internet. 
 - Dutch - голландский
 - Danish - датский
 - faction - фракция
+- fraction - дробь
 - tendays, decade - десятилетие
 - economic - экономический
 - economical - экономный
@@ -1939,6 +1941,7 @@ Moreover there is an interesting word difference that I have found in Internet. 
 - sateen - сатин
 - therapist - психотерапевт
 - troops - войска
+- products, goods - товары
 
 ## Homework
 
@@ -1991,7 +1994,7 @@ Moreover there is an interesting word difference that I have found in Internet. 
 9. -
 10. -
 11. a
-12. - [some]
+12. - 
 13. a / a
 14. -
 15. -
@@ -1999,14 +2002,14 @@ Moreover there is an interesting word difference that I have found in Internet. 
 17. a / -
 18. a / -
 
-## Murphy. Unit 71
+## Murphy. Unit 72
 
 **ex. 1**
 
 1. a / a / The
 2. an / A / a / The / the / the
-3. a / a / The / an [the] / the
-4. an / a / a [the] / the / a
+3. a / a / The / the / the
+4. an / a / the / the / a
 
 **ex. 2**
 
@@ -2040,4 +2043,201 @@ Moreover there is an interesting word difference that I have found in Internet. 
 6. Three or four times a week.
 7. Once a month.
 8. 20$ a day.
+
+## Retelling the text
+
+- insist - настаивать
+- perceptions - восприятие
+- consonant - согласные
+
+The main idea of the article is that a language attractive is connected to national attractive. I agree that most people strating learn language depends on its status. For example English is spoken all over the world, so it is needed to be learnt. Chinese is gaining in popularity because it is seen as an area of economic growth and speaking it means better job prospects. But I am not agree with dr Vineeta Chand's idea. She insists that there is nothing in the sound of the language that makes it less or more attractive. But it there is. And it is called melody. Because of this roman emperor Charles V said, that he speaks German to his horse. In each language there is some count of specific sounds that may find alien for foreigners. Also in language may be unusal sound combinations such as consonant clusters. And the fewer such combinations in language the more attractive it will look. Not for nothing Italian is widely considered a beautiful language (because it has very few sounds, that a not shared by other European languages and few consonant clusters).
+
+# Lesson 23
+
+- blow your mind - сделать меня счастливым
+- point out - указывать
+- loaf of bread - буханка хлеба
+
+## Homework
+
+### Murphy. Unit 73
+
+**ex. 1**
+
+### Murphy. Unit 74
+
+### Fictional language: Na'vi
+
+- sapient - мудрый
+- resemble - напоминать, иметь сходство
+- appealing - притягательный, привлекательный
+
+The Naʼvi language is the constructed language of the Naʼvi, the sapient humanoid indigenous inhabitants of the fictional moon Pandora in the 2009 film Avatar. It was created by Paul Frommer, a professor at the USC Marshall School of Business with a doctorate in linguistics. Naʼvi was designed to fit James Cameron's conception of what the language should sound like in the film, to be realistically learnable by the fictional human characters of the film, and to be pronounceable by the actors, but to not closely resemble any single human language.
+The Naʼvi language was developed under three significant constraints. First, Cameron wanted the language to sound alien but pleasant and appealing to audiences. Second, since the storyline included humans who have learned to speak the language, it had to be a language that humans could plausibly learn to speak. And finally, the actors would have to be able to pronounce their Naʼvi dialogue without unreasonable difficulty. All Naʼvi linguistic elements are found in human languages, but the combination is unique.
+
+There are seven vowels, a ä e i ì o u.
+
+The first one vowel is repseneted by charecter:
+
+**a**
+
+aah [uh] - father
+
+**ä**
+
+ahh [æh] - cat
+
+**e**
+
+e [э] as *e* in english word *exit*.
+
+**i**
+
+i [и] as *i* in english word *machine*.
+
+**ì**
+
+ì [и] - короткий. Simple pronociation as in english word thin or bit.
+
+**o**
+
+It's pronociation near to english *o*
+
+o [оу] as *o* in english word mow [косить].
+
+**u**
+
+To do this sound you need to do monkey sound.
+
+u [у] as *o* in english word do
+
+Although all the sounds were designed to be pronounceable by the human actors of the film, there are unusual consonant clusters, as in fngap [fŋap] "metal". 
+
+The fictional language Naʼvi of Pandora is unwritten. However, the actual language is written in the Latin script for the actors of Avatar. Some words include: zìsìt "year", fpeio "ceremonial challenge", ’awve "first" (’aw "one"), muiä "fair", tireaioang "spirit animal", tskxe "rock", kllpxìltu "territory", uniltìrantokx "avatar" (dream-walk-body).
+
+There are additionally four diphthongs: aw [aw], ew [εw], ay [aj], ey [εj], and two syllabic consonants: ll [l̩] and rr [r̩], which mostly behave as vowels.
+
+Naʼvi does not have vowel length or tone, but it does have contrastive stress: túte "person", tuté "female person".
+
+#### Grammar
+Naʼvi has free word order. For example, the English "I see you" (a common greeting in Naʼvi), can be as follows in Naʼvi:
+
+Oel ngati kameie
+
+Ngati oel kameie
+
+Oel kameie ngati
+
+
+#### Noun
+
+Nouns in Naʼvi show greater number distinctions than those in most human languages do: besides singular and plural, they not only have special dual forms for two of an item (eyes, hands, lovers, etc.), which are common in human language (English has a remnant in "both"), but also trial forms for three of an item, which on Earth are only found with pronouns. The plural prefix is ay+, and the dual is me+.
+
+Masculine and feminine nouns may be distinguished by suffix. There are no articles (words for "a" or "the").
+
+
+# Lesson 24
+
+This recording is about
+The main idea of this text is
+
+Describe some other ideas,
+
+Conclusion, your opinion
+
+## Homework
+
+### Tongue twister
+
+If a packet hits a pocket on a socket on a port,
+
+And the bus is interrupted as a very last resort,
+
+And the address of the memory makes your floppy disk abort,
+
+Then the socket packet pocket has an error to report!
+
+
+If your cursor finds a menu item followed by a dash,
+
+And the double-clicking icon puts your window in the trash,
+
+And your data is corrupted 'cause the index doesn't hash,
+
+then your situation's hopeless, and your system's gonna crash!
+
+
+If the label on the cable on the table at your house,
+
+Says the network is connected to the button on your mouse,
+
+But your packets want to tunnel on another protocol,
+
+That's repeatedly rejected by the printer down the hall,
+
+
+And your screen is all distorted by the side effects of gauss,
+
+So your icons in the window are as wavy as a souse,
+
+Then you may as well reboot and go out with a bang,
+
+'Cause as sure as I'm a poet, the sucker's gonna hang!
+
+
+When the copy of your floppy's getting sloppy on the disk,
+
+And the microcode instructions cause unnecessary risk,
+
+Then you have to flash your memory and you'll want to ram your rom.
+
+Quickly turn off the computer and be sure to tell your mom!
+
+
+### Murphy. Unit 75
+
+**ex. 1**
+
+1. I don't like hot weather very much.
+2. I like bananas.
+3. I'm not interested kin opera.
+4. I don't mind fast food.
+5. I don't mind horror movies.
+
+**ex. 2**
+
+1. My favorite sport is basketball.
+2. The information we were given wasn't correct.
+3. Some people are afraid of spiders.
+4. A vegetarian is somebody who doesn't eat meat.
+5. The test wasn't very difficult. I answered the questions without difficulty.
+6. Do you know the people who live next door?
+7. History is the study of the past.
+8. It's better to tell truth. Telling lies usually causes problems.
+9. We couldn't find anywhere to stay in the town. The hotels were full.
+10. The water in the pool didn't look very clean, do we didn't go for swim.
+11. Don't sit on the grass. It's wer after the rain.
+12. You need patience to teach young children.
+
+**ex. 3**
+
+1. I'm afraid of dogs.
+2. Apples are good for you.
+3. Look at the apples on that tree! Theyre very big.
+4. Women live longer that men.
+5. I don't drink tea. I don't like it.
+6. We had a very good meal. The vegetables were especially good.
+7. Life is strange sometimes. Some very strange things happen.
+8. I enjoy the holidays by the sea.
+9. How much money does the government spend on education?
+10. Who are the people in this picture?
+11. What makes people violent? What causes agression?
+12. All the books on the top shelf belong to me.
+13. Don't stay in that hotel. It's very noisy and the rooms are very small.
+14. A pacifist is somebody who is against war.
+15. The First World War lasted from 1914 until 1918.
+16. I don't like films that don't have happy endings.
+17. Someone gave me a book about the history of modern art.
+18. Rob and Louise got married, but the marriage didn't last very long.
+19. Most people believe that marriage abd family life are the basis of society.
 
