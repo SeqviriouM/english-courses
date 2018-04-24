@@ -1700,7 +1700,7 @@ Available in the US and the UK, the app now has 10 million users. Its creators s
 
 ## Homework
 
-### Coursebook p. 32 - 33
+### Coursebook p. 32-33
 
 **ex. 1**
 
@@ -1809,7 +1809,7 @@ So a presidential candidate is not aiming to win the popular vote across the cou
 3. Sell yourself, mention your skills, experience
 4. Conslusion
 
-### Coursebook p. 34 - 35
+### Coursebook p. 34-35
 
 **ex. 6**
 
@@ -2216,7 +2216,7 @@ Quickly turn off the computer and be sure to tell your mom!
 8. It's better to tell truth. Telling lies usually causes problems.
 9. We couldn't find anywhere to stay in the town. The hotels were full.
 10. The water in the pool didn't look very clean, do we didn't go for swim.
-11. Don't sit on the grass. It's wer after the rain.
+11. Don't sit on the grass. It's wet after the rain.
 12. You need patience to teach young children.
 
 **ex. 3**
@@ -2240,4 +2240,94 @@ Quickly turn off the computer and be sure to tell your mom!
 17. Someone gave me a book about the history of modern art.
 18. Rob and Louise got married, but the marriage didn't last very long.
 19. Most people believe that marriage abd family life are the basis of society.
+
+
+# Lesson 25
+
+## Homework
+
+### Murphy. Unit 76
+
+**ex. 1**
+
+1.  a. the giraffe
+    b. the cheetah
+    c. the kangaroo
+2.  a. the swan (лебедь)
+    b. the penguin
+    c. the owl
+3.  a. the wheel
+    b. the laser
+    c. the telescope
+4.  a. the rupee
+    b. the dollar
+    c. the ruble
+
+**ex. 2**
+
+1. When was the telephone invented?
+2. Can you play a musical instrument?
+3. Jessica plays the violin in a orchestra.
+4. There was a piano in the corner of the room.
+5. Can you play the piano?
+6. Our society is based on the family.
+7. Martin comes from a large family.
+8. The computer has changed the way we live.
+
+**ex. 3**
+
+1. The young have future in their hands.
+2. Ambulance arrived at the scene of the accident and took the injured to hospital.
+3. Life is all right if you have a job, but things are not so easy for the unemployed.
+4. Helen has been a nurse all her life. She has spent her life caring for the sick.
+5. In England there is an old story about a man called Robin Hood. It is said that he robbed the rich and gave the money to the poor.
+
+**ex. 4**
+
+1. Canada - a Canadian - Canadians
+2. Germany - a German - Germans
+3. France - a Frenchman - the French
+4. Russia - a Russian - Russians
+5. China - a Chinese - the Chinese
+6. Brazil - a Brazilian - the Brazilians
+7. England - an Englishman - the English
+
+### Coursebook p. 40-41
+
+
+# Lesson 26.
+
+## Sequence of tenses (Согласование времен)
+
+I think [that] you go to school.
+
+> Present Simple <главная часть> + любое время <придаточная часть>
+
+I thought you went to school - произошел сдвиг времени (back shift)
+
+> Past Simple <главная часть> + back shift (сдвиг времени назад) <придаточная часть>
+
+**need** и **ought to** - не меняются
+**must** - переходит в **had to** (или остается)
+**may** - переходит в **might**, когда употребляется в значении "может" (или остается)
+
+"I will meet this man here tomorrow".
+
+He said he would meet that man there the next day.
+
+**Исклочения**
+
+1. Действия, которые актуальны и не изменились с прошлого раза. *He boasted (хвастался) there is a forest in front of his house. (Лес все еще)*
+2. Общеизвестные факты. *He said the Earth goes aroung the sun.*
+3. Согласие/несогласие. *This is a really absolutely symbolic and typical of the Russian Federation*. Если передающий не согласен с фактом, то будет сдвиг времени. Если передающий согласен - то оставит текущее время.
+4. Мы не сдвигаем времена, если указано точное время (например, явно задан год). *I finished school in 2002*, *She said she finished school in 2002.*
+
+## Использование будущего времени
+
+- We use **will** to talk about unplanned decisions and promises that we make at the time of speaking, and to make predictions about the future.
+- We use **present continuous** to talk about fixed arrangements, usually involving other people.
+- We use **going to** to talk about plans or intentions (something which you have already decided).
+
+## Homework
+
 
