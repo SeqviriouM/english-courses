@@ -2295,7 +2295,7 @@ Quickly turn off the computer and be sure to tell your mom!
 ### Coursebook p. 40-41
 
 
-# Lesson 26.
+# Lesson 26
 
 ## Sequence of tenses (Согласование времен)
 
@@ -2317,7 +2317,7 @@ He said he would meet that man there the next day.
 
 **Исклочения**
 
-1. Действия, которые актуальны и не изменились с прошлого раза. *He boasted (хвастался) there is a forest in front of his house. (Лес все еще)*
+1. Действия, которые актуальны и не изменились с прошлого раза. *He boasted (хвастался) there is a forest in front of his house. (Лес все еще есть)*
 2. Общеизвестные факты. *He said the Earth goes aroung the sun.*
 3. Согласие/несогласие. *This is a really absolutely symbolic and typical of the Russian Federation*. Если передающий не согласен с фактом, то будет сдвиг времени. Если передающий согласен - то оставит текущее время.
 4. Мы не сдвигаем времена, если указано точное время (например, явно задан год). *I finished school in 2002*, *She said she finished school in 2002.*
@@ -2330,4 +2330,126 @@ He said he would meet that man there the next day.
 
 ## Homework
 
+### Murphy. Unit 77
 
+**ex. 1**
+
+1. Who is Doctor Johnson?
+2. I was ill, so I went to see the doctor.
+3. The most powerful person in the United States is the president.
+4. President Kennedy was assassinated in 1963.
+5. Do you know the Wilsons? They're a very nice couple.
+6. I'm looking for Professor Brown. Do you know where she is?
+
+
+**ex. 2**
+
+1. Everest was first climbed in 1953.
+2. Milan is in the north of Italy.
+3. Africa is much larger than Europe.
+4. Last year I visited Mexico and the United States.
+5. The south of England is warmer than the north.
+6. Portugal is in western Europe.
+7. France and Britain are separated by the Channel.
+8. James has travelled a lot in the Middle East.
+9. Chicago is on Lake Michigan.
+10. Next year we're going skiing in the Swiss Alps.
+11. UK consists of Great Britain and Northern Ireland.
+12. The Seychelles are a group of islands in the Indian Ocean.
+13. The highest mountain in Africa is Kilimanjaro.
+14. The river VOlga flows into the Caspian Sea.
+
+**ex. 3**
+
+1. the Atlantic
+2. South Africa
+3. the Nile
+4. Sweden
+5. the United States
+6. the Andes
+7. the Mediterranean
+8. Australia
+9. the Pacific Ocean
+10. the Indian Ocean
+11. the Thames
+12. the Danube
+13. Thailand
+14. the Panama Canal
+15. the Amazon
+
+### Coursebook p.42
+
+**ex. 2a**
+
+1. Greek
+2. 4.5%
+3. over 3000
+
+**ex. 2b**
+
+1.  a. Migration.
+    b. Destroying areas by the search for oil and wood.
+    c. Natural disasters.
+    d. Establishing "official language" in country.
+2.  Because they think, that languages die as the human race evolves. And it could be great if everyone speak the same language.
+3.  As languages are lost, whole ways of life and knowledge may be lost along with then.
+4.  a. Calculated that in the past 500 years 4.5 percent of languages have died out.
+    b. Claims, that that 417 languages are spoken by so few people tht they are in the final stage stages of becoming extinct.
+    c. Sums it up: "if you grow up not speaking your language, you won't know who you are".
+
+**ex. 3**
+
+1. dissapear, die out - to stop existing
+2. extinction - a noun used for when something stops existing (вымирание)
+3. disappearance
+4. extinct
+5. devastate - a verb meaning 'to damage something very badly' (опустошать)
+6. disastrous - an adjective meaning 'very bad' or 'ending in failure' (гибельный, пагубный)
+
+### Sequence of tenses exercises
+
+**ex. 1**
+
+1. I was afraid that you would fall and break your leg.
+2. I knew that my friend had never been to Washington.
+3. I was told that she never drank milk.
+4. We were told that he was a very talented songer.
+5. We knew they lived a happy life.
+6. She thought the children were playing in the yard.
+7. She hoped that her friend would come to see her.
+8. He thought father had repaired his bicycle.
+9. I supposed she knew English very well.
+10. We were sure that our sportsmen would win the game.
+
+**ex. 2**
+
+1. All were sure Andrew would successfully pass exams.
+2. He said Lev Tolstoy was his favoriter writer.
+3. I knew you were living in Moscow but hadn't know your address.
+4. He said he would give up smoking.
+5. All knew she would go to Rome.
+6. Sorry, we didn't think you were waiting us.
+7. I didn't know you also liked football.
+8. I was sure he would be outstanding artist.
+9. I was afraid you wouldn't take my advice.
+10. He said he didn't know when the conference was going to start.
+11. Sister said that she wanted to come to us on her own.
+12. I knew she was very busy.
+13. Nobody knew you were waiting there.
+14. The guide warned us that traffic in that part of town was quite strong.
+15. The secretary didn't notice that the headmaster was talking with someone.
+16. He said me yesterday that he had studied in university.
+17. We decided last week that next summer we would go to Crimea. 
+
+**ex. 3**
+
+1. "I will go to see doctor tomorrow".
+2. "I'm ill".
+3. "I fell (have fallen) ill".
+4. "Tom didn't come to school yesterday".
+5. "You may catch a cold".
+6. "I caught(have caught) a cold".
+7. "We stayed (have stayed) on deck all the time while crossing the English Channel".
+8. "I felt (have felt) sick while crossing the Channel".
+9. "I'm feeling bad today".
+10. "I spent (have spent) a month at a seaside".
