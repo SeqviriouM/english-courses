@@ -2354,15 +2354,15 @@ He said he would meet that man there the next day.
 8. James has travelled a lot in the Middle East.
 9. Chicago is on Lake Michigan.
 10. Next year we're going skiing in the Swiss Alps.
-11. UK consists of Great Britain and Northern Ireland.
+11. The UK consists of Great Britain and Northern Ireland.
 12. The Seychelles are a group of islands in the Indian Ocean.
 13. The highest mountain in Africa is Kilimanjaro.
-14. The river VOlga flows into the Caspian Sea.
+14. The river Volga flows into the Caspian Sea.
 
 **ex. 3**
 
 1. the Atlantic
-2. South Africa
+2. South America
 3. the Nile
 4. Sweden
 5. the United States
@@ -2377,7 +2377,7 @@ He said he would meet that man there the next day.
 14. the Panama Canal
 15. the Amazon
 
-### Coursebook p.42
+### Coursebook p. 42
 
 **ex. 2a**
 
@@ -2424,28 +2424,28 @@ He said he would meet that man there the next day.
 **ex. 2**
 
 1. All were sure Andrew would successfully pass exams.
-2. He said Lev Tolstoy was his favoriter writer.
-3. I knew you were living in Moscow but hadn't know your address.
+2. He said Lev Tolstoy was his favorite writer.
+3. I knew you were living in Moscow but didn't know your address.
 4. He said he would give up smoking.
 5. All knew she would go to Rome.
-6. Sorry, we didn't think you were waiting us.
+6. Sorry, we didn't think you were waiting for us.
 7. I didn't know you also liked football.
-8. I was sure he would be outstanding artist.
-9. I was afraid you wouldn't take my advice.
-10. He said he didn't know when the conference was going to start.
+8. I was sure he would be an outstanding actor.
+9. I was afraid you wouldn't follow my advice.
+10. He said he didn't know when the conference would start.
 11. Sister said that she wanted to come to us on her own.
 12. I knew she was very busy.
 13. Nobody knew you were waiting there.
-14. The guide warned us that traffic in that part of town was quite strong.
+14. The guide warned us that traffic in that part of town was heavy.
 15. The secretary didn't notice that the headmaster was talking with someone.
 16. He said me yesterday that he had studied in university.
-17. We decided last week that next summer we would go to Crimea. 
+17. We decided last week that next summer we would go to the Crimea. 
 
 **ex. 3**
 
 1. "I will go to see doctor tomorrow".
 2. "I'm ill".
-3. "I fell (have fallen) ill".
+3. "I felt (have fallen) ill".
 4. "Tom didn't come to school yesterday".
 5. "You may catch a cold".
 6. "I caught(have caught) a cold".
@@ -2453,3 +2453,254 @@ He said he would meet that man there the next day.
 8. "I felt (have felt) sick while crossing the Channel".
 9. "I'm feeling bad today".
 10. "I spent (have spent) a month at a seaside".
+
+# Lesson 27
+
+## Homework
+
+### Murphy. Unit 78
+
+**ex. 1**
+
+1. Yes, the Odeon in Market Street.
+2. Yes, Turner's Supermarket in Carter Road.
+3. Yes, the Crown Hotel in Park Road.
+4. Yes, St. Peter's Church in Market Street.
+5. Yes, the City Museum in George Street.
+6. Yes, Blackstones's Books in Forest Avenue.
+7. Yes, Mario's Pizza in George Street.
+8. Yes, Victoria Park at the end of Market Street.
+
+**ex. 2**
+
+1. Times Square is in New York.
+2. The Eiffel Tower is in Paris.
+3. Buckingham Palace is in London.
+4. The White House is in Washington.
+5. The Kremlin is in Moscow.
+6. Broadway is in New York.
+7. The Acropolis is in Athens.
+8. Gatwick Airport is near London.
+
+**ex. 3**
+
+1. Have you ever been to the British Museum?
+2. The biggest park in New York is Central Park.
+3. My favorite park in London is St James's Park.
+4. Imperial Hotel is in Baker Street.
+5. Dublin Airport is situated about 12 kilometres from the city centre.
+6. Jack is a student at Liverpool University.
+7. If you're looking for a department store, I would recommend Harrison's.
+8. If you're looking for a hotel, I would recommend the Park Plaza.
+9. The Statue of Liberty is at the entrance to New York Harbour.
+10. You should go to the Science Museum. It's very interesting.
+11. Andy works for IBM now. He used to work for the British Telecom.
+12. Which cinema are you going to this evening? The Classic.
+13. I'd like to go to China and see the Great Wall.
+14. Which newspaper do you want? The Times.
+15. This book is published by the Cambridge University Press.
+16. What's that building? It's the College of Art.
+
+
+### Murphy. Unit 47
+
+**ex. 1**
+
+1. Steve said that he was living in London.
+2. He said that his father wasn't very well.
+3. He said Rachel and Mark were getting married next month.
+4. He said his sister had had a baby.
+5. He said he didn't know what Joe was doing.
+6. He said he saw (has seen) Helen at a party in June and she seemed (has seemed) fine.
+7. He said he hadn't seen Amy recently.
+8. He said he wasn't enjoying his job very much.
+9. He said that I could come and stay at his place if I were ever in London.
+10. He said his car was (had been) stolen a few days ago.
+11. He said he wanted to go on holiday, but he couldn't afford it.
+12. He said he would tell Chris he saw me.
+
+**ex. 2**
+
+1.  A: It's quite a long way from the hotel to the station.
+    B: Is it? The man on the reception desk said it was only five minutes walk.
+
+2.  A: Sue is coming to the party tonight.
+    B: Is she? I saw hew a few days ago and she said she couldn't come to the party.
+
+3.  A: Sarah gets on fine with Paul.
+    B: Does she? Last week you said they planned to kill each other.
+
+4.  A: Joe knows lots of people.
+    B: That's not what he told me. He said he didn't know anyone.
+
+5.  A: Jane will be here next week.
+    B: Oh, really? When I spoke to her, she said she went away.
+
+6.  A: I'm going out tonight.
+    B: Are you? I thought you said you stayed at home.
+
+7.  A: John speaks French quite well.
+    B: Does he? He told me he didn't know any other languages.
+
+8.  A: I haven't seen Bne recently.
+    B: That's strange. He told me he saw you last weekend.
+
+
+
+### Murphy. Unit 48
+
+**ex. 1**
+
+1. Dave works very hard. But you said he was lazy.
+2. Let's have fish for dinner. But you said you don't (didn't) like fish.
+3. I'm going to buy a car. But you told me you couldn't drive.
+4. Jane is always short of money. But you said Jane had a very well-paid job.
+5. My sister lives in Paris. But you said you said you didn't have any brothers or sisters.
+6. I think New York is a great place. But you said you had never been to the United States.
+7. Let's go out tomorrow evening. But you said you were working next day evening.
+8. I've never spoken to Jane. But you said Jane was a friend  of yours.
+
+**ex. 2**
+
+1. Ann said goodbye to me and left.
+2. Tell us about your holiday. Did you have a nice time?
+3. Don't just stand there. Say something.
+4. I wonder where Sue is. She said she would be here at 8 o'clock.
+5. Dan told me that he was bored with his job.
+6. The doctor said that I should rest for at least a week.
+7. Don't tell anybody what I said. It's a secret just between us.
+8. Did she tell you what happend? No, she didn't say anything to me.
+9. Gary couldn't help me. He told me to ask Chris.
+10. Gary couldn't help me. He said to ask Chris.
+
+**ex. 3**
+
+1. Will was taking a long time to get ready so I told him to hurry up.
+2. Sarah was driving too fast, so I asked her to slow down.
+3. Sue was nervoud about the situation. I told her to stop worry.
+4. I couldn't move the piano alone, so I asked Tom to give me a hand.
+5. The security guard looked at me suspiciously and asked me to open my bag.
+6. Tom was going to the shop, so I asked him to buy me a paper.
+7. The man started asking me personal questions, so I told him to mind his own business.
+8. John was in love with Marianne, so he asked her to marry him.
+9. I didn't want to delay Helen, so I told her not to wait me if I was late.
+
+### Reported speech exercises
+
+**ex. 1**
+
+1. I asked Nick where he was going.
+2. She asked me why I hadn't come there the day before.
+3. Pete asked his friends how he could get to the railway station.
+4. I asked Mike what he would do after dinner.
+5. Ben asked me who had brought this parcel (посылка).
+6. He didn't tell anybody where he was going.
+7. Did you know where he had gone?
+8. Nobody knew where he had lived.
+9. I forgot where I had put the book.
+10. He wondered how long it would take my brother to get to Madrid.
+
+**ex. 2**
+
+1. I asked him if his friend lived in London.
+2. They asked the man if he was living in a hotel.
+3. She asked me if I had sent them an e-mail.
+4. I asked my sister whether she would stay at home or go for a walk after dinner.
+5. We asked mother if anybody had come to see us.
+6. I didn't know the had sold the picture.
+7. I wondered if the knew anything about it.
+8. I was not sure if he was coming back that day.
+9. I wanted to know if she had gone shopping the day before.
+10. The girl asked me if I would take her to the theater with me the next day.
+
+### Workbook p. 25
+
+**ex. 1**
+
+1. slang
+2. accent
+3. native speakers
+4. grammar
+5. foreign languages
+6. bilingual
+7. dialect
+
+**ex. 2**
+
+1. My poor English often let me down.
+2. I'm quick to catch on and learn new words.
+3. She's currently fall behind the rest of the class.
+4. My friend take up languages really easily.
+5. I'm not fluent but I can get by in French when I'm travelling.
+6. I suggest you pick up a new language in your free time.
+7. Sorry, but I can't jeep keep up with you. Please speak more slowly.
+
+**ex. 3b**
+
+1. I can't keep_up with the class.
+2. Take_up a hobby.
+3. He catches_on well.
+4. She has a foreign_accent.
+5. I'm learning to drive a_car.
+6. Can I learn it_easily?
+
+
+### Workbook p. 26
+
+**ex. 1**
+
+1. They're going to do media studies at university when they finish school.
+2. I'm calling you back in an hour.
+3. People won't stop travelling by plane in the future.
+4. I'm going to see you this evening.
+5. We're meeting at three this afternoon.
+6. She's going to join us at the Red Cafe.
+7. When will you return from Beijing?
+8. Sorry, I'm not going to work here tomorrow so I can't help you.
+
+**ex. 2**
+
+1. 3
+2. 2
+3. 1
+4. 6
+
+**ex. 3**
+
+1. I've made a decision and I'm going to apply for a course in business.
+2. The haven't made a decision yet but they think they will probably leave tomorrow morning.
+3. We're meeting them outside the concert hall at 7 p.m.
+4.  A: We've got a problem because we don't have enough people in the team.
+    B: I've got ad idea. I'll ask my friend Mike. He plays soccer.
+5.  A: Do you want a game of tennis next week?
+    B: Sorry, I'm going to Jamaica on holiday on Saturday.
+6.  A: How do you intend to pay for it?
+    B: I don't know.
+    A: You could ask your father.
+    B: Good idea. I'll do that.
+7. I don't think people will use SMS texting in the future.
+8. We've booked the taxi. He's picking us up in the morning.
+9. My parents are selling their house and buy a boat! I don't think we can change their minds.
+10. A: When do you think we will see you again?
+    B: I really don't know.
+
+
+**ex. 4a**
+
+1. 7 (She is going to leave it fine).
+2. 6 (I'll go now if it's OK).
+3. 5 (I am going after lunch).
+4. 5 (We're meeting in a minute).
+5. 6 (They could be back at eight).
+6. 5 (He's catching the train tonight)
+7. 8 (It will work if we make it work).
+8. 7 (You're going to do it, aren't you?).
+
+**ex. 5**
+
+1. Will you parents let you go out tonight?
+2. The law doesn't permit anyone under age to drink in a bar.
+3. My teacher wont't allow me to go outside with my friends.
+4. When I'm on a diet I allow myself one ice cream once a week!
+5. Please note that smoking is not permitted on this flight.
+6. Let me try to do it.
