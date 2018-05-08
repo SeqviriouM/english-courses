@@ -30,6 +30,7 @@
 - [Lesson 25](#lesson-25)
 - [Lesson 26](#lesson-26)
 - [Lesson 27](#lesson-27)
+- [Lesson 28](#lesson-28)
 
 
 # Lesson 1
@@ -2572,8 +2573,8 @@ He said he would meet that man there the next day.
 7.  A: John speaks French quite well.
     B: Does he? He told me he didn't know any other languages.
 
-8.  A: I haven't seen Bne recently.
-    B: That's strange. He told me he saw you last weekend.
+8.  A: I haven't seen Ben recently.
+    B: That's strange. He told me he had seen you last weekend.
 
 
 
@@ -2585,7 +2586,7 @@ He said he would meet that man there the next day.
 2. Let's have fish for dinner. But you said you don't (didn't) like fish.
 3. I'm going to buy a car. But you told me you couldn't drive.
 4. Jane is always short of money. But you said Jane had a very well-paid job.
-5. My sister lives in Paris. But you said you said you didn't have any brothers or sisters.
+5. My sister lives in Paris. But you said you didn't have any brothers or sisters.
 6. I think New York is a great place. But you said you had never been to the United States.
 7. Let's go out tomorrow evening. But you said you were working next day evening.
 8. I've never spoken to Jane. But you said Jane was a friend  of yours.
@@ -2607,7 +2608,7 @@ He said he would meet that man there the next day.
 
 1. Will was taking a long time to get ready so I told him to hurry up.
 2. Sarah was driving too fast, so I asked her to slow down.
-3. Sue was nervoud about the situation. I told her to stop worry.
+3. Sue was nervousy about the situation. I told her to stop worry.
 4. I couldn't move the piano alone, so I asked Tom to give me a hand.
 5. The security guard looked at me suspiciously and asked me to open my bag.
 6. Tom was going to the shop, so I asked him to buy me a paper.
@@ -2637,8 +2638,8 @@ He said he would meet that man there the next day.
 3. She asked me if I had sent them an e-mail.
 4. I asked my sister whether she would stay at home or go for a walk after dinner.
 5. We asked mother if anybody had come to see us.
-6. I didn't know the had sold the picture.
-7. I wondered if the knew anything about it.
+6. I didn't know if they had sold the picture.
+7. I wondered if they knew anything about it.
 8. I was not sure if he was coming back that day.
 9. I wanted to know if she had gone shopping the day before.
 10. The girl asked me if I would take her to the theater with me the next day.
@@ -2734,3 +2735,13 @@ He said he would meet that man there the next day.
 4. When I'm on a diet I allow myself one ice cream once a week!
 5. Please note that smoking is not permitted on this flight.
 6. Let me try to do it.
+
+# Lesson 28
+
+**whether** используется:
+
+- когда в придаточная часть содердит предлог **or**: *I asked my sister whether she would stay at home or go for a walk after dinner*
+- когда главная часть заканчивается предлогом *I didn't figure out whether I would come*, *The was arguing about whether we should sell our car*.
+- перед инфинитивом: *They can't decide whether to get married*
+- когда длинное придаточное является подлежащим: *Whether we could stay with our mother is another question*, *The question is whether the woman can be trust*
+
