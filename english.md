@@ -2745,3 +2745,117 @@ He said he would meet that man there the next day.
 - перед инфинитивом: *They can't decide whether to get married*
 - когда длинное придаточное является подлежащим: *Whether we could stay with our mother is another question*, *The question is whether the woman can be trust*
 
+## Homework
+
+### Coursebook p. 42 - 43
+
+**ex. 2a**
+
+1. Greek
+2. 4.5%
+3. over 3000
+
+**ex. 2b**
+
+1.  a. Migration.
+    b. Destroying areas by the search for oil and wood.
+    c. Natural disasters.
+    d. Establishing "official language" in country.
+2.  Because they think, that languages die as the human race evolves. And it could be great if everyone speak the same language.
+3.  As languages are lost, whole ways of life and knowledge may be lost along with then.
+4.  a. Calculated that in the past 500 years 4.5 percent of languages have died out.
+    b. Claims, that that 417 languages are spoken by so few people tht they are in the final stage stages of becoming extinct.
+    c. Sums it up: "if you grow up not speaking your language, you won't know who you are".
+
+**ex. 3**
+
+1. dissapear, die out - to stop existing
+2. extinction - a noun used for when something stops existing (вымирание)
+3. disappearance
+4. extinct
+5. devastate - a verb meaning 'to damage something very badly' (опустошать)
+6. disastrous - an adjective meaning 'very bad' or 'ending in failure' (гибельный, пагубный)
+
+**ex. 5a**
+
+1. Yes, Bradana MacKinnon
+2. Number of people speaking Gaelic fallen from 44000 to 0
+3. False
+4. Students after university
+5. False (invest in books)
+6. Training teachers of Gaelic (true)
+
+**ex. 5b**
+
+1. If we have Gaelic-medium education at all levels, more people will speak Gaelic.
+2. If we have more TV and radio programmes in Gaelic, more people may listen to the language.
+3. Unless we all continue to promote Gaelic, there might not be a significant increase in speakers.
+4. When we reach our targets, we'll invest in more Gaelic books in public libraries.
+5. As soon as we get more gaelic speakers involves, we'll run more Gaelic language classes.
+
+**ex. 7a**
+
+1. If language die out, the world will be less interesting.
+2. You will never learn language well unless you know its grammar.
+3. If foreign words enter a language they will damage it.
+4. Languages will die out unless we protect them.
+5. If I study French more I might make fewer mistakes.
+6. I'll go home as soon as the class finishes.
+7. I'll revise when I get home.
+
+## German borrowings 
+
+The core of English — the basic words in the language — are Germanic. That's why it doesn't take too much effort to see the resemblance (*сходство*) between English and German words such as friend and Freund, sit and sitzen, son and Sohn, all and alle, water and Wasser, drink and trinken or house and Haus.
+
+English has borrowed many words from German. Some of those words have become a natural part of everyday English vocabulary:
+- angst [aŋst] - "fear" in English, a neurotic feeling of anxiety and depression - *страх, боязнь*
+- kindergarten [kɪndəgɑːtn] - *детский сад*
+- sauerkraut [ˈsaʊəkraʊt] - *кислая капуста*
+
+ While others are primarily intellectual, literary, scientific:
+ - Weltanschauung - [weltənʃəʌŋ] *мировоззрение*
+ - Zeitgeist [tsaɪtgaɪst] - *дух времени — интеллектуальная мода или доминирующая мыслительная традиция, определяющая и стандартизирующая стиль мышления определенной эпохи. Например, на архитектуру и другие сферы искусств двадцатого века существенно повлияли идеи модернизма*)
+  
+ Or used in special areas: 
+ - gestalt [ʤeˈsteɪlt] - *гештальт (Гештáльтпсихолóгия — это общепсихологическое направление, которое связано с попытками объяснения прежде всего восприятия, мышления и личности)* in psychology
+ - aufeis - *наледи* and loess - *лесс (Лесс - скрытослоистая, однородная известковистая осадочная горная порода светло-жёлтого или палевого цвета)* in geology.
+
+Some of these German words are used in English because there is no true English equivalent: 
+- gemütlich [ɡəˈmyːtlɪç] - *уютный, приветливый*
+- schadenfreude [skəˈdenfruːd] - *злорадство*.
+
+Some other german loan words in English:
+- autobahn - "freeway" - The German autobahn has almost mythical status.
+- Anschluss [ænʃələs] - "annexation" - specifically, the 1938 annexation of Austria into Nazi Germany (the Anschluss) - *аншлюс, присоединение*
+- aspirin - Aspirin (acetylsalicyclic acid) was invented by the German chemist Felix Hoffmann working for Bayer AG in 1899.
+- blitz [blɪts], blitzkrieg [ˈblɪtskriːg] - "lightning" - a sudden, overwhelming attack; the Nazi attack on England in WWII
+- coffee klatsch - a friendly get-together over coffee and cake - *кофейные сплетни*
+- concertmaster/concertmeister - the leader of the first violin section of an orchestra, who often also serves as assistant conductor (*дирижер*) - *концертмейстер - руководитель группы исполнителей в оркестре*
+- delicatessen [delɪkəˈtesn] - prepared cooked meats, relishes, cheeses, etc. - *деликатесы*
+- deli [delɪ] - a shop selling delicatessen - *гастроном*
+- diesel - the diesel engine is named for its German inventor, Rudolf Diesel.
+- doppelganger [dɒpəlˈgæŋər] - a ghostly double, look-alike, or clone of a person - *двойник - Доппельга́нгер, правильнее Доппельге́нгер — в литературе эпохи романтизма двойник человека, появляющийся как тёмная сторона личности или антитеза ангелу-хранителю*
+- dreck - trash, rubbis - *хлам*
+- fest - "celebration" - as in "film fest" or "beer fest"
+
+Here are a few more English words borrowed from German (many have to do with food or drink): bratwurst, dachshund, ersatz, frankfurter and wiener (named for Frankfurt and Vienna, respectively), glockenspiel, hinterland, infobahn (for “information highway”), kaffeeklatsch, pilsner (glass, beer), pretzel, quartz, rucksack, schnaps (any hard liquor), schuss (skiing), spritzer, (apple) strudel, verboten, waltz, and wanderlust
+
+### News 1. Elon Musk's LA tunnel is almost finished — and he's offering free rides.
+
+Musk, founder of the Boring Company, announced late Thursday that the tunneling startup has nearly finished building its first stretch of a Los Angeles tunnel.
+
+The tunnel will be a key component of its Loop transportation system, which will transport people in their own cars or passenger "pods" for bicyclists and pedestrians. The high-speed system will allow people to bypass LA traffic and get around the city faster.
+
+Musk said the public will be offered free rides on the Loop service in the upcoming months, if the company receives regulatory approval.
+
+The company has sought a permit (запросил разрешения) for a 2.7-mile tunnel in busy West Los Angeles, but its overall vision includes a 60-mile tunnel network that would be one of the largest subway networks in the United States.
+
+Musk said pedestrians and cyclists will receive priority access to the tunnels, and that access will cost less than a bus ticket.
+
+In typical Musk fashion, he didn't release other details. It's unclear how the public will get to experience Loop.
+
+Musk previously proposed placing people's cars on "electric skates" to move them in and out of the tunnel. In August 2017, he posted a video of a Tesla car entering the tunnel via an elevator.
+
+Musk's plans have drawn criticism from transportation experts who warn they may worsen traffic congestion. In theory, more people could gravitate to cars and wait in traffic jams at tunnel entry points.
+
+### News 2.
