@@ -31,6 +31,7 @@
 - [Lesson 26](#lesson-26)
 - [Lesson 27](#lesson-27)
 - [Lesson 28](#lesson-28)
+- [Lesson 29](#lesson-29)
 
 
 # Lesson 1
@@ -2805,12 +2806,12 @@ He said he would meet that man there the next day.
 
 ## German borrowings 
 
-The core of English — the basic words in the language — are Germanic. That's why it doesn't take too much effort to see the resemblance (*сходство*) between English and German words such as friend and Freund, sit and sitzen, son and Sohn, all and alle, water and Wasser, drink and trinken or house and Haus.
+The core of English — the basic words in the language — are Germanic. That's why it doesn't take too much effort to see the resemblance (*сходство*) between English and German words such as friend and Freund [фрёнт], sit and sitzen [зитсин], son and Sohn [зун], all and alle [але], water and Wasser [васа], drink and trinken [тринкин] or house and Haus [хаус].
 
 English has borrowed many words from German. Some of those words have become a natural part of everyday English vocabulary:
-- angst [aŋst] - "fear" in English, a neurotic feeling of anxiety and depression - *страх, боязнь*
+- angst [aŋst] - "fear" in English, a neurotic feeling of anxiety [æŋˈzaɪətɪ] and depression - *страх, боязнь*
 - kindergarten [kɪndəgɑːtn] - *детский сад*
-- sauerkraut [ˈsaʊəkraʊt] - *кислая капуста*
+- sauerkraut [ˈsaʊəkraʊt] - *квашеная капуста*
 
  While others are primarily intellectual, literary, scientific:
  - Weltanschauung - [weltənʃəʌŋ] *мировоззрение*
@@ -2818,7 +2819,7 @@ English has borrowed many words from German. Some of those words have become a n
   
  Or used in special areas: 
  - gestalt [ʤeˈsteɪlt] - *гештальт (Гештáльтпсихолóгия — это общепсихологическое направление, которое связано с попытками объяснения прежде всего восприятия, мышления и личности)* in psychology
- - aufeis - *наледи* and loess - *лесс (Лесс - скрытослоистая, однородная известковистая осадочная горная порода светло-жёлтого или палевого цвета)* in geology.
+ - aufeis - *наледи* and loess [ˈləʊɪs] - *лесс (Лесс - скрытослоистая, однородная известковистая осадочная горная порода светло-жёлтого или палевого цвета)* in geology.
 
 Some of these German words are used in English because there is no true English equivalent: 
 - gemütlich [ɡəˈmyːtlɪç] - *уютный, приветливый*
@@ -2842,20 +2843,97 @@ Here are a few more English words borrowed from German (many have to do with foo
 
 ### News 1. Elon Musk's LA tunnel is almost finished — and he's offering free rides.
 
+- congestion [kənˈʤesʧən] - затор
+- seek a permit - запросить разрешение
+
 Musk, founder of the Boring Company, announced late Thursday that the tunneling startup has nearly finished building its first stretch of a Los Angeles tunnel.
 
 The tunnel will be a key component of its Loop transportation system, which will transport people in their own cars or passenger "pods" for bicyclists and pedestrians. The high-speed system will allow people to bypass LA traffic and get around the city faster.
 
-Musk said the public will be offered free rides on the Loop service in the upcoming months, if the company receives regulatory approval.
+Musk said the public will be offered free rides on the Loop service in the upcoming months, if the company receives regulatory approval. Pedestrians and cyclists will receive priority access to the tunnels, and that access will cost less than a bus ticket
 
 The company has sought a permit (запросил разрешения) for a 2.7-mile tunnel in busy West Los Angeles, but its overall vision includes a 60-mile tunnel network that would be one of the largest subway networks in the United States.
-
-Musk said pedestrians and cyclists will receive priority access to the tunnels, and that access will cost less than a bus ticket.
 
 In typical Musk fashion, he didn't release other details. It's unclear how the public will get to experience Loop.
 
 Musk previously proposed placing people's cars on "electric skates" to move them in and out of the tunnel. In August 2017, he posted a video of a Tesla car entering the tunnel via an elevator.
 
-Musk's plans have drawn criticism from transportation experts who warn they may worsen traffic congestion. In theory, more people could gravitate to cars and wait in traffic jams at tunnel entry points.
+Musk's plans have drawn criticism from transportation experts who warn they may worsen traffic congestion [kənˈʤesʧən]. In theory, more people could gravitate to cars and wait in traffic jams at tunnel entry points.
 
-### News 2.
+### News 2. Brexit is going nowhere fast
+
+- wreak havoc [riːk ˈhævək] - сеять хаос
+
+Brexit is a word that used as a shorthand way of saying the UK leaving the EU - merging the words Britain and exit to get Brexit, in the same way as a possible Greek exit from the euro was dubbed Grexit in the past.
+
+Theresa May was against Brexit during the referendum campaign but is now in favour of it because she says it is what the British people want. Her key message has been that "Brexit means Brexit" and she triggered the two year process of leaving the EU on 29 March, 2017.
+
+With just over 10 months to go until Brexit day (March 29, 2019), the government is paralyzed by indecision over the future trading relationship it wants with the European Union.
+
+The policy choices will have profound implications for the economy and companies doing business in the United Kingdom.
+
+Prime Minister Theresa May has been unable to unite her cabinet over how to handle the flow of goods after Brexit, or what to do about the Irish border - the only land frontier between the United Kingdom and the European Union.
+
+Experts say the chance that Brexit won't happen is very slim, but the lack of progress and ever tighter deadlines are worrying investors and business executives. They fear a "no-deal" exit that would wreak havoc on the United Kingdom's relationship with its biggest export market.
+
+There wil be a period of time after 29 March, 2019, to 31 December, 2020, to get everything in place and allow businesses and others to prepare for the moment when the new post-Brexit rules between the UK and the EU begin. It also allows more time for the details of the new relationship to be fully hammered out. Free movement will continue during the transition period, as the EU wanted. The UK will be able to strike its own trade deals - although they won't be able to come into force until 1 January 2021
+
+Businesses are most worried about disagreements over trade. Should the United Kingdom remain in a customs union that allows goods to flow freely across the European Union? Should it leave? Or opt for somewhere in between?
+
+# Lesson 29
+
+## Homework
+
+### Murphy. Unit 49
+
+**ex. 1**
+
+1. My eyesight isn't very good. I need glasses.
+2. A species is a group of animals or plants that have the same characteristics.
+3. Footballers don't wear trousers when they play. They wear shorts.
+4. The bicycle is a means of transport.
+5. The bicycle and the car are some means of transport.
+6. I want to cut this piece of material. I need scissors.
+7. A friend of mine is writing series of articles for the local newspaper.
+8. There are a lot of American TV series shown on TV in Britain.
+9. While we were out walking, we saw many different species of bird.
+
+**ex. 2**
+
+1. mathematics
+2. politics
+3. economics
+4. athletics
+5. physics
+6. gymnastics
+7. electronics
+
+**ex. 3**
+
+1. Gymnastics is my favorite sport.
+2. The trousers you bought for me don't fit me.
+3. The police want to interview two men about the robbery last week.
+4. Physics was my best subject at school.
+5. Can I borrow your scissors? Mine aren't sharp enough.
+6. It's a nice place to visit. The people are very friendly.
+7. Fortunately the news wasn't as bad as we expected.
+8. Where do your family live?
+9. I can't find my binoculars. Do you know where they are?
+10. Do the police know how the accident happend?
+11. Germany are playing Spain tomorrow night, but it's not on TV.
+12. Most people enjoy music.
+
+**ex. 4**
+
+1. Three years is a long time.
+2. The government have decided to increase taxes.
+3. Susan was wearing black jeans.
+4. I don't like hot weather. Thirty degrees is too hot for me.
+5. I like Martin and Jane. They're very nice people.
+6. Ten pounds isn't enough. I need more money than that.
+7. I'm going to buy new pyjamas.
+8. The committee haven't made a decision yet.
+9. There were a police directing traffic in the street.
+10. What is the police going to do?
+11. The scissors aren't very sharp.
+12. Four days isn't enough for a good holiday.
