@@ -2937,3 +2937,31 @@ Businesses are most worried about disagreements over trade. Should the United Ki
 10. What is the police going to do?
 11. The scissors aren't very sharp.
 12. Four days isn't enough for a good holiday.
+
+### Oxford Practice Grammar. Unit 144
+
+**ex. A**
+
+1. If I ask my boss, he'll give me some time off work, I expect.
+2. Well, if there are enough people, we can hire a minibus.
+3. I won't be going if it's too expensive.
+4-5. It won't cost much if we all share the cost.
+6-7. If I see the others later on tonight, I ask them if they want to go.
+
+**ex. B**
+
+1. If Rachael fails her driving test, she can take it again.
+2. If United lose, Tom will be upset.
+3. If the office is closed, Mark can't get in.
+4. If Nick arrives a bit early, he can help Tom to get things ready.
+5. If the party is going on all night, no one will want to do any work tomorrow.
+6. If Emma misses the train, she can get the next one.
+7. If Matthew is going to enter the race, he'll probably win it / If Matthew enters the race, he'll probably win it.
+
+**ex. C**
+
+1. If you get promoted, your salary goes up.
+2. If I drink coffee late at night, I can't sleep.
+3. If you don't pay the bill, you will get a warning letter.
+4. If I try to run fast, I get out of breath.
+5. If someone enters the building, the alarm goes off.
