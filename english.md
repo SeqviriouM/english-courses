@@ -2965,3 +2965,82 @@ Businesses are most worried about disagreements over trade. Should the United Ki
 3. If you don't pay the bill, you will get a warning letter.
 4. If I try to run fast, I get out of breath.
 5. If someone enters the building, the alarm goes off.
+
+### Tongue twister
+
+Dr. Johnson and Mr. Johnson, after great consideration, came to the conclusion that the Indian nation beyond the Indian Ocean is back in education because the chief occupation is cultivation.
+
+Betty Botter bought some butter but, said she, the butter's bitter.
+If I put it in my batter, it will make my batter bitter.
+But a bit of better butter will make my bitter batter better.
+So she bought some better butter, better than the bitter butter,
+put it in her bitter batter, made her bitter batter better.
+So it was better Betty Botter bought some better butter.
+
+### Articles
+
+**Why does the Earth spin?**
+
+- draw - притягивать
+- drastically [ˈdræstɪklɪ] - радикально, кардинально
+- culrpit [kʌlprɪt] - виновник
+
+The story of why the Earth spins goes back to the formation of the Solar System. Roughly 4.7 billion years ago, the Solar System was a large swirling cloud of dust and gas. Over time this gradually coalesced into stars and planets, being drawn into these shapes by gravity. Being pulled inwards increased the angular momentum of the various bodies, and made them rotate faster.
+
+The law of inertia states that anything stationary or moving with a constant speed wants to continue doing so until it is acted upon by another body/force. Considering the Earth rotates in space, which is a vacuum, there is nothing to drastically slow the Earth down, which is why it continues to spin. 
+
+Interestingly, early in its formation, the Earth spun up to five times faster than it does now – so it has slowed down. The culprit is the moon. To understand it let's imagine you and a friend both pull on a rope, but at the same time you spin in a circle around a pivot at the centre of the rope. As you tug harder, you are eventually able to spin less and less fast. This is essentially what happened between Earth and the moon. The Earth is much bigger so continues to spin freely, but the moon’s rotation now matches the time it takes to complete one orbit. Small as it is, the moon will continue to effect the Earth and, in millions of years, a day could last up to 26 hours.
+
+**What happens to the unprotected human body in space?**
+
+- exhale [eksˈheɪl] - выдохнуть
+- tissues [ˈtɪʃuːs] - ткани
+- fragile [fræʤaɪl] - хрупкий
+- insignificant [ɪnsɪgˈnɪfɪkənt] - незначительный
+- evaporate [ɪˈvæpəreɪt] - испаряться
+- boil - закипать
+- saliva [səˈlaɪvə] - слюна
+- absence of oxygen - отсутсвие кислорода
+- suffocate [sʌfəkeɪt] - задохнуться
+- lose consciousness [kɔnʃəsnɪs] - потерять сознание
+- hypoxia [haɪˈpɒksɪə] - гипоксия
+- depressurization - разгерметизация
+
+We have been taught in school and university that space is very dangerous. But after watching some movies we can start think that it is not true. Especially after Star Wars where main characters fought on the collapsing spaceship and freely breath in space. So let's talk about what happens to the unprotected body in space.
+
+First of all a person will not explode, no matter how bright it may be shown in science fiction films. Human tissues/fabric are not elastic balloon and not fragile. It will protect the body and save it in its shape. Also person just exhales all the air because of the pressure difference. With all desire it won't be able to hold the air.
+
+A person who finds himself in space without a spacesuit will not turn into an icy and will not instantly freeze, because space is a vacuum. So the only way to lose heat is radiation which is insignificant. A person will feel cool, and water will evaporate from the surface of the body. Heat will be removed from the body very slowly.
+
+The blood of a person who is in space without a suit, will not boil. If the external pressure drops to zero at blood pressure 120/80 boiling point of blood will be 46 degrees, and it is above body temperature. Blood, unlike the same saliva, is in closed system, veins and vessels allow it to be in a liquid state even at low pressure. Water, unlike blood, will quickly evaporate from all surfaces of the body, including the eyes. Also, boiling water in soft tissues will cause an increase in the volume of some organs by about half and their damage.
+
+So we got to the main problem that's going to cause human death: absence of oxygen. The man will suffocate. After about 30 seconds, he will lose consciousness, because the air, as we know, he will have to exhale, the person will experience a state of deep hypoxia.  There will be loss of orientation and vision. However, if within one and a half minutes of the person nevertheless to place in the oxygen chamber, then, most likely, he will recover.
+
+So never forget your spacesuit when going into space. Because otherwise you will only have 30 seconds to return back (before losing consciousness).
+
+### TED. Go ahead, make up new words.
+
+- lexicographer - лексикограф
+- unconcious rules - неосознанные правила
+- obey - подчиняться, повиноваться
+- whippersnapper - сопляк
+- compound - соединение
+- butler - дворецкий
+- burgle - ограбить
+- absquatulate - смыться
+- mugwump - шишка, влиятельное лицо
+
+Main ideas:
+
+- Every language is just a group of people who agree to understand each other.
+- There are 2 types of grammar: 
+    + unconcious rules that you follow when you speak that language
+    + words usage
+- There are 6 ways to make new words in English
+    + Steal/borrow them from other language: *caramel*, *ninja*
+    + Squish 2 words together: *heartbroken*, *bookworm*, *sandcastle*
+    + Blend words - compound when some parts of words fall off: *brunch = breakfast + lunch*, *edutainment = education + entertainment*, *electrocute = electric + execute* 
+    + Functional shift - changing how the words operate, changing the word's part of speech: *commercial*
+    + Back-formation - take a word and squish it down a little bit: *word "editor" was before word "edit"*, *butlers - butle*, *burglers - burgle*
+    + Take the first letters of something and squish them together: *NASA*, *OMG*
+- You should make words because every word is a chance to express your idea and get your meaning across.
