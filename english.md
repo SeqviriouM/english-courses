@@ -32,6 +32,7 @@
 - [Lesson 27](#lesson-27)
 - [Lesson 28](#lesson-28)
 - [Lesson 29](#lesson-29)
+- [Lesson 30](#lesson-30)
 
 
 # Lesson 1
@@ -2094,8 +2095,6 @@ The main idea of the article is that a language attractive is connected to natio
 
 ### Murphy. Unit 73
 
-**ex. 1**
-
 ### Murphy. Unit 74
 
 ### Fictional language: Na'vi
@@ -2232,7 +2231,7 @@ Quickly turn off the computer and be sure to tell your mom!
 
 1. I don't like hot weather very much.
 2. I like bananas.
-3. I'm not interested kin opera.
+3. I'm not interested in opera.
 4. I don't mind fast food.
 5. I don't mind horror movies.
 
@@ -2321,7 +2320,7 @@ Quickly turn off the computer and be sure to tell your mom!
 3. France - a Frenchman - the French
 4. Russia - a Russian - Russians
 5. China - a Chinese - the Chinese
-6. Brazil - a Brazilian - the Brazilians
+6. Brazil - a Brazilian - Brazilians
 7. England - an Englishman - the English
 
 ### Coursebook p. 40-41
@@ -2946,12 +2945,12 @@ Businesses are most worried about disagreements over trade. Should the United Ki
 2. Well, if there are enough people, we can hire a minibus.
 3. I won't be going if it's too expensive.
 4-5. It won't cost much if we all share the cost.
-6-7. If I see the others later on tonight, I ask them if they want to go.
+6-7. If I see the others later on tonight, I'll ask them if they want to go.
 
 **ex. B**
 
 1. If Rachael fails her driving test, she can take it again.
-2. If United lose, Tom will be upset.
+2. If United loses, Tom will be upset.
 3. If the office is closed, Mark can't get in.
 4. If Nick arrives a bit early, he can help Tom to get things ready.
 5. If the party is going on all night, no one will want to do any work tomorrow.
@@ -2984,6 +2983,7 @@ So it was better Betty Botter bought some better butter.
 - draw - притягивать
 - drastically [ˈdræstɪklɪ] - радикально, кардинально
 - culrpit [kʌlprɪt] - виновник
+- pivot - стержень, точка поворота
 
 The story of why the Earth spins goes back to the formation of the Solar System. Roughly 4.7 billion years ago, the Solar System was a large swirling cloud of dust and gas. Over time this gradually coalesced into stars and planets, being drawn into these shapes by gravity. Being pulled inwards increased the angular momentum of the various bodies, and made them rotate faster.
 
@@ -3008,13 +3008,13 @@ Interestingly, early in its formation, the Earth spun up to five times faster th
 
 We have been taught in school and university that space is very dangerous. But after watching some movies we can start think that it is not true. Especially after Star Wars where main characters fought on the collapsing spaceship and freely breath in space. So let's talk about what happens to the unprotected body in space.
 
-First of all a person will not explode, no matter how bright it may be shown in science fiction films. Human tissues/fabric are not elastic balloon and not fragile. It will protect the body and save it in its shape. Also person just exhales all the air because of the pressure difference. With all desire it won't be able to hold the air.
+First of all a body will not explode, no matter how bright it may be shown in science fiction films. Human tissues/fabric are not elastic balloon and not fragile. It will protect the body and save it in its shape. Also person just exhales all the air because of the pressure difference. With all desire it won't be able to hold the air.
 
 A person who finds himself in space without a spacesuit will not turn into an icy and will not instantly freeze, because space is a vacuum. So the only way to lose heat is radiation which is insignificant. A person will feel cool, and water will evaporate from the surface of the body. Heat will be removed from the body very slowly.
 
-The blood of a person who is in space without a suit, will not boil. If the external pressure drops to zero at blood pressure 120/80 boiling point of blood will be 46 degrees, and it is above body temperature. Blood, unlike the same saliva, is in closed system, veins and vessels allow it to be in a liquid state even at low pressure. Water, unlike blood, will quickly evaporate from all surfaces of the body, including the eyes. Also, boiling water in soft tissues will cause an increase in the volume of some organs by about half and their damage.
+The blood of a person who is in space without a suit, will not boil. If the external pressure drops to zero boiling point of blood will be 46 degrees, and it is above body temperature. Blood, unlike the same saliva [səˈlaɪvə], is in closed system. Veins and vessels allow it to be in a liquid state even at low pressure. Water, unlike blood, will quickly evaporate from all surfaces of the body, including the eyes. Also, boiling water in soft tissues will cause an increase in the volume of some organs by about half and their damage.
 
-So we got to the main problem that's going to cause human death: absence of oxygen. The man will suffocate. After about 30 seconds, he will lose consciousness, because the air, as we know, he will have to exhale, the person will experience a state of deep hypoxia.  There will be loss of orientation and vision. However, if within one and a half minutes of the person nevertheless to place in the oxygen chamber, then, most likely, he will recover.
+So we got to the main problem that's going to cause human death: absence of oxygen. The man will suffocate. After about 30 seconds, he will lose consciousness [kɔnʃəsnɪs], because the air, as we know, he will have to exhale. The person will experience a state of deep hypoxia.  There will be loss of orientation and vision. However, if within one and a half minutes of the person nevertheless to place in the oxygen chamber, then, most likely, he will recover.
 
 So never forget your spacesuit when going into space. Because otherwise you will only have 30 seconds to return back (before losing consciousness).
 
@@ -3044,3 +3044,148 @@ Main ideas:
     + Back-formation - take a word and squish it down a little bit: *word "editor" was before word "edit"*, *butlers - butle*, *burglers - burgle*
     + Take the first letters of something and squish them together: *NASA*, *OMG*
 - You should make words because every word is a chance to express your idea and get your meaning across.
+
+# Lesson 30
+
+- solution - решение, раствор
+- vial - пробирка, флакон
+- irritants - раздражители
+- hand over the cryptographic “keys” - предоставить ключи шифрования
+- have been caught in the crossfire - попали под перекрестный огонь
+
+## Homework
+
+### Coursebook p. 44 - 45
+
+**ex. 1**
+
+1. IMA need an English language programme because the work in over 80 countries all over the world. And there are a lot of volunteers.
+2. The Human Resourse Department is responsible for planning the programme.
+
+**ex. 2a**
+
+One of the main problem is budget.
+
+**ex. 3b**
+
+1. *The English language training of the directors and senior staff*
+
+- Sven said to sent directors and senior staff to Britain. Quick way to improve English.
+- Don said it would be a bad effect on their business.
+- Delphine said they need everyone there to deal with the work.
+
+The decided to send 1 or 2 directors and a few senior staff. And offer for others class courses at free time.
+
+2. *The choice of British or American English*
+
+- Delphine suggested to hire two teachers (British and American)
+
+3. *The English training of the volunteers*
+
+- The budget is limited so, good luck :)
+
+
+**ex. 4**
+
+1. know about
+2. will have
+3. are
+4. would work
+5. like
+6. idea
+7. good idea
+8. worth considering
+9. sure about
+
+## Workbook p. 28 - 29
+
+**ex. 1**
+
+1. If the government spends more money on language teaching, foreign language won't die out.
+2. If we teach languages in school, there won't be time for subjects like maths or science.
+3. Unless we work harder, we won't finish on time.
+4. If they revise more, they'll pass the exam.
+5. When I get to work, I'll check my diary.
+6. If we liave now we'll arrive on time.
+7. It won't cost much if you book now.
+8. You might learn more words, if you study more.
+
+**ex. 2**
+
+1. I will see you tonight, unless you change your mind.
+2. We'll eat when you arrive.
+3. You'll forget your Frensh, if you don't us it.
+4. My daughter will start work ass a doctor as soon as she's qualified.
+5. No one will help uoi, if you don't ask.
+6. I won't come if I'm not invited.
+7. What will you say, if you see him?
+8. If the school doesn't offer French, where will you study it?
+
+**ex. 3a**
+
+1. The government
+2. The children will need to be bilingual to get a job
+3. The children also need more important subjects like maths and science
+4. More language classes will cost more money.
+
+**ex. 3b**
+
+1. might die out
+2. get a job
+3. culture
+4. maths or science
+5. costs money
+6. everybody speaks English
+
+**ex. 5**
+
+1. False
+2. False
+3. False
+4. True
+5. True
+6. False
+7. False
+
+**ex. 6**
+
+1. Some people believe that if more money and resources aren't given to traditional foreign language classrooms in the USA, languages such as French and German might die out.
+2. If we offer American Sign Language (ASL), we'll have enough students for three courses.
+3. Unless colleges offer these kinds of courses, deaf people will never really be part of society.
+4. One reason is because some colleges won't accept it as a language if you can't speak it.
+5. If ASL is equal to traditional languages, it will have the same number of words and emotional range.
+6. IF you understand and use sign language, you'll understand the world the same as in any other language.
+
+### Oxford Practice Grammar. Unit 145
+
+**ex. A**
+
+- nuisance - неприятность
+- clumsy - неуклюжий
+
+1. I'm sorry. If I had a dictionary I could look the word up.
+2. I've got so much to do. If I wasn't so busy I would write to my friends.
+3. It's a nuisance. If my back wasn't aching I could play tennis.
+4. Of course, if Claire loved Henry she would marry him.
+5. Nick's lost, but if he had a map he could find the way.
+6. You know, if he wasn't so clumsy he wouldn't have so many accidents.
+
+**ex. B**
+
+1. you wouldn't play
+2. we go
+3. I didn't play
+4. it would be
+5. you think
+6. you thought
+7. it would be
+8. it won't do
+9. I wouldn't get
+
+**ex. C**
+
+1. The phone doesn't work.
+2. It might rains.
+3. Mike isn't here.
+4. The spoon isn't silver.
+5. Sarah might calls.
