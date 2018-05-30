@@ -33,6 +33,7 @@
 - [Lesson 28](#lesson-28)
 - [Lesson 29](#lesson-29)
 - [Lesson 30](#lesson-30)
+- [Lesson 31](#lesson-31)
 
 
 # Lesson 1
@@ -3189,3 +3190,57 @@ The decided to send 1 or 2 directors and a few senior staff. And offer for other
 3. Mike isn't here.
 4. The spoon isn't silver.
 5. Sarah might calls.
+
+# Lesson 31
+
+## Homework
+
+- Russia: 249 working days
+- USA: 250 working days
+- UK: 253 working days
+
+### Halloween (UK)
+
+- pumpkin - тыква
+- turnip - репа
+
+Halloween or Hallowe’en is now celebrated across the world on the night of 31st October. It is a relatively [ˈrelətɪvlɪ] calm event. Children dress up in costumes and go ‘trick or treating’ around the neighbourhood.  Trick or Treating involves knocking on a neighbours door, and saying ‘Trick or Treat’.  The neighbour then either plays a trick on the child, or gives them a treat (usually sweets).  It is very rare for neighbours to play tricks on the children, so the children enjoy the festival because they go home with a bag of sweets!
+
+The origins of Halloween can be traced back to the ancient Celtic festival of Samhain. Until 2,000 years ago, the Celts lived across the lands we now know as Britain, Ireland [ˈaɪələnd] and northern France. Essentially a farming and agricultural people, the Samhain marked the end of summer and the harvest and the beginning of the dark cold winter. The festival symbolised the boundary between the world of the living and the world of the dead.
+
+It was believed by the Celts that on the night of 31st October, ghosts of their dead would revisit the mortal world and large bonfires were lit in each village in order to ward off any evil spirits.
+
+In the decades that followed, Britain was also invaded by a new religion. Christian teaching and faith was arriving. Along with the Christians arrived the Christian Festivals and amongst them “All Hallows’ Day”, also known as “All Saints Day”, a day to remember those who had died for their beliefs.
+
+Originally celebrated on 13th May, it was Pope Gregory who had the date of the All Hallows’ feast moved to 1st November sometime in the 8th century. It is thought that in doing so, he was attempting to replace or assimilate the Celtic Samhain festival of the dead with a related but church approved celebration.
+
+The night or evening of Samhain therefore became known as All-hallows-even then Hallow Eve, still later Hallowe’en and then of course Halloween. A special time of the year when many believe that the spirit world can make contact with the physical world, a night when magic is at its most potent.
+
+Throughout Britain, Halloween has traditionally been celebrated by children’s games, telling ghost stories and the carving faces in vegetables such as turnips. These faces would usually be illuminated from within by a candle to ward off any evil spirits. The current use of pumpkins is a relatively modern innovation imported from the United States.
+
+
+### Columbus Day (USA)
+
+*October 8–14 (floating Monday)*
+
+Honors Christopher Columbus, the first European to land in mainland Americas after Leif Erikson. In Berkeley, CA this day is observed as Indigenous People's Day, in honor of the Native Americans who lived in the Americas long before Columbus "discovered" the area.
+
+
+Fewer than half the states recognize Columbus Day. 13 - 16% businesses offering paid time off and 8% Americans celebrating.
+
+
+### New Year's Day (USA)
+
+*December 31* 
+
+Known for being the most drunk holiday.
+
+37 - 45% Americans celebrating.
+
+### Christmas (USA)
+
+*December 25*
+
+Christmas celebrations are evidenced by decorations which give off light and exchanging of gifts between family members and friends. Most popular based on greeting card sales.
+
+92 – 96% Americans celebrating. Major symbols of this holiday are the Christmas tree and Christmas music. Christmas is the celebration of Jesus Christ's birth.
