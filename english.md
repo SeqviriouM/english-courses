@@ -34,6 +34,7 @@
 - [Lesson 29](#lesson-29)
 - [Lesson 30](#lesson-30)
 - [Lesson 31](#lesson-31)
+- [Lesson 32](#lesson-32)
 
 
 # Lesson 1
@@ -3221,12 +3222,11 @@ Throughout Britain, Halloween has traditionally been celebrated by children’s 
 
 ### Columbus Day (USA)
 
-*October 8–14 (floating Monday)*
+*October 8–14 (the second Monday of October)*
 
-Honors Christopher Columbus, the first European to land in mainland Americas after Leif Erikson. In Berkeley, CA this day is observed as Indigenous People's Day, in honor of the Native Americans who lived in the Americas long before Columbus "discovered" the area.
+Columbus Day is a national holiday in many countries of the Americas and elsewhere which officially celebrates the anniversary of Christopher Columbus's arrival in the Americas on October 12, 1492 (the first European landed in America after Leif Erikson). In some states this day is observed as Indigenous People's Day (or Native American), in honor of the Native Americans who lived in the Americas long before Columbus "discovered" the area.
 
-
-Fewer than half the states recognize Columbus Day. 13 - 16% businesses offering paid time off and 8% Americans celebrating.
+Fewer than half the states recognize Columbus Day (23 states). 13 - 16% businesses offering paid time off and 8% Americans celebrating.
 
 
 ### New Year's Day (USA)
@@ -3244,3 +3244,170 @@ Known for being the most drunk holiday.
 Christmas celebrations are evidenced by decorations which give off light and exchanging of gifts between family members and friends. Most popular based on greeting card sales.
 
 92 – 96% Americans celebrating. Major symbols of this holiday are the Christmas tree and Christmas music. Christmas is the celebration of Jesus Christ's birth.
+
+
+### Article
+
+- contempt - презрение, неуважение
+- wrongdoing - правонарушение
+- uphold social norms - поддерживать социальные нормы
+- clarify - прояснить, разъяснить
+- bully - хулиган, задира
+- vastly - значительно
+- deliberately - умышленно, сознательно
+- bad eggs - негодяй
+- single-handedly - самостоятельно
+- notorious - общеизвестный, печально известный
+- misinterprets [ˈmɪsɪnˈtɜːprɪt] - неверно истолковывать
+- mischievous [ˈmɪsʧɪvəs] genie [ˈʤiːnɪ] - озорной джин
+- holy grail of internet success - Святой Грааль успеха в интернете
+- self-obsession - одержимость собой
+- frivolity - легкомыслие, фривольность
+- vibrant - живой, оживленный
+- false impression of the signs of fertility and sexual availability - ложное впечатление о признаках плодородия и сексуальной доступности
+- tomfoolery - дурачество, шутовство
+- omnipresence - вездесущность
+- bemoan - оплакивать, сетовать
+
+"The omnipresence of comedy in social media has created a new way of delivering information to the public", he confirms. "Entertainment accounts cater to a wider audience, delivering current news and addressing social issues wrapped in humour. It makes it easier to work through sensitive subjects."
+
+# Lesson 32
+
+## Homework
+
+### Tongue twister
+
+Luke Luck likes lakes.
+
+Luke's duck likes lakes.
+
+Luke Luck licks lakes.
+
+Luck's duck licks lakes.
+
+Duck takes licks in lakes Luke Luck likes.
+
+Luke Luck takes licks in lakes duck likes.
+
+
+Bobby Bippy bought a bat.
+
+Bobby Bippy bought a ball.
+
+With his bat Bob banged the ball
+
+Banged it bump against the wall
+
+But so boldly Bobby banged it
+
+That he burst his rubber ball
+
+"Boo!" cried Bobby
+
+Bad luck ball
+
+Bad luck Bobby, bad luck ball
+
+Now to drown his many troubles
+
+Bobby Bippy's blowing bubbles.
+
+
+### Murphy. Unit 80.
+
+**ex. 1**
+
+1. a concert ticket
+2. health problems
+3. a job interview
+4. holiday pictures
+5. milk chocolate
+6. a factory inspector/inspector
+7. a race horse
+8. a horse race
+9. running shoes
+10. a university student
+11. exam results
+12. the living room carpet
+13. an oil company scandal
+14. car factory workers
+15. a road improvement scheme
+16. a New York department store
+17. a five-day course
+18. a two-part question
+19. a thirty-year-old man
+
+**ex. 2**
+
+1. a road accident
+2. a seat belt
+3. a credit card
+4. the weather forecast
+5. a newspaper editor
+6. a shop window
+7. your room number
+8. a birthday party
+9. a truck driver
+
+**ex. 3**
+
+1. It's quite a long book. There are 450 pages.
+2. I didn't have any change. I only had a ywenty-pound note.
+3. I looked down and there were two ten-pound notes on the ground.
+4. At work in the morning I usually have a 15-minute break for coffee.
+5. There are 60 minutes in an hour.
+6. It's only a two-hour flight from London to Madrid.
+7. My office is on the tenth floor of a twelve-storey building.
+8. I work five-day a week. Saturday and Sunday are free.
+9. Five-star hotels are the most expensive.
+10. Sam's daughter is six-year-old.
+11. The oldest building in the city is the 500-year-old castle.
+12. Do you use the twelve-hour clockor the 24-hour clock?
+
+### Murphy. Unit 81.
+
+**ex. 1**
+
+1. Who is the owner of this restaurant?
+2. How old are the Chris's children?
+3. Is this your friend's umbrella?
+4. Write your name at the top of the page.
+5. I've never met the Charles's daughter.
+6. Have you met the Helen and Dan's son?
+7. We don't know the cause of the problem.
+8. Do we still have tha last Monday's newspaper?
+9. I don't know this song's words/I don't know the words of this song.
+10. What is the cost of a new computer?
+11. Your children's friends are here.
+12. Our neighbours' garden is very nice.
+13. I work on the ground floor of the building.
+14.  The David's hair is very long.
+15.  I couldn't go to Katherine's party.
+16.  Do you know the number of the man I need to speak?
+17.  Have you seen the Mike parents' car?
+18.  What's the meaning of this expression?
+19.  Do you agree with the economic policy of the government? / Do you agree with government's economic policy?
+
+**ex. 2**
+
+1. a woman's hat
+2. a boy's name
+3. children's clothes
+4. a girls' school
+5. a bird's nest
+6. a women's magazine
+
+**ex. 3**
+
+1. Tomorrow's meeting has been canceled.
+2. Last week's storm caused a lot of damage.
+3. The town's only cinema has closed down.
+4. Britain's weather is very changeable.
+5. The region's main industry is tourism.
+
+**ex. 4**
+
+1. So it's about two hours' drive from my house to the airport.
+2. So it's aboty twenty minutes' walk from my house to the centre.
+3. So I've got two weeks' holiday.
+4. So last night I only had an one hour's sleep / So last night I only had a hour's sleep.
