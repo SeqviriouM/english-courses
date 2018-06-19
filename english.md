@@ -3411,3 +3411,59 @@ Bobby Bippy's blowing bubbles.
 2. So it's aboty twenty minutes' walk from my house to the centre.
 3. So I've got two weeks' holiday.
 4. So last night I only had an one hour's sleep / So last night I only had a hour's sleep.
+
+# Lesson 33
+
+1. keep up with - make as much progress as others
+2. pick up - learn easily
+3. catch on - understand
+4. fall behind - make less progress than other people
+5. get by - survive
+6. let you down - dissapoint/fail
+7. take up - start doing something, e. g. a new activity
+
+# Lesson 34
+
+- a little (неисчеслямое)/ a few (исчесляемое) - немного, но достаточно
+- little/few - мало и недостаточно
+
+## Homework
+
+- snoopy - выслеживающий
+
+### The death penalty is acceptable in some cases
+
+- to abolish - упразднять, отменять
+- treason - измена, предательство
+- beheading - обезглавливание
+
+Capital punishment, also known as the death penalty. Fifty-six countries retain capital punishment, 103 countries have completely abolished it for all crimes, six have abolished it for ordinary crimes (while maintaining it for special circumstances such as war crimes), and 30 are abolitionist in practice. Although most nations have abolished capital punishment, over 60% of the world's population live in countries where the death penalty is retained, such as China, India, the United States, Indonesia, Pakistan, Bangladesh, Japan.
+
+Execution of criminals has been used by nearly all societies. Until the nineteenth century without developed prison systems, there was frequently no workable alternative. The execution itself was often involving torture with cruel methods such as the breaking wheel, slow slicing, burning, etc.
+
+In most countries that practise capital punishment it is now reserved for murder, terrorism, war crimes, espionage(spying), treason, or as part of military justice. In some countries sexual crimes carry the death penalty, as do religious crimes . In many countries that use the death penalty, drug trafficking is also a capital offence. In China, human trafficking and serious cases of corruption are punished by the death penalty. In militaries around the world courts-martial have imposed death sentences for offences such as cowardice, desertion, insubordination, and mutiny.
+
+The death penalty should be used in the *re-Commission of a serious crime. Everyone can make a mistake. But if someone commits a serious crime again (in the same field) he should be punished. Moreover in the future this person could kill more people even if he has a life sentence.
+
+
+# Lesson 35
+
+- pop the question - сделать предложение
+- spouce - супруг
+- be in gaged 
+- to take to wife - взять в жена
+- to break off engagement - разорвать помолвку
+- registry office - загс
+- civil ceremony - гражданская церемония
+- groom - жених на свадьбе
+- bride - невеста на свадьбе
+- fiance - жених
+- fiancee - невеста
+- to tight the knot - связаться узами брака
+- maid of honor - подружка невесты
+- groomsman - шафер
+- bachelorette / bridal shower - девичник
+- bachelor party / stag night - мальчишник
+- toss bucket - брость 
+- exchange rings - обмениваться кольцами
+- common-law wife - гражданская жена
