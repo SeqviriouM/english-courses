@@ -35,6 +35,10 @@
 - [Lesson 30](#lesson-30)
 - [Lesson 31](#lesson-31)
 - [Lesson 32](#lesson-32)
+- [Lesson 33](#lesson-33)
+- [Lesson 34](#lesson-34)
+- [Lesson 35](#lesson-35)
+- [Lesson 36](#lesson-36)
 
 
 # Lesson 1
@@ -3467,3 +3471,40 @@ The death penalty should be used in the *re-Commission of a serious crime. Every
 - toss bucket - брость 
 - exchange rings - обмениваться кольцами
 - common-law wife - гражданская жена
+
+## Homework
+
+|-| - pause
+
+Todd: So, Greg, you have a new book out, and you're book has lots of |-| controversial topics, and one of the topics is |-| organ donation. So first can you explain what organ donation is?
+
+Greg: Sure. Organ donation is when |-| a person living or dead allows his or   |-| her organs |-|-| to be used in another person.
+
+Todd: So for example like you donate a liver, or kidney or something like that.
+
+Greg: That's right.
+
+Todd: And usually they have to get it... the person who dies, they have to get it soon.
+
+Greg: Yes, that 100% right.
+
+|-|-|-|
+
+Todd: So is this something that's common in most countries?
+
+Greg: Well, actually some countries do not allow organ and tissue donation, or they allow only |-| some organs, some tissues and not allow others.
+
+Todd: You know, your book is about controversial topics. What is controversial about organ donation?
+
+Greg: Oh, there's a lot of |-|-| controversial aspects to organ donation. Hmmm again, as I mentioned there are differences in every country. Some countries do not allow organ donation. Some allow some organs and won't alow others 
+|-|-|-| and there are also cases where say maybe a thousand people need a kidney but there's only fifty kidneys. Who is gonna get it? Should the kidney go to the sickest person but who might die? Should it go to the oldest person? Should it go to the youngest person? Should it go to the richest person? How do you decide? What's a fair way to decide?
+
+Todd: Now, also I think in your book you were talking about |-| medical |-| tourism. Can you explain what that is?
+
+Greg: Medical tourism is when people go to |-| a country for the purpose of medical treatment which they can't get in their country either cause the treatment is not allowed or it's too expensive. |-|-| You know, relating back to the question of controversy, there are lot of countries in the world which are very poor, and people are willing to sell their organs actually, |-| so you have rich Arabs, rich Americans, rich Japanese, rich British people, people from any rich country, can't get an organ in their own country, |-| and they'll go to a poor country |_| to buy organs from poor people. Is that right? In some places it's illegal. |-|-| There are also laws in many countries that say someone must, before they die, give permission for the body parts to be used, |-| but |-| those body parts are sometimes taken from people after their death without permission.
+
+|-|-|
+
+Todd: Yeah, that's pretty controversial stuff. That's pretty deep.
+
+Greg: Yeah.
