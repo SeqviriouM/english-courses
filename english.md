@@ -3474,7 +3474,7 @@ The death penalty should be used in the *re-Commission of a serious crime. Every
 
 ## Homework
 
-|-| - pause
+**|-|** - pause
 
 Todd: So, Greg, you have a new book out, and you're book has lots of |-| controversial topics, and one of the topics is |-| organ donation. So first can you explain what organ donation is?
 
@@ -3508,3 +3508,148 @@ Greg: Medical tourism is when people go to |-| a country for the purpose of medi
 Todd: Yeah, that's pretty controversial stuff. That's pretty deep.
 
 Greg: Yeah.
+
+# Lesson 36
+
+- poverty - нищета
+- affiliated organizations - дочерние/аффилированные организации
+- enhance - усиление
+- to ensure - обеспечивать, гарантировать
+- illicit - незаконный, нелегальный
+- refugee [refjuːˈʤiː] -  беженец, эмигрант
+- international treaty - международный договор
+- council - совет, дума, управа
+- trusteeship - опека, попечительство
+- subsidiary bodies - вспомогательные органы
+- to convene - собираться, созывать
+- to obligate - обязывать, обязать
+- dispute - спор, конфликт
+- truce - перемирие, передышка
+- ceasefire  - прекращение огня
+- appointment - назначение, прием, должность
+- addmission - прем, принятие, признание
+- thereby - посредством этого, таким образом, тем самым
+- humanitarian - гуманитарный, гуманны, гуманист, гуманитарий
+- observance - соблюдение, обряд
+- to strengthened - укреплять, усиливать
+- сourt - суд, судебное заседание
+- judicial - судебный
+- governing body - руководящий/административный орган
+
+## Homework 
+
+### Translation
+
+- Система ООН - the UN system
+- Специализированные учреждения ООН - specialized UN agencies,
+- Государства-члены ООН - UN State Members,
+- Устав ООН - the UN Charter
+- Основные органы ООН - main UN organs
+- Генеральная Ассамблея - the General Assembly
+- Совет Безопасности - the Security Council
+- Экономический и социальный совет - the Economic and Social Council
+- Совет по опеке - the Trusteeship Council
+- Секретариат - the Secretariat
+- Международный суд в Гааге - the International Court of Justice in Hague
+- Центральные учреждения ООН - UN Headquarters
+- Очередная сессия ГА - annual regular GA session
+- Специальная сессия ГА - special GA session
+- Чрезвычайная специальная сессия ГА - emergency special GA session
+- Главные комитеты ГА - main GA committees
+- Вспомогательные органы - subsidiary bodies
+- Постоянные члены Совета Безопасности - permanent SC members
+- Генеральный секретарь - Secretary-General
+- Комиссия по правам человека - the Commission on Human Rights
+
+
+- Принимать на себя обязательства, изложенные в Уставе ООН - to agree to accept the obligations of the UN Charter
+- Устав ООН определяет основные принципы международных отношений - UN Charter sets out basic principles of international relations
+- Быть представленным в ГА - to be represented in the General Assembly)
+- Бюджет миротворческих операций - the budget for peacekeeping
+- Возобновить сессию - resume its session
+- Вносить изменения в членский состав СБ - to make changes in Council membership
+- Голосование по процедурным вопросам - votes on procedural questions
+- Рассмотреть пути мирного урегулирования проблемы - to explore ways to settle the dispute peacefully
+- Взять на себя роль посредника - to undertake mediation
+- Обеспечить прекращение огня - to secure a ceasefire
+- Направить миротворческую миссию - to send a peacekeeping mission
+- Сохранять перемирие - maintain the truce
+- Обеспечить разъединение противоборствующих сторон - to keep opposing forces apart
+- Обеспечить выполнение принятых решений - to enforce its decisions
+- Устанавливать эмбарго на поставки оружия - order an arms embargo
+- Совместные военные действия - collective military action
+- Укреплять международное сотрудничество - fostering international cooperation
+- Осуществлять контроль за соблюдением прав человека - to monitor the observance of human rights
+- Осуществлять международное наблюдение за подопечными территориями - to provide international supervision for Trust Territories
+- Внести поправки в правила процедуры - to amended its rules
+- Разрешать споры между сторонами - to decide disputes between countries
+- Предоставлять консультативные заключения по требованию ГА - to provide advisory opinions to the General Assembly upon request
+- Осуществлять общее административное руководство - to provide overall administrative guidance
+- Быть связанным с ООН посредством соглашений о сотрудничестве - to be linked to the UN through cooperative agreements
+- Межправительственные соглашения - intergovernmental agreement
+- Руководящий орган - governing body
+
+### UN abbreviations
+
+- ECOSOC - Экономический и Социальный Совет ООН
+- UNESCO - ЮНЕСКО
+- UNICEF (United Nations Children's Fund) - Международный чрезвычайный детский фонд ООН
+- WTO (World Trade Organization) - Всемирная торго́вая организация
+- IAEA (International Atomic Energy Agency) - Международное агентство по атомной энергии
+- IBRD (International Bank for Reconstruction and Development) - Междунаро́дный банк реконстру́кции и разви́тия
+- IMF (International Monetary Fund) - Международный валютный фонд
+- UNCTAD (United Nations Conference on Trade and Development) - Конференция ООН по торговле и развитию
+- UNFP (The National Union of Popular Forces) - Национальный Союз народных силn
+- UNHCR (United Nations High Commissioner for Refugees) - Управление Верховного комиссара ООН по делам беженцев
+- NGO (Non-governmental organization) - Общественная организация
+- UNDP (United Nations Development Programme) - Программа развития ООН
+- UPU (Universal Postal Union) - Всемирный почтовый союз
+- ILO (International Labour Organization) - Международная организация труда
+- WHO (World Health Organization) - Всемирная организация здравоохранения
+- FAO (Food and Agriculture Organization) - Продовольственная и сельскохозяйственная организация ООН
+- ICAO (International Civil Aviation Organization) - Международная организация гражданской авиации
+- IFC (International Financial Community) - Международная финансовая корпорация
+- IDA (International Development Association) - Международная ассоциация развития
+
+### The UNESCO
+
+- bias - предвзятость
+- withdrawal - выход
+- Chairman - председатель
+
+**Overview**
+
+The United Nations Educational, Scientific and Cultural Organization (UNESCO) is a specialized agency of the United Nations (UN) based in Paris. The agency was founded in the ashes of World War Two to protect the common cultural inheritance of humanity. Its declared purpose is to contribute to peace and security by promoting international collaboration through educational, scientific, and cultural reforms in order to increase universal respect for justice, the rule of law, and human rights along with fundamental freedom proclaimed in the United Nations Charter.
+
+**Members**
+
+The UNESCO include 195 member states and 10 associate members. Three UNESCO member states are not UN member states: Cook Islands, Niue, and Palestine, while one UN member state (Liechtenstein) is not a UNESCO member.
+
+**Programm**
+
+UNESCO contains five major programs: education, natural sciences, social/human sciences, culture and communication/information. Projects sponsored by UNESCO include literacy, technical, and teacher-training programs, international science programs, the promotion of independent media and freedom of the press, regional and cultural history projects, the promotion of cultural diversity, translations of world literature, international cooperation agreements to secure the world's cultural and natural heritage (World Heritage sites) and to preserve human rights.
+
+**How does it work?**
+
+The General Conference is the primary decision-making body, comprising representatives of all Member States. It meets every two years to determine the policies and main lines of work of the Organization. Following the principle of one vote per country, it approves UNESCO’s programme and budget. Every four years, it appoints the Director-General on the basis of the recommendation of the Executive Board.
+
+The Executive Board, composed of 58 Member States, meets twice a year to ensure that decisions taken by the General Conference are implemented. It is also responsible for preparing the work of the General Conference and examining the Organization’s programme and budget. 
+
+The Secretariat consists of the Director-General and staff. The Director-General is the executive head of the Organization. He or she formulates proposals for appropriate action by the Conference and Board and prepares a draft biennial programme and budget. The staff implements the approved programme. There are over 2000 staff members from some 160 countries (April 2003).
+
+UNESCO is the only UN agency to have a system of National Commissions in its Member and Associate States. The Commissions form a vital link between civil society and the Organization. They provide valuable insight concerning the Organization’s programme and help implement many initiatives including training programmes, studies, public awareness campaigns and media outreach. The Commissions also develop new partnerships with the private sector, which can provide valuable technical expertise and financial resources.
+
+The regular two-year budget is financed by Member States.
+
+**Voting**
+
+There are also (as in GA) two types of voting: simple majority and two-thirds majority (for special cases). Each country has one vote. 
+
+The nomination of a candidate for the post of Director-General shall be decided by secret ballot. All other elections and decisions relating to individuals shall be voted on by secret ballot whenever five or more Members shall so request or if the Chairman shall so decide.
+
+
+**Criticism: too little cash, too much politics**
+
+Laws passed in the United States in 1990 and 1994 mean that it cannot contribute financially to any UN organisation that accepts Palestine as a full member. As a result, it withdrew its funding which accounted for about 22% of UNESCO's budget. Israel also reacted to Palestine's admittance to UNESCO by freezing Israel payments to the UNESCO (hours later on the same day when USA announced its withdrawal). Two years after they stopped paying their dues to UNESCO, US and Israel lost UNESCO voting rights in 2013 without losing the right to be elected.
+
+“The fact is that UNESCO was all about solidarity and creating a climate for peace between countries, but nations now use their dues to influence programs,” said a UNESCO-based diplomat.
