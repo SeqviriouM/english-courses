@@ -39,6 +39,8 @@
 - [Lesson 34](#lesson-34)
 - [Lesson 35](#lesson-35)
 - [Lesson 36](#lesson-36)
+- [Lesson 37](#lesson-37)
+- [Lesson 38](#lesson-38)
 
 
 # Lesson 1
@@ -46,6 +48,7 @@
 ## Personality
 
 **Скороговорка**:
+
 >Three grey geese in the green grass grazing. Grey were the geese and green was the grazing
 
 geese - гуси
@@ -3653,3 +3656,110 @@ The nomination of a candidate for the post of Director-General shall be decided 
 Laws passed in the United States in 1990 and 1994 mean that it cannot contribute financially to any UN organisation that accepts Palestine as a full member. As a result, it withdrew its funding which accounted for about 22% of UNESCO's budget. Israel also reacted to Palestine's admittance to UNESCO by freezing Israel payments to the UNESCO (hours later on the same day when USA announced its withdrawal). Two years after they stopped paying their dues to UNESCO, US and Israel lost UNESCO voting rights in 2013 without losing the right to be elected.
 
 “The fact is that UNESCO was all about solidarity and creating a climate for peace between countries, but nations now use their dues to influence programs,” said a UNESCO-based diplomat.
+
+
+# Lesson 37
+
+- upbringing - воспитание
+- bagel [bɪˈgʌl] - бублик
+
+## Homework
+
+### How do gender stereotypes affect people?
+
+in everyday life there are many examples when stereotypes affect people. For example if some woman decided to become driver it will be not very simple task. In our lives there is stereotype that women are not very good drivers. So it will be difficult to ensure employer that you are good in this field.
+
+# Lesson 38
+
+- this money go to something - деньги идут на что-то
+- to travel on a budget - укладываются в бюджет / путешествовать экономно
+- money comes from - деньги поступают от
+- smart money - умно-вложенные деньги
+- to keep body in soul together - сводить концы с концами
+- to cost a small fortune - стоит целое состояние
+- to earn her crust - заработать на кусок хлеба
+- to tighten belts once well - затянуть ремни потуже
+- other side of the coin - другая сторона медали
+- money has no smell - деньги не пахнут
+- money laundaring
+- on the bread-line - за чертой бедности
+- to be in money - быть при деньгах
+- to cost in pretty penny - влететь в копечку
+- to balance the book - подводить итоги
+- to bring home the bacon - хорошо зарабатывать
+- go Dutch - разделить счет пополам
+- gravy train - прибыльное дело
+- nest egg - заначка
+- cheapskate - скряга
+- money to burn - денег куры не клюют
+- to spend like a sailor on shore live - очень быстро тратить деньги
+- from rags to riches - из грязи в князи
+
+
+
+----
+
+The first news will be about renting luxury cars.
+
+Mr Hashi (25 y.o.), from Newport, hired the luxury supercar Lamborghini from Saeed Ali Rent a Car on 7 August while visiting friends in Dubai. In four hours he triggered every speed camera on the Sheikh Zayed Road by driving at up to 150mph (240km/h). His fines totalled 175,000 dirhams, or £36,000 ($46,000).
+
+The dealership where Mr Hashi rented the Lamborghini Huracán told the city's newspaper, The National, he left his passport as a guarantee. The firm said it would not give him his documents until he paid the fines. But due to its laws the firm can't hold his documents. So after receiving all fines he can leave the country. But the company could not get the Lamborghini back from officials in Dubai until Mr Hashi paid the fine.
+
+He added his brother had not known about Dubai's speeding laws and had been forced to borrow money from a friend to pay for his extended stay. If you don't know laws doesn't mean that you can not follow them.
+
+The most amazing in this story, that Mr Hashi's family are planning to launch legal proceedings against the firm when he returns home. (because his brother said the firm seized his brother's passport after he had driven the car).
+
+--- 
+
+New tech lets submarines 'email' planes
+
+At present, it is difficult for planes to pick up underwater sonar signals because they reflect off the water's surface and rarely break through.
+
+Submarines communicate using sonar waves, which travel well underwater but struggle to break through the surface. Planes communicate using radio signals that do not travel well in water.
+
+The researchers found an extremely high-frequency radar could detect tiny ripples in water, created by an ordinary underwater speaker.
+This could let lost flight recorders and submarines communicate with planes.
+
+The system developed at MIT uses an underwater speaker to aim sonar signals directly at the water's surface, creating tiny ripples only a few micrometres in height.
+
+These ripples can be detected by high-frequency radar above the water and decoded back into messages.
+
+The researchers tested the idea in a swimming pool and were able to successfully receive the underwater messages from above the surface.
+However, the system can take a long time to send a large amount of data - and it does not work when there are waves taller than 16cm (6in) in the water.
+
+
+- hard boil egg - 
+- soft boild egg - 
+- scrambled egg - 
+- soft boil egg - 
+- cabage - капуста
+- cauli flower cabage - капуста
+- parsley - петрушка
+- radish - редиска
+- spinach - шпинат
+- cabage head - дурак
+- eggplants - баклажан
+- beet - свекла
+- baked, fried - жареный
+- boiled - отварный
+- stew - тушеный
+- rosted
+- mashed potatos - пюре
+- smoked - копченый
+- stuffed - фаршированный
+- date - финик
+- fig - фига
+- billbery - черника
+- bird cherry - 
+- cherry - вишня
+- currant - смородина
+- pineapple - ананас
+- pomegranate - гранат
+- tangerine - мандарин
+- gooseberry - крыжовник
+- strawberry - клубника
+- peanut - арахис
+- beef - говядина
+- veal - телятина
+- chop - отбивная 
+- sausage - колбаса
