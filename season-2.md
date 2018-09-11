@@ -4,6 +4,7 @@
 
 - [Lesson 1](#lesson-1)
 - [Lesson 2](#lesson-2)
+- [Lesson 3](#lesson-3)
 
 # Lesson 1
 
@@ -170,3 +171,35 @@ Yeah, take me to the top
 I'm ready for whatever it takes
 'Cause I love the adrenaline in my veins
 I do what it takes
+
+
+# Lesson 3
+
+## Homework
+
+1. Многие виды фруктов собираются неспелыми. Они созревают во воемя доставки. - Many kinds of fruit are collected unripe. They ripen during delivery.
+2. Этот лосось не дожарен. - This salmon is not cooked.
+3. Стейк оказался очень жестким. Я едва смог его разжевать. - The steak was very tough. I could barely chew it.
+4. Ягненок настолько нежный, что кажется будто он тает во рту. - The lamb is so tender that it seems as if it melts in the mouth.
+5. Брокколи переварена. Она должна быть более хрустящей. - Broccoli's digested. It should be crisper.
+6. Разогрей суп и сделай сэндвичи. - Heat the soup and make sandwiches.
+7. Разогрей обед в микроволновке. - Heat up lunch in the microwave..
+8. Лучший способ приготовить овощи - готовить их на пару в течение нескольких минут. - The best way to cook vegetables is to steam them for a few minutes.
+9. Растопите один кусочек масла для приготовления соуса. - Melt one piece of butter to prepare the sauce.
+10. Он выпил пинту эля в местном баре. - He had a pint of ale at a local bar.
+11. Я купил три буханки черного хлеба в магазине. - I bought three loaves of black bread at the store.
+12. Чем ты будешь заправлять салат? - What are you going to do with the salad?
+13. У нас будут закуски, первое и второе. - We will have a snack, entree and second dish.
+14. Тушить мясо с овощами на слабом огне. - Simmer meat with vegetables over low heat.
+15. Сварить картофель в мундире. - Boil the potatoes in their skins.
+16. Ой! Кофе убегает! - Wow! Coffee's running!
+17. Сколько кусочков сахара положить тебе? - How many pieces of sugar do you want?
+18. Застолье было великолепным. - The feast was great.
+19. Прошу вас к столу! - Please to the table!
+20. Угощайтесь! - 
+21. Разрешите за вами поухаживать. - Let me look after you.
+22. Кто хочет добавки? - Who wants more?
+23. Ой, нет - больше не могу. - Oh, no - I can't anymore.
+24. Наелся. - Eat till full.
+25. Объелся. - Overeaten.
+26. Что будет сегодня на ужин? - What's for dinner tonight?
