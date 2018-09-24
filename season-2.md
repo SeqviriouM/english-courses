@@ -5,6 +5,8 @@
 - [Lesson 1](#lesson-1)
 - [Lesson 2](#lesson-2)
 - [Lesson 3](#lesson-3)
+- [Lesson 4](#lesson-4)
+- [Lesson 5](#lesson-5)
 
 # Lesson 1
 
@@ -192,14 +194,161 @@ I do what it takes
 13. У нас будут закуски, первое и второе. - We will have a snack, entree and second dish.
 14. Тушить мясо с овощами на слабом огне. - Simmer meat with vegetables over low heat.
 15. Сварить картофель в мундире. - Boil the potatoes in their skins.
-16. Ой! Кофе убегает! - Wow! Coffee's running!
+16. Ой! Кофе убегает! - Wow! Coffee's boiling over!
 17. Сколько кусочков сахара положить тебе? - How many pieces of sugar do you want?
 18. Застолье было великолепным. - The feast was great.
 19. Прошу вас к столу! - Please to the table!
-20. Угощайтесь! - 
+20. Угощайтесь! - Please ehelp yourself!
 21. Разрешите за вами поухаживать. - Let me look after you.
 22. Кто хочет добавки? - Who wants more?
 23. Ой, нет - больше не могу. - Oh, no - I can't anymore.
 24. Наелся. - Eat till full.
-25. Объелся. - Overeaten.
+25. Объелся. - Overeaten/stuffed.
 26. Что будет сегодня на ужин? - What's for dinner tonight?
+
+# Lesson 4
+
+## Homework
+
+### Oxford Practice Grammar. Unit 144.
+
+**ex. A**
+
+1. would have been
+2. had lost
+3. would have scored
+4. she had been
+5. hadn't been
+6. wouldn't have given
+7. hadn't been
+8. it would have been
+9. we would have beaten
+10. he had been
+
+**ex. B**
+
+1. The guests might have had lunch outside if it had been warm enough.
+2. Sarah would have flown to Rome if airport hadn't been closed.
+3. Laura might have recognized Nick if he hadn't had a crash-helmet on.
+4. A plants wouldn't have died if Sarah had watered it in time.
+5. Nick would have got in ice hockey if he had had a ticket to the game.
+
+**ex. C**
+
+1. he was, he would have put
+2. I had paid, I wouldn't be
+3. you loved, you wouldn't have left
+
+### National stereotypes
+
+1. All Mexicans are bandits. Everybody else thinks that they are lazy and spend all day sleeping in the sun. 
+2. All Brazilians are unbelievably good-looking, have perfect tanned bodies, and spend all their time lounging around on beaches
+3. All Chinese People Know Kung-Fu
+4. All cheap products are "made in China".
+5. All japanese people are often represented as extremely polite.
+
+
+# Lesson 5
+
+## Homework
+
+**take after (somebody)**
+
+- Походить на кого-то. 
+
+*Mark is so serious. He takes after his father. - Марк такой серьезный. Весь в отца.*
+
+**take along**
+
+- Брать с собой (в дорогу), приводить, привозить.
+
+*Take me along. – Возьми меня с собой.*
+
+*She took her sister along to the hospital. – Она привела свою сестру в больницу.*
+
+**take apart**
+
+- Разбирать, анализировать,
+
+*He took his laptop apart to see if he could fix its problem. - Он разобрал свой ноутбук, чтобы посмотреть, может ли он решить проблему.*
+
+**take aside**
+
+- Отвести в сторону, отозвать (для разговора).
+
+*It was a serious question and she decided to take him aside in order not to involve others in the discussion. – Это был серьезный вопрос, и она решила отвести его в сторону, чтобы не вовлекать остальных в обсуждение.*
+
+**take away**
+
+- Убирать, забирать, отбирать
+- Вычитать, отнимать
+
+*You can take our plates away. – Можешь убирать со стола.*
+
+*He was taken away to prison. – Его отвезли в тюрьму.*
+
+*Take 10 away from 100. – Вычти десять из ста.*
+
+**take back**
+
+- Возвращать, взять обратно 
+- Признать, что ваше мнение неверно
+
+*It’s not easy to take back everything I said but I will do this. – Нелегко взять назад свои слова, но я это сделаю.*
+
+*Take this bag back to the shop and change it. – Отнеси эту сумку назад в магазин и поменяй.*
+
+**take down**
+
+- Снимать, разбирать, демонтировать
+- Записывать
+
+*She took down the picture from the wall. – Она сняла картину со стены.*
+
+*She took down my address and phone number and said she’d call me later. - Она записала мой адрес и номер телефона и сказала, что позвонит позже.*
+
+**take (somebody) in**
+
+- Обманывать
+
+*She was taken in by everything he said. - Он обманул ее всем тем, что сказал ей.*
+
+**take (something) in**
+
+- Брать, включать, слушать внимательно
+- Ушивать (одежду)
+- Усваивать
+
+*It was a boring lesson and I didn’t take in the essence of the new theme. – Это был скучный урок, и я не понял суть новой темы.*
+
+
+*She took in her skirt. – Она ушила свою юбку.*
+
+**take off**
+
+- Взлетать
+- Пользоваться успехом, популярностью
+- Уходить (в спешке), срываться с месте
+
+*When does the plane take off? - Когда взлетает самолет?*
+
+**take (something off)**
+
+- Снимать (одежду, обувь)
+- Сделать перерыв в работе (взять отгул)
+
+*I always take off my shoes as soon as I get home. - Я всегда снимаю обувь, как только прихожу домой.*
+
+*Jim took three days off to go skiing in the mountains. - Джим взял три дня отгула, чтобы покататься на лыжах в горах.*
+
+**take on**
+
+- Брать, взять на себя
+
+*Do you have time to take on a new project? - У тебя есть время, чтобы взять новый проект?*
+
+**take (somebody) on**
+
+- Нанимать (брать на работу)
+
+*The store took on more staff over the Christmas period. - Магазин нанял больше персонала на время Рождества.*
