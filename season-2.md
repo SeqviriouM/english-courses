@@ -7,6 +7,8 @@
 - [Lesson 3](#lesson-3)
 - [Lesson 4](#lesson-4)
 - [Lesson 5](#lesson-5)
+- [Lesson 6](#lesson-6)
+- [Lesson 7](#lesson-7)
 
 # Lesson 1
 
@@ -352,3 +354,82 @@ I do what it takes
 - Нанимать (брать на работу)
 
 *The store took on more staff over the Christmas period. - Магазин нанял больше персонала на время Рождества.*
+
+# Lesson 6
+
+## Homework
+
+### Gestures in English
+
+**UK gestures for two**
+
+In the UK, two fingers up in a V shape with the back of your hand towards the other person (“the V sign”) is almost as bad as the middle finger. You therefore have to be very careful how you gesture when you ask for “two items" in the UK. The most common way to show the number two is simply to turn your hand around so that your palm is facing the other person (“the peace sign”). You can also stop yourself from giving the V sign by bringing your two fingers together (without needing to turn your hand around). There is nothing offensive about using other fingers, say a thumb and index finger or the index fingers of both hands, but these are not common and it might take the other person a while to work out that you mean “two”.
+
+**Tapping your nose gesture/ Need to know gesture**
+
+Point up towards the sky with your right index finger and then touch the right side of your nose so that almost all of your index finger is touching it, from the top to the bottom of your nose. Tap the side of your nose around three times. This means that I’m not going to tell you something. The reason for touching the nose for this meaning is presumably the use of the word “nose” in the expressions “Don’t be nosy” and “Don’t poke your nose into other people’s business”
+
+**Touching wood gesture/ Knocking on wood gesture**
+
+Hold your hand in a fist, but perhaps with the middle knuckle a little further out than the other fingers. Knock your knuckle(s) on something wooden such as a table two or three times. This is done for good luck, or more specifically for taking away the bad luck that you might have attracted by suggesting that something great that could happen, as in “I really think that I will pass the exam this time, touch wood!” Note that it must be wood that you knock on, not metal etc. However, some people do knock themselves on their forehead as a kind of joke. Perhaps because most people don’t actually believe the superstition behind this gesture, it is also possible to say “… touch wood!” with this meaning without necessarily actually doing the action.
+
+**Neck cutting/ Slitting your neck gestures**
+
+There are two neck cutting gestures with very different meanings. The softer and more common one is done with your whole hand. Hold your right hand at the level of your neck with all of the fingers pointing towards it and your palm down. Twist your wrist clockwise and anticlockwise about three times, without changing the position of your arm. Your hand should make a cutting motion as it twists in front of your neck. This gesture means “Stop speaking” and/ or “Time’s up”. It is most often used by someone at the back of the presentation room to tell the presenter that they have to bring their presentation to a close. It can also be used with the meaning of “Don’t say that”, e.g. to tell someone else in your negotiating team not to give away that info to the other side.
+
+The other neck cutting gesture consists of your right index finger being drawn slowly from the left of your neck to the right side while touching the skin, making it really look like the horror movie version of cutting someone’s neck. Unsurprisingly, this gesture means “I will kill you (later)”, although it is usually used at least half jokingly. For example, I used to make this gesture towards my sisters at the dinner table when they told my parents things like “Today, I saw Alex throwing stones at…”to mean “I’ll get you later”.
+
+**Air quotes gesture**
+
+Make peace signs on both sides of your head with the middle fingers and index fingers of both hands in V shapes. Make sure that you have your palms facing towards the other person so you are not making rude V signs. Bend all four fingers down towards your palm and then point them almost straight up again about four times, finishing with curved fingers. This gesture is supposed to make the shape of quotation marks (“”). The meaning is the same as the ironic use of quotation marks in English writing, in phrases like “As everyone knows, he’s a ‘genius’”, meaning he’s not a genius at all and/ or only he thinks he is a genius. So if you say “It’s interesting” with no gesture is could really genuinely mean interesting, but if you make the air quotes gesture during the word “interesting” it would mean something like “It’s weird”.
+
+**Cross your heart gesture**
+
+With your right index finger, draw a vertical and then a horizontal line over the left side of your chest, as if you are drawing a (Christian) cross over your heart. This like a Catholic or Orthodox believer making a cross over their heart for religious reasons, but isn’t used that way in the Protestant churches that are most common in the UK. Instead, it just means “I promise (that I will do it/ that what I said is true)”, sometimes with the accompanying words “Cross my heart” or perhaps even the longer version “Cross my heart, hope to die, stick a needle in my eye”.
+
+**I/ Me gesture**
+
+There are several ways of indicating yourself in English, which all entail pointing to your chest in different ways. The best two are pointing at your chest with the index finger or all four fingers of one hand. Holding your heart with one hand usually means “I’m touched (by your kind gesture” and so can seem too emotional just for “I/ me/ my”. Pointing at your chest with your thumb is too macho for most situations
+
+**Shaking your head gestures**
+
+The most common way of saying “No” in English is to twist your neck so that your head turns from side to side. This is usually done about three times fairly slowly, but if it is done really slowly while looking down it has the stronger meaning of “I can’t believe you said that/ did that”, similar to a face palm.
+
+**Calm down gesture**
+
+Put out both hands palms down at about hip height, about 25 centimetres in front of you. Move the hands slowly up and down about five or ten centimetres. This means “calm down”, as in “don’t get angry”, and also “slow down” or “Please keep the volume down”. Although it can depend on how you do it, the calm down gesture is usually more polite than a finger in front of your lips if you want to ask someone to be quiet. 
+
+
+
+# Lesson 7
+
+- sweeping judgments - радикальные решения
+- struggling - борющийся
+- govern - управлять
+- significantly - значительно, 
+- whopping - колоссальный, необычайный
+- presence - присутствие, наличие
+- residue - остаток, осадок
+- impostor - самозванец
+- extent - степень
+- hunching - сгибающийся
+- sue - просить, предъвлять иск, судить
+- saliva - слюная
+- gamble - азартная игра
+- take a hand - отсечь руку
+- look the part - выглядеть соответсвующе
+- knuckles - коленки
+- tissue - салфетка
+- mop up - вытирать
+- eloquence - красноречие
+- pupil dilation - расширение зрачков
+- back up - резервировать , давать задний ход
+- clutch - схватить, держать
+- exaggerate - преувеличивать, утрировать
+- disarray - беспорядок, смятение
+- mettle - характер, темперамент
+- rind - коджура, корка, оболочка
+- cease - переставать, прекращать, тихать
+- chivalrous - рыцарский
+- splendor - великолепие
+- pluck - мужество, отвага
