@@ -9,6 +9,8 @@
 - [Lesson 5](#lesson-5)
 - [Lesson 6](#lesson-6)
 - [Lesson 7](#lesson-7)
+- [Lesson 8](#lesson-8)
+- [Lesson 9](#lesson-9)
 
 # Lesson 1
 
@@ -403,33 +405,156 @@ Put out both hands palms down at about hip height, about 25 centimetres in front
 
 # Lesson 7
 
-- sweeping judgments - радикальные решения
-- struggling - борющийся
+- sweeping judgments - радикальные решения +
+- struggling - борющийся +
 - govern - управлять
-- significantly - значительно, 
+- significantly - значительно + 
 - whopping - колоссальный, необычайный
-- presence - присутствие, наличие
-- residue - остаток, осадок
+- presence - присутствие, наличие +
+- residue - остаток, осадок +
 - impostor - самозванец
 - extent - степень
 - hunching - сгибающийся
-- sue - просить, предъвлять иск, судить
-- saliva - слюная
-- gamble - азартная игра
-- take a hand - отсечь руку
-- look the part - выглядеть соответсвующе
-- knuckles - коленки
-- tissue - салфетка
-- mop up - вытирать
+- sue - просить, предъвлять иск, судить +
+- saliva - слюна
+- gamble - азартная игра +
+- take a hand - отсечь руку +
+- look the part - выглядеть соответсвующе +
+- knuckles - коленки +
+- tissue - салфетка +
+- mop up - вытирать +
 - eloquence - красноречие
 - pupil dilation - расширение зрачков
-- back up - резервировать , давать задний ход
+- back up - резервировать , давать задний ход +
 - clutch - схватить, держать
 - exaggerate - преувеличивать, утрировать
 - disarray - беспорядок, смятение
 - mettle - характер, темперамент
-- rind - коджура, корка, оболочка
-- cease - переставать, прекращать, тихать
+- rind - кожура, корка, оболочка
+- cease - переставать, прекращать +
 - chivalrous - рыцарский
 - splendor - великолепие
 - pluck - мужество, отвага
+
+## Homework
+
+### Dark business
+
+Arkady didn't sleep this night. Any other night, he would be asleep like a baby. But tonight, he was sitting in his car and waiting when the last visitor has left the shop so he could implement his plan. He owed a lot of money to the bad guys. Maybe tomorrow he would be cut off the hand or be buried in the forest if he couldn't return the money. He decided to make a sweeping judgment. He saw drunk guys coming out of the near bar. And realized that the wait is not long. The absence of the moon was greatly simplifying the matter.
+
+The Manager turn off the ligth in the bar and closed the door. Arkady finished with the residue of Coca-Cola, mopped up his mouth by tissue and left his car. His knees were trembling as he walked to the store. Near the store's door he pulled out the key that he stole from a manager a week ago. He knew that if he was caught, he would spend the next year in jail in the company of black guys.
+
+He wanted back up a lot. But the thoughts about presence foreign object in his body (bullet) stopped (ceased) his doubts. He has started this dangerous gamble. He has started this dangerous gamble that could turn into a lawsuit. His chief could easily sue him, if he gave him this opportunity (such as his face caught on camera). So he looked the part: in a clown suit to make him more difficult to identify. And no one would say it was a boring robbery.
+
+He opened the door and easily turned off the alarm (as he knew the password). But what he saw coming to the counter caused his pupils to dilate and lose the gift of speech.
+
+To be continued...
+
+
+# Lesson 8
+
+## Homework
+
+1. **Get off** - *Wow, I'm seeing flying elephants - get off the drugs!* *Get your hands off me.* *I’ll try to come, but I’m not sure I’ll be able to get that week off.*
+2. **Break up** - *The marriage broke up just a few years later.* *The plane broke up in mid-air.*
+3. **Scroll down** - *The reason you can't see the image at the bottom of the document is because you haven't scrolled down enough.*
+4. **Run out of** - *Many hospitals are running out of money.* *If time is run out before you break up the chain, you will lose*
+5. **Top up** - *Freelance is a good way to top up your earnings*
+6. **Charge up** - *You should charge up your phone before the camping trip, as there won't be any power supplies.*
+7. **Phone in** - *Another reporter phoned in later with the story.*
+Phone in sick (=telephone to say that you are too ill to go to work): *Kevin’s just phoned in sick, so he won’t be at the meeting.*
+
+
+# Lesson 9
+
+## Homework
+
+### Politically incorrect jokes :laughing:
+
+```
+- What dow you call a barrister(адвокат) with an I.Q. of 25?
+- Your Honour.
+```
+
+```
+- Why are blonde jokes so short?
+- So men can remember them.
+```
+
+```
+- What do you call a woman who knows where her husband is every night?
+- A widow(вдова).
+```
+
+```
+- How far can you have sex?
+- 68 miles, at 69 you have to turn around.
+```
+
+```
+- Why can't cops change lightbulbs(лампочку)?
+- They just beat it for being dark.
+```
+
+```
+- What is common between a Bicycle and a Negro?
+- Both do not work without chains.
+```
+
+```
+*An American, A Frenchman, And a Mexican are sitting in a train car together, The Mexican is eating a taco. Stops. And throws it out the window. The Frenchman asks, "Why did you do that?" The Mexican responds, "We have so many in my country, I just wanted to." So the Frenchman takes a croissant and throws it out the window. Saying, "We have too many of these." He then turns to the American and asks, "What do you have too many of in your country?" The American then throws the Mexican out the window.
+```
+
+```
+- What does Nike and the KKK (Ku Klux Klan) have in common?
+- They both make black people run faster.
+```
+
+```
+- Why don't blacks like aspirin?
+- Because its white and it works.
+```
+
+```
+- What is a jew's(еврей) biggest dilemma?
+- Free pork(свинина).
+```
+
+```
+- Why do so many white people get lost skiing?
+- It's hard to find them in the snow.
+```
+
+```
+I’ll never understand how you can come up second in a biathlon. I mean – you’ve got a gun, haven’t you?!
+```
+
+```
+- What animal has five legs?
+- A pitbull returning from a playground.
+```
+
+```
+- What did the man with no hands get for Christmas?
+- No idea. He hasn’t opened his present yet.
+```
+
+
+```
+- Mommy, mommy, I found daddy!
+- How often do I have to tell you not to dig around in the garden!
+```
+
+```
+- Why did the one-armed man cross the road?
+- To get to the second hand shop.
+```
+
+```
+A priests asks the convicted murderer at the electric chair, "Do you have any last requests?” "Yes," replies the murderer. "Can you please hold my hand?"
+```
+
+```
+I got a job as a librarian, but it only lasted half an hour.
+Turns out, books about women's rights shouldn’t go in the Sci-Fi / Fantasy section.
+```
