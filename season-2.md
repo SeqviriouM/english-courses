@@ -11,6 +11,11 @@
 - [Lesson 7](#lesson-7)
 - [Lesson 8](#lesson-8)
 - [Lesson 9](#lesson-9)
+- [Lesson 10](#lesson-10)
+- [Lesson 11](#lesson-11)
+- [Lesson 12](#lesson-12)
+- [Lesson 13](#lesson-13)
+- [Lesson 14](#lesson-14)
 
 # Lesson 1
 
@@ -438,7 +443,7 @@ Put out both hands palms down at about hip height, about 25 centimetres in front
 
 ## Homework
 
-### Dark business
+### Dark business (part 1)
 
 Arkady didn't sleep this night. Any other night, he would be asleep like a baby. But tonight, he was sitting in his car and waiting when the last visitor has left the shop so he could implement his plan. He owed a lot of money to the bad guys. Maybe tomorrow he would be cut off the hand or be buried in the forest if he couldn't return the money. He decided to make a sweeping judgment. He saw drunk guys coming out of the near bar. And realized that the wait is not long. The absence of the moon was greatly simplifying the matter.
 
@@ -558,3 +563,232 @@ A priests asks the convicted murderer at the electric chair, "Do you have any la
 I got a job as a librarian, but it only lasted half an hour.
 Turns out, books about women's rights shouldn’t go in the Sci-Fi / Fantasy section.
 ```
+
+```
+When a women removes polish(блеск) with chemicals, no one bats an eye. But when Hilter removes the Polish with chemicals, everyone loses thier mind.
+```
+
+```
+- What is difference between Iron Man and Iron Woman?
+- One is a superhero and the other is a simple command
+```
+
+```
+- A black guy and a Mexican are in a car. Who's driving?
+- The cop.
+```
+
+```
+- Why do white people own so many pets?
+- Because they're not allowed to own people anymore
+```
+
+
+# Lesson 10
+
+- loco - безумец, псих, чокнутый
+
+## Homework
+
+### Slangs
+
+**Bail**
+
+Intransitive verb for leaving abruptly. To fail to show up for an important date.
+
+*He bailed on our dance projects - Он отказался от наших танцевальных проектов*
+
+*Let's bail - Давай свалим*
+
+
+**Feeling blue**
+
+Be depressed or sad.
+
+*I was really feeling blue after she told me she was leaving - Я был очень подавлен после того, как она сказала, что уходит*
+
+
+**Crash**
+
+- To sleep.
+- To stay at someone elses house for the night.
+- To show up somewhere uninvited or unexpectedly.
+
+*Dude, i'm going to go crash. See you later*
+
+*Is it okay if I crash here?*
+
+*Those guys crashed the party at my girlfriend's house*
+
+
+**Down to earth**
+
+- Sensible, practical.
+- To be genuine, real or being yourself.
+
+*She's a really down to earth person*
+
+*Even if a planet can be named after you, you should always remain down to earth*
+
+
+**Drive up the wall**
+
+To bother or annoy.
+
+*A week on vacation with my relatives is enough to drive me up the wall* 
+
+*That loud beeping noise is driving me up the wall!*
+
+
+**The Cold Shoulder**
+
+A tool of rejection in which the giver completely ignores the receiever.
+
+*Delilah gave me the cold shoulder yesterday at work, not even regarding my presence in the copy room*
+
+
+**Pig out**
+
+To overeaten.
+
+
+# Lesson 11
+
+## Homework
+
+### Dark business (part 2)
+
+Previously...
+
+*Arkady opened the door and easily turned off the alarm (as he knew the password). But what he saw coming to the counter caused his pupils to dilate and lose the gift of speech.*
+
+Behind the counter he saw his chief. A huge puddle of blood next to the head of his boss explicitly told that the boss wouldn't longer be a pain in the ass. But this fact didn't help to recover from what he saw. The usual robbery is becoming something more than just ordinary shoplifting. Arcady didn't want to be a partner in the murder. If cops catch him he will be up shit creek. So he decided to leave the shop before somebody notice him.
+
+But when he came to the door he saw a car that stopped near the shop. Four men got out of the car and started moving to the store. As Arkady noticed two of them had guns and looked very intimidating. "F*ck!" - said Arkady to himself. The way out through the front door was closed to him. He decided to hide behind the counter. This was the first place that came to his mind. 
+
+A few seconds after he hid behind the counter, the front door swung open and four people entered the store. The most important of them (as decided Arkady) turned to one of his partners: "Tom, hide the body and clean up the floor!" Then he turned to another pathner: "Open the door! Now! I wanna to finish as fast as possible." "Oops, I have forgotten card-key in the car...", said the second person which should open the door (which door Arkady didn't understand, because all doors in the shop are opened without card-keys). "You're such a birdbrain, you always forget something!", said the main, "Get it from the car! Or I swear you will be the next after this asshole on the floor!"
+
+While Arkady was listening the dialog between the main and his partner he hasn't noticed how Tom came to the counter and now was looking at him. "Who the hell (heck) are you? And what are you doing here?"
+
+At this moment Arkady realized that he fucked up.
+
+To be continued...
+
+
+# Lesson 12
+
+- poultry - дичь
+- souffle - суфле
+
+
+# Lesson 13
+
+## Clef sentences 
+
+**What/All**
+
+1. We need a better security - What/all we need is better security
+2. I don't like that people have such freedom online - What I don't like is that people have such freedom online
+3. I only bought smth on the Internet - All I did was buy smth on the Internet
+
+**What happens is/was**
+
+1. They connect to your computer and can access your documents - What happens is they connect to your computer and can access your documents.
+2. Telecomix set up Internet connections for the public in Egypt - What happend was Telecomix set up Internet connections for the public in Egypt.
+
+**It**
+
+1. Telecomix used to the Internet to support people in Egypt and Syria - It was Telecomix that used to the Internet to support people in Egypt and Syria.
+2. There was a protest last Friday - It was last Friday when there was a protest.
+3. The hackers were presecuted for accessing the system - It was accessing the system that the hackers were prosecuted for.
+
+**Other**
+
+1. The NSA spy on us for our own safety - The reason the NSA spy on us is that it's for our own safety.
+2. I spoke to the security consultant - The person who I spoke to was the security consultant.
+
+## Homework (clef sentences)
+
+**Exercise 1**
+
+1. Nick was late because he overslept, wasn't he? - No, it was a traffic jam on the ring road that he was late.
+2. How on earth did Nick let the boss know he'd be late? - Well, what Nick did to warn his boss that he would be late was to call her from his mobile phone.
+3. Wasn't Nick late on Wednesday? - No, it was on Monday that he was late.
+4. Nick's boss had to start the meeting without him, didn't she? - No, what she did was reschedule an important meeting for the afternoon.
+5. Didn't Nick get stuck in a traffic jam in the town centre? - No, not in the town centre; it was on the ring road where Nick got stuck.
+6. I heard the boss was a little annoyed with Nick for being late. - No she wasn't "a little annoyed". What she was was furious!
+
+**Exercise 2**
+
+1. We just need 5 minutes to fix it. - All we need is 5 minutes to fix it.
+2. I'm not questioning his dedication. - It isn't his dedication that I'm questioning. 
+3. These men are totally ruthless. - What ruthless these men are.
+4. We inherited everything except the house. - Only thing that we didn't inherit was the house.
+5. You know the sales assistant told me exactly the same things. - That's exactly the same thing that the sales assistant told me.
+6. We're taking the au-pair with us. What we are doing is taking au-pair with us.
+
+
+# Lesson 14
+
+## Inversion sentences
+
+*I have seldom seen such a good work. - Seldom have I seen such a good work.*
+
+Наречия для инверсии первой части предложения (стоят в начале предложения):
+
+- Seldom
+- Hardly
+- Never
+- Rarely
+- Only then
+- Not only ... but
+- No sooner
+- Scarcely
+- Only later
+- Nowhere
+- Little
+- Only in this way
+- In no way
+- On no account
+
+1. Hardly did I reach the bed when the phone rang.
+2. Never have I seen so exciting sights before.
+3. Rarely will you hear so esciting music.
+4. Only then did I realized why this accident happened.
+5. Not only love he hislive but also his misstress.
+6. No sooner came we home the police knocked the door.
+7. Scarcely did I get out the car.
+8. Only later did she thing over the situation.
+9. Nowhere have I faced so terrible service.
+10. Little did he know.
+11. Only in this way could John earn money to survive.
+12. In no way do you agree with what he says.
+13. On no account should you do anything without my permission.
+
+*Not since Lucy left college had she had such a wonderful time.*
+
+Наречия для инверсии второй части предложения (первая часть предложения не менятся, инверсия происходит во втрой части предложения):
+
+- Not since
+- Only after
+- Only when
+- Only by
+- Not until
+
+1. Only after I have seen her flat did I realized why she wanted to live there.
+2. Only when I came home did I calm down.
+3. Only by working hard can you achieve something.
+4. Not until I have seen her by my own eyes could I believe that she is as she is.
+
+Условнные предоложения:
+
+*If I had been there, the problem wouldn't have solved. - Had I been there, the problem wouldn't have solved.*
+
+*If we had arrived sooner, we could have prevented this tradegy. - Had we arrived sooner, we could have prevented this tradegy*
+
+Наречия места:
+
+1. All the money we had lost was on the table. - On the table was all the money we had lost.
+2. People were round the corner. - Round the corner were people.
+3. The girl was so heard that nobody could talk of anything else. - So beautiful was the girl that nobody could talk of anything else.
+4. The food was so tasty that we ate every last bite. - So tasty was the food that we ate every last bite.
