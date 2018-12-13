@@ -16,6 +16,7 @@
 - [Lesson 12](#lesson-12)
 - [Lesson 13](#lesson-13)
 - [Lesson 14](#lesson-14)
+- [Lesson 15](#lesson-15)
 
 # Lesson 1
 
@@ -792,3 +793,53 @@ To be continued...
 2. People were round the corner. - Round the corner were people.
 3. The girl was so heard that nobody could talk of anything else. - So beautiful was the girl that nobody could talk of anything else.
 4. The food was so tasty that we ate every last bite. - So tasty was the food that we ate every last bite.
+
+# Lesson 15
+
+## Passive voice
+
+**Present Simple**
+
+*I make a cake - A cake is made by me.*
+
+**Present Continuous**
+
+*I'm making a cake - A cake is being made by me.*
+
+**Past Simple**
+
+*I made a cake - A cake was made by me.*
+
+**Past Continuous**
+
+*I was making a cake - A cake was being made by me.*
+
+**Present Perfect**
+
+*I have made a cake - A cake has been made by be.*
+
+**Present Perfect Continuous**
+
+*I have been making a cake - A cake has been being made by cake.*
+
+**Past Perfect**
+
+*I had made a cake - A cake had been made by me.*
+
+**Future Simple**
+
+*I will make a cake - A cake will be made by me.*
+
+**Future Perfect**
+
+*I will have made a cake  - A cake will have been made by me.*
+
+**Going to**
+
+*I am going to make a cake - A cake is going to be made by me.*
+
+**Modals**
+
+*I must make a cake - A cake must be made by me.*
+
+*I need to make a cake - A cake needs to be made by me.*
